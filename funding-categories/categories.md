@@ -4,7 +4,7 @@ description: A list of suggested categories to use for allocating Catalyst fundi
 
 # Categories
 
-The following are the suggested high level categories which provides a simpler way to do [funding allocation](../analysis/funding-allocation-approaches.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
+The following are the suggested high level categories that provide a simpler way to do [funding allocation](../analysis/funding-allocation-approaches.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
 
 
@@ -68,26 +68,16 @@ The DApps and integrations category looks for proposals for any project looking 
 
 **Catalyst Contributors**
 
-Catalyst contributors are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes being used. Proposals in this category are potential candidates who would like to be paid to support a specific focus area.
+[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes being used. Proposals in this category are potential candidates who would like to be paid to support a specific focus area.
 
 
 
-**Stake Pool Contributors**
+**Cardano Contributors**
 
-Stake pool contributors are a category for people to apply to work full time in supporting the stake pool ecosystem in Cardano. Proposals in this category are potential candidates who would like to be paid to support a specific focus area.
+[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) are a category for people to apply to work full time in supporting the Cardano ecosystem. This includes both stake pool operators who help to ensure the chain is operational and also the development of tools, libraries and SDKs that the wider community will use to build on top of Cardano.
 
 
 
 **Catalyst Natives**
 
 Other ecosystem projects can introduce their own funding challenge into the process with their own self determined funding allocation amounts for rewarding proposals.
-
-
-
-### Future considerations
-
-
-
-**Cardano Contributors**
-
-Currently IOG deal with the release and maintenance of the Cardano blockchain. In the future this will change and in that event it will make sense to consider having full time contributors who help support the maintenance, coordination and improvement of the Cardano blockchain. Cardano contributors could merge with stake pool contributors as they are closely tied. A lot of discussion is needed to explore how contributors should work in this area of the ecosystem.

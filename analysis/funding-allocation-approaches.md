@@ -117,7 +117,7 @@ To resolve the issue of needing to justify the categories there would need to be
 
 ### Summary
 
-* **Specificity adds budget complexit**y - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
+* **Specificity adds budget complexity** - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
 * **Specificity adds justification complexity** - The more categories that get added to a funding round the more difficult it gets to justify why that category is more important than any other category that may be being excluded.
 * **Easier to solve proposal visibility and targeted funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is targeted to certain areas.
 * **Broader categorisation takes far less effort and governance** - Less information, governance and tools are needed for more broad categorisation as there's less effort needed for justifying the categories and the budget that each one has.

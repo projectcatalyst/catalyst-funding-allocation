@@ -35,7 +35,7 @@ The budget weighting for challenge settings is self determined by the proposal. 
 
 **Overly specific challenge settings**
 
-The general guidelines for challenge setting proposals are to not be too broad but also not too specific. As the proposer is free to make any challenge the risk still exists that the challenge could be overly specific. For instance a challenge setting called [Connecting Japan/日本 Community](https://cardano.ideascale.com/c/campaigns/26238/about) focusses on the country of Japan. The population for Japan is around 125 million. The total worldwide population is 7.9 billion. The challenge targets around 1.58% of the global population which makes the challenge very specific. This adds complexity as more data, reasoning and evidence is needed to provide confidence on whether this specificity of focus is an effective way to direct funding over other areas.
+The general guidelines for challenge setting proposals are to not be too broad but also not too specific. As the proposer is free to make any challenge the risk still exists that the challenge could be overly specific. For instance a challenge setting called [Connecting Japan/日本 Community](https://cardano.ideascale.com/c/campaigns/26238/about) focusses on the country of Japan. The population for Japan is around 125 million. The total worldwide population is 7.9 billion. The challenge targets around 1.58% of the global population which makes the challenge very specific. This adds complexity as more data, reasoning and evidence is needed to provide confidence on whether this specificity of focus is an effective way to direct funding over other areas. The example above is not trying to suggest what specific challenge is and is not effective for funding allocation. Instead the only important thing to highlight is how specific challenges increase the complexity of justifying and governing the decisions of where to allocate funding which impacts all stakeholders in the ecosystem.
 
 
 
@@ -53,7 +53,7 @@ Currently proposers do not need to provide any data or supporting evidence as to
 
 **Requires high stakeholder involvement**
 
-Creating and selecting challenges for future rounds is time consuming and complex for every engaged community member in the Catalyst ecosystem. Each community member needs to understand the needs of the ecosystem, the proposals that have been created and to rank which ones are most suitable and sensible.
+Creating and selecting challenges for future rounds is time consuming and complex for every engaged community member in the Catalyst ecosystem. Each community member needs to more deeply understand the needs of the ecosystem, the proposals that have been created and to rank which ones are most suitable and sensible.
 
 ****
 

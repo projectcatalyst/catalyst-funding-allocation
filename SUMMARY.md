@@ -4,9 +4,10 @@
 
 ## Funding Categories
 
+* [Overview & Benefits](funding-categories/overview-and-benefits.md)
 * [Categories](funding-categories/categories.md)
 * [Rapid Funding](funding-categories/rapid-funding.md)
-* [Categories And Existing Challenges](funding-categories/categories-and-existing-challenges.md)
+* [Categories & Existing Challenges](funding-categories/categories-and-existing-challenges.md)
 
 ## Analysis
 

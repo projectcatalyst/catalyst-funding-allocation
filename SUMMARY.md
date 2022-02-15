@@ -12,6 +12,7 @@
 ## Analysis
 
 * [Catalyst & High Level Categories](analysis/catalyst-and-high-level-categories.md)
+* [Categorisation Comparisons](analysis/categorisation-comparisons.md)
 * [Funding Allocation Approaches](analysis/funding-allocation-approaches.md)
 
 ## Background

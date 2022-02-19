@@ -8,13 +8,13 @@ description: A comparison of different approaches for allocating funding
 
 There are a number of ways that funding could be allocated to distribute the Cardano treasury funding. One very important factor is how broad or specific the categorisation of that funding allocation is.
 
-![](<../.gitbook/assets/broad-vs-specific (2).png>)
+![](<../.gitbook/assets/broad-vs-specific (1).png>)
 
 **No categories -** Funding goes through a single grouped process. Proposals compete with every other proposal.
 
 
 
-**High level categories -** Funding is allocated between a small number of high level categories with a larger budget weighting applied to each of them. Examples categories include DApps & integrations, Catalyst ecosystem and Cardano ecosystem.
+**Broad categories -** Funding is allocated between a small number of broad categories with a larger budget weighting applied to each of them. Examples categories include DApps & integrations, Catalyst ecosystem and Cardano ecosystem.
 
 
 
@@ -51,18 +51,18 @@ There are a number of ways that funding could be allocated to distribute the Car
 
 
 
-### **High level categories**
+### **Broad categories**
 
 **Advantages**
 
-* **Open funding** - Funding is very open as any area in the ecosystem should be able to create proposals into one of the high level categories. High level categories would only be slightly restrictive as they will have a budget allocated to them meaning only a certain amount of proposals could be funded for a given category.
+* **Open funding** - Funding is very open as any area in the ecosystem should be able to create proposals into one of the broad categories. Broad categories would only be slightly restrictive as they will have a budget allocated to them meaning only a certain amount of proposals could be funded for a given category.
 * **Low budget weighting complexity** - Usage of only a few categories results in a low complexity for determining what amount of funding should be allocated to each one.
-* **Low categorisation justification** - High level categories can allow any type of proposal to be added meaning there is low justification on why the categories are used in each funding round as they are inclusive to all ideas and innovation.
+* **Low categorisation justification** - Broad categories can allow any type of proposal to be added meaning there is low justification on why the categories are used in each funding round as they are inclusive to all ideas and innovation.
 
 **Issues**
 
 * **Difficult targeted funding** - Directing the funding is more difficult as more types of proposals are competing under the same category. It is down to the voters for targeted funding when deciding which proposals to vote on.
-* **Low proposal visibility** - Having only a few high level categories makes it hard for some proposals to stand out against larger more established teams. There could be a need for some form of tagging and community curated lists to help aid in visibility for smaller teams.
+* **Low proposal visibility** - Having only a few broad categories makes it hard for some proposals to stand out against larger more established teams. There could be a need for some form of tagging and community curated lists to help aid in visibility for smaller teams.
 
 
 
@@ -99,7 +99,7 @@ One way that funding could be targeted better to certain areas in the ecosystem 
 
 **Preventing restrictive funding**
 
-One way this could be achieved is to ensure that all the specific categories cover the same areas that high level categories would achieve. The problem with this is it adds significant complexity to the budget weighting and also makes the budgets highly restrictive as only fixed amounts of funding would be distributed to each area.
+One way this could be achieved is to ensure that all the specific categories cover the same areas that broad categories would achieve. The problem with this is it adds significant complexity to the budget weighting and also makes the budgets highly restrictive as only fixed amounts of funding would be distributed to each area.
 
 
 

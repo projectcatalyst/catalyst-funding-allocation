@@ -4,9 +4,9 @@ description: >-
   categories?
 ---
 
-# Categories And Existing Challenges
+# Categories & Existing Challenges
 
-Every existing challenge fits into the suggested high level funding categories. For these categories there are a number of challenges that would have proposals that fit into multiple categories. One example is the 'Grow Africa, Grow Cardano' challenge where proposals for that challenge could be applicable to nearly all of the categories defined below.
+Every existing challenge fits into the suggested broad funding categories. For these categories there are a number of challenges that would have proposals that fit into multiple categories. One example is the 'Grow Africa, Grow Cardano' challenge where proposals for that challenge could be applicable to nearly all of the categories defined below.
 
 
 
@@ -16,7 +16,7 @@ Every existing challenge fits into the suggested high level funding categories. 
 
 
 
-&#x20;**Outreach & Engagement**
+&#x20;**Community & Outreach**
 
 * [Community Events](https://cardano.ideascale.com/c/campaigns/26234/about) (fund 7)
 * [Lobbying for Favourable Legislation](https://cardano.ideascale.com/c/campaigns/26235/about) (fund 7)
@@ -34,6 +34,35 @@ Every existing challenge fits into the suggested high level funding categories. 
 * [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/25947/about) (fund 5)
 * [Proposer Outreach](https://cardano.ideascale.com/c/campaigns/25871/about) (fund 4)
 * [Local Community Centers](https://cardano.ideascale.com/c/campaigns/25873/about) (fund 4)
+
+****
+
+**DApps & Integrations**
+
+* [Boosting Cardano's DeFi](https://cardano.ideascale.com/c/campaigns/26233/about) (fund 7)
+* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)
+* [Disarm Cyber Disinformation Attacks](https://cardano.ideascale.com/c/campaigns/26239/about) (fund 7)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26240/about) (fund 7)
+* [Gamers On-Chained](https://cardano.ideascale.com/c/campaigns/26241/about) (fund 7)&#x20;
+* [Grow Latin America, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26242/about) (fund 7)
+* [Seeding Cardano's Grassroots DeFi](https://cardano.ideascale.com/c/campaigns/26243/about) (fund 7)
+* [A.I. & SingularityNet a $5T market](https://cardano.ideascale.com/c/campaigns/26247/about) (fund 7)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26248/about) (fund 7)
+* [Nation Building DApps](https://cardano.ideascale.com/c/campaigns/26249/about) (fund 7)
+* [Mini/Low-Budget Dapps & Integrations](https://cardano.ideascale.com/c/campaigns/26250/about) (fund 7)
+* [Accelerate Decentralized Identity](https://cardano.ideascale.com/c/campaigns/26254/about) (fund 7)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26103/about) (fund 6)
+* [Metadata Challenge](https://cardano.ideascale.com/c/campaigns/26107/about) (fund 6)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26108/about) (fund 6)
+* [Scale-up Cardano's DeFi Ecosystem](https://cardano.ideascale.com/c/campaigns/26109/about) (fund 6)
+* [DeFi and Microlending for Africa](https://cardano.ideascale.com/c/campaigns/26112/about)
+* [Atala PRISM Mass-Scale Adoption](https://cardano.ideascale.com/c/campaigns/26116/about)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/25941/about) (fund 5)
+* [Metadata Challenge](https://cardano.ideascale.com/c/campaigns/25945/about) (fund 5)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/25947/about) (fund 5)
+* [Scale-up Cardano's DeFi Ecosystem](https://cardano.ideascale.com/c/campaigns/25948/about) (fund 5)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/25869/about) (fund 4)
+* [DApp Creation](https://cardano.ideascale.com/c/campaigns/25797/about) (fund 3)
 
 ****
 
@@ -89,32 +118,3 @@ Every existing challenge fits into the suggested high level funding categories. 
 * [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/25947/about) (fund 5)
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/25868/about) (fund 4)
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/25805/about) (fund 3)
-
-****
-
-**DApps & Integrations**
-
-* [Boosting Cardano's DeFi](https://cardano.ideascale.com/c/campaigns/26233/about) (fund 7)
-* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)
-* [Disarm Cyber Disinformation Attacks](https://cardano.ideascale.com/c/campaigns/26239/about) (fund 7)
-* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26240/about) (fund 7)
-* [Gamers On-Chained](https://cardano.ideascale.com/c/campaigns/26241/about) (fund 7)&#x20;
-* [Grow Latin America, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26242/about) (fund 7)
-* [Seeding Cardano's Grassroots DeFi](https://cardano.ideascale.com/c/campaigns/26243/about) (fund 7)
-* [A.I. & SingularityNet a $5T market](https://cardano.ideascale.com/c/campaigns/26247/about) (fund 7)
-* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26248/about) (fund 7)
-* [Nation Building DApps](https://cardano.ideascale.com/c/campaigns/26249/about) (fund 7)
-* [Mini/Low-Budget Dapps & Integrations](https://cardano.ideascale.com/c/campaigns/26250/about) (fund 7)
-* [Accelerate Decentralized Identity](https://cardano.ideascale.com/c/campaigns/26254/about) (fund 7)
-* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26103/about) (fund 6)
-* [Metadata Challenge](https://cardano.ideascale.com/c/campaigns/26107/about) (fund 6)
-* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26108/about) (fund 6)
-* [Scale-up Cardano's DeFi Ecosystem](https://cardano.ideascale.com/c/campaigns/26109/about) (fund 6)
-* [DeFi and Microlending for Africa](https://cardano.ideascale.com/c/campaigns/26112/about)
-* [Atala PRISM Mass-Scale Adoption](https://cardano.ideascale.com/c/campaigns/26116/about)
-* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/25941/about) (fund 5)
-* [Metadata Challenge](https://cardano.ideascale.com/c/campaigns/25945/about) (fund 5)
-* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/25947/about) (fund 5)
-* [Scale-up Cardano's DeFi Ecosystem](https://cardano.ideascale.com/c/campaigns/25948/about) (fund 5)
-* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/25869/about) (fund 4)
-* [DApp Creation](https://cardano.ideascale.com/c/campaigns/25797/about) (fund 3)

@@ -10,7 +10,7 @@ Funding categories are concerned with how Catalyst allocates funding from the Ca
 
 The current [challenge setting process](../background/challenge-setting-approach.md) has a number of issues and complexities that can be avoided by using higher level categories rather than more specific community chosen ones.
 
-The following are the benefits for using high level funding categories to allocate treasury funding.
+The following are the benefits for using broad funding categories to allocate treasury funding.
 
 
 
@@ -18,13 +18,13 @@ The following are the benefits for using high level funding categories to alloca
 
 **All ideas are welcomed**
 
-A reason to use high level categories is that they should guarantee that there is funding available for all areas within the ecosystem that would benefit from support. The [categories](categories.md) that have been created have been back tested with the previous [existing selected challenges](categories-and-existing-challenges.md).
+A reason to use broad categories is that they should guarantee that there is funding available for all areas within the ecosystem that would benefit from support. The [categories](categories/) that have been created have been back tested with the previous [existing selected challenges](categories-and-existing-challenges.md).
 
 
 
 **Maximises finding promising innovation**
 
-The key issue with making a mandate on where to allocate funds is this does not reflect how innovation works. Putting a mandate that one specific area should receive funding over another does not mean that suitable innovation will turn up in that challenge nor does it mean the proposal team is well suited to its execution. There is also no guarantee of what innovation could emerge from areas that have been rejected. Strong ideas and innovation could come at anytime. By using high level categories to allow any idea to be submitted the ecosystem maximises the chances to invite new innovation. Voters are always still able to pick proposals in that come under a more specific category however by making the funding more inclusive they now have the choice of which proposals to pick.
+The key issue with making a mandate on where to allocate funds is this does not reflect how innovation works. Putting a mandate that one specific area should receive funding over another does not mean that suitable innovation will turn up in that challenge nor does it mean the proposal team is well suited to its execution. There is also no guarantee of what innovation could emerge from areas that have been rejected. Strong ideas and innovation could come at anytime. By using broad categories to allow any idea to be submitted the ecosystem maximises the chances to invite new innovation. Voters are always still able to pick proposals in that come under a more specific category however by making the funding more inclusive they now have the choice of which proposals to pick.
 
 ****
 
@@ -52,7 +52,7 @@ Having less budget weighting and justification complexity means easier governanc
 
 **Reduced proposer effort**
 
-Proposers currently have to draft up challenge setting proposals and self determine the budget allocation used for a challenge. By moving to high level categories the proposers within the community benefit from not needing to write proposals for challenges in each funding round. Instead the categories that have been defined fulfil this purpose and the budget weighting selection can become a governance process handled by the community. Proposers also save time from not needing to understand all the different challenge setting briefs each funding round before they write proposals and instead only need to know about the small number of high level categories.
+Proposers currently have to draft up challenge setting proposals and self determine the budget allocation used for a challenge. By moving towards broad categories the proposers within the community benefit from not needing to write proposals for challenges in each funding round. Instead the categories that have been defined fulfil this purpose and the budget weighting selection can become a governance process handled by the community. Proposers also save time from not needing to understand all the different challenge setting briefs each funding round before they write proposals and instead only need to know about the small number of broad categories.
 
 
 
@@ -64,7 +64,7 @@ Voters would only need to understand a few categories and then vote on the budge
 
 **Reduced community advisor effort**
 
-High level categories remove the need for community advisors to assess challenge setting proposals and can instead allocate that time and more resources on improving assessments for proposals that are looking for funding. No assessments on challenge setting proposals would also mean no assessment reviews for veteran community advisors.
+Broad categories remove the need for community advisors to assess challenge setting proposals and can instead allocate that time and more resources on improving assessments for proposals that are looking for funding. No assessments on challenge setting proposals would also mean no assessment reviews for veteran community advisors.
 
 
 
@@ -84,10 +84,10 @@ Using an inclusive small number of categories means that challenges can't be cre
 
 **Reduces need for challenge team knowledge and deeper ecosystem understanding**
 
-Using high level categories means the community doesn't need to have as deep of an understanding about the ecosystem to make proposals and decisions on funding allocation.
+Using broad categories means the community doesn't need to have as deep of an understanding about the ecosystem to make proposals and decisions on funding allocation.
 
 ****
 
 **Removes easy entry for malicious actors**
 
-High level categories removes the possibility for malicious actors to game or break the funding allocation system by writing and promoting challenges that aren't in the best interests of the wider community.
+Broad categories removes the possibility for malicious actors to game or break the funding allocation system by writing and promoting challenges that aren't in the best interests of the wider community.

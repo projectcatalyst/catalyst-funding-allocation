@@ -10,7 +10,7 @@ The following are the suggested broad categories that provide a simpler way to d
 
 **Community & Outreach**
 
-Focusses on helping bring the community together and being engaged and also for outreach to new potential community members and collaborations with other people and organisations.&#x20;
+Focusses on helping bring the community together and engaged and also for outreach to new potential community members and collaborations with external people and organisations.&#x20;
 
 **=>** [**Read the Community & Outreach category brief**](community-and-outreach.md)****
 
@@ -18,7 +18,7 @@ Focusses on helping bring the community together and being engaged and also for 
 
 **Products & Integrations**
 
-The Products and integrations category focusses on helping fund projects looking to build on top of Cardano such as DeFi, gaming, marketplaces, social media or any other application and integration.
+The products and integrations category focusses on helping fund projects looking to build on top of Cardano such as DeFi, gaming, hardware devices, marketplaces, social media or any other product, application and integration.
 
 **=>** [**Read the Products & Integrations category brief**](products-and-integrations.md)****
 
@@ -32,19 +32,19 @@ The Catalyst ecosystem category focusses on proposals that will help with improv
 
 ****
 
-**Cardano Ecosystem**&#x20;
-
-The Cardano ecosystem category looks for proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that would make it easier for developers to build new applications. It also looks at supporting the stake pool operation with tools and resources to make it as easy as possible for people to help secure the network by running a stake pool node.
-
-**=>** [**Read the Cardano Ecosystem category brief**](cardano-ecosystem.md)****
-
-****
-
 **Catalyst Contributors**
 
 [Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes used in Catalyst and the wider ecosystem. Proposals in this category are from candidates who would like to be paid fulfil a certain role.
 
 **=>** [**Read the Catalyst Contributors category brief**](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)****
+
+****
+
+**Cardano Ecosystem**&#x20;
+
+The Cardano ecosystem category looks for proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that would make it easier for developers to build new applications. It also looks at supporting the stake pool operation with tools and resources to make it as easy as possible for people to help secure the network by running a stake pool node.
+
+**=>** [**Read the Cardano Ecosystem category brief**](cardano-ecosystem.md)****
 
 ****
 
@@ -58,4 +58,4 @@ The Cardano ecosystem category looks for proposals that will help improve and ma
 
 **Catalyst Natives**
 
-Other ecosystem projects can introduce their own funding challenge into the process with their own self determined funding allocation amounts for rewarding proposals.
+Other ecosystem projects can introduce their own funding challenges into the process with their own self determined funding allocation amounts for rewarding proposals.

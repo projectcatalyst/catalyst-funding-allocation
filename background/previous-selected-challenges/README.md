@@ -6,6 +6,33 @@ description: >-
 
 # Previous Selected Challenges
 
+**Fund 8**
+
+* [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/about)
+* [Open Source Development Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about)
+* [Nation Building Dapps](https://cardano.ideascale.com/c/campaigns/26435/about)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26436/about)
+* [Cardano scaling solutions](https://cardano.ideascale.com/c/campaigns/26437/about)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26438/about)
+* [Scale-UP Cardano's Community Hubs](https://cardano.ideascale.com/c/campaigns/26439/about)
+* [Gamers On - Chained](https://cardano.ideascale.com/c/campaigns/26440/about)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26441/about)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26442/about)
+* [Accelerate Decentralized Identity](https://cardano.ideascale.com/c/campaigns/26443/about)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26444/about)
+* [Business Solutions (B2B & B2C)](https://cardano.ideascale.com/c/campaigns/26445/about)
+* [Lobbying for favorable legislation](https://cardano.ideascale.com/c/campaigns/26446/about)
+* [Improve and Grow Auditability](https://cardano.ideascale.com/c/campaigns/26447/about)
+* [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26448/about)
+* [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about)
+* [New Member Onboarding](https://cardano.ideascale.com/c/campaigns/26450/about)
+* [Self-Sovereign Identity](https://cardano.ideascale.com/c/campaigns/26451/about)
+* [Film + Media (FAM) creatives unite!](https://cardano.ideascale.com/c/campaigns/26452/about)
+* [Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/about)
+* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about)
+
+****
+
 **Fund 7**
 
 * [Catalyst Natives COTI: Pay with ADA Plug-in](https://cardano.ideascale.com/c/campaigns/26256/about)

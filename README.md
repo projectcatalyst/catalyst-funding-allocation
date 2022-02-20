@@ -6,7 +6,7 @@ description: >-
 
 # Overview
 
-There are a number of issues with the current challenge setting process used in the Catalyst ecosystem. The purpose of this documentation is to go through the current process, some analysis towards the options and to highlight a new approach that could provide a simple and effective solution for allocating funding into certain categories.
+There are a number of issues with the current challenge setting process used in the Catalyst ecosystem. The purpose of this documentation is to go through the current process, some analysis towards alternative options and to suggest a new approach that provides a simple and effective solution for allocating funding into different categories.
 
 
 

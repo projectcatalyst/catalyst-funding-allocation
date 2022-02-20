@@ -10,11 +10,11 @@ Community & Outreach
 
 **Category question**
 
-How can we engage the community and also do outreach that brings more people in to the ecosystem and also helps with collaborating with external people and organisations.
+How can we engage the community and also do outreach that brings more people into the ecosystem and also helps with collaborating with external people and organisations.
 
 **Why is it important?**
 
-Cardano needs an engaged and thriving community along with collaboration with those outside the community so that the ecosystems potential can be more fully realised.
+Cardano needs an engaged and thriving community along with collaboration with those outside the community so that the ecosystem is welcoming, collaborative and engaging.
 
 **How does success look like?**
 
@@ -22,7 +22,7 @@ Communities forming around certain topics, public goods or ecosystem areas and a
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metric.
+Please refer to the suggested challenge brief success metrics ideas for different proposal types.
 
 
 
@@ -32,7 +32,7 @@ Please refer to the suggested challenge brief success metric.
 
 Community & Outreach is focussed on the following important areas:
 
-* Bringing the community together to engage with one another over important problems, topics, causes and any wider conversations.
+* Bringing the community together to engage with one another over important problems, topics, causes and any other important conversations.
 * Talking to people and organisations outside the community looking at how together we can help to solve problems, explore ways to collaborate or consider different opportunities for innovation.
 * Finding people outside the community interested in learning more about the ecosystem or joining a community that they could be passionate about.
 
@@ -42,11 +42,11 @@ Community & Outreach is focussed on the following important areas:
 
 The community for any decentralized ecosystem is what makes that ecosystem truly valuable.
 
-Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate we as a community can learn about different people, communities and problems.&#x20;
+Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate we as a community can learn about different people, communities and problems.
 
-The better that communities form around common goals and missions the easier it will be to find potential new solutions or collaborations that improve both the ecosystem and the world.
+The better that communities form around common goals and missions the easier it will be to find potential new solutions or collaborations that improve both the ecosystem and the world around us.
 
-Community initiatives will be how people joining the ecosystem find the missions that they are most passionate about and causes that they truly resonate with.
+Effective community initiatives will improve how people joining the ecosystem find the missions that they are most passionate about and causes that they truly resonate with.
 
 
 

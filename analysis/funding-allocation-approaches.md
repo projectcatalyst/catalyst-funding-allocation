@@ -14,7 +14,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 
 
 
-**Broad categories -** Funding is allocated between a small number of broad categories with a larger budget weighting applied to each of them. Examples categories include DApps & integrations, Catalyst ecosystem and Cardano ecosystem.
+**Broad categories -** Funding is allocated between a small number of broad categories with a larger budget weighting applied to each of them. Examples categories include Products & Integrations, Catalyst ecosystem and Cardano ecosystem.
 
 
 
@@ -32,7 +32,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 * **Budget weighting complexity** - What complexity is there for deciding the budget weightings for each of the categories in a funding round? How much effort and how long will it take to get a well informed outcome?
 * **Categorisation justification** - How complex is it to provide evidence and data to justify all categorisation selected for a given funding round? How much effort and governance is required?&#x20;
 * **Proposal visibility** - How easy is it for proposals to be seen? Is there high competition causing lower visibility?
-* **Targeted funding** - How effective is the categorisation for directing funding to certain areas that need more funding support?
+* **Directing funding** - How effective is the categorisation for directing funding to certain areas that need more funding support?
 
 
 
@@ -47,7 +47,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 **Issues**
 
 * **Very low proposal visibility** - With just one category it becomes hard for individual proposals to stand out against all other proposal teams. This results in a high need for better tagging and community curated lists for small proposals to get better visibility.
-* **No targeted funding** - No effort is made to steer funding into a certain area for the wider ecosystem. This could result in more popular areas repeatedly receiving more funding than is needed.
+* **No directing funding** - No effort is made to steer funding into a certain area for the wider ecosystem. This could result in more popular areas repeatedly receiving more funding than is needed.
 
 
 
@@ -61,7 +61,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 
 **Issues**
 
-* **Difficult targeted funding** - Directing the funding is more difficult as more types of proposals are competing under the same category. It is down to the voters for targeted funding when deciding which proposals to vote on.
+* **Difficult to direct funding** - Directing the funding is more difficult as more types of proposals are competing under the same category. It is down to the voters for directing funding when deciding which proposals to vote on.
 * **Low proposal visibility** - Having only a few broad categories makes it hard for some proposals to stand out against larger more established teams. There could be a need for some form of tagging and community curated lists to help aid in visibility for smaller teams.
 
 
@@ -71,7 +71,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 **Advantages**
 
 * **Good proposal visibility** - Proposals would generally have less competition for a specific challenge making it easier to get proposal visibility due to the categorisation.
-* **Targeted funding** - Using more specific categories makes it easier to allocate funding to certain areas in the ecosystem.
+* **Directing funding** - Using more specific categories makes it easier to allocate funding to certain areas in the ecosystem.
 
 **Issues**
 
@@ -89,9 +89,9 @@ Two easy ways to help improve the proposal visibility would be using effective t
 
 ****
 
-**Improving targeted funding**
+**Improve ability to direct funding**
 
-One way that funding could be targeted better to certain areas in the ecosystem is by creating a governance system for the community to vote on which areas they believe require the most attention. This could also include qualitative information. The results could then be made available to the wider community during funding rounds so people are aware of the thoughts of different people in the community to take that information into account when voting on proposals.
+One way that funding could be directed better to certain areas in the ecosystem is by creating a governance system for the community to vote on which areas they believe require the most attention. This could also include qualitative information. The results could then be made available to the wider community during funding rounds so people are aware of the thoughts of different people in the community to take that information into account when voting on proposals.
 
 ****
 
@@ -119,5 +119,5 @@ To resolve the issue of needing to justify the categories there would need to be
 
 * **Specificity adds budget complexity** - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
 * **Specificity adds justification complexity** - The more categories that get added to a funding round the more difficult it gets to justify why that category is more important than any other category that may be being excluded.
-* **Easier to solve proposal visibility and targeted funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is targeted to certain areas.
+* **Easier to solve proposal visibility and directing funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is directed to certain areas.
 * **Broader categorisation takes far less effort and governance** - Less information, governance and tools are needed for more broad categorisation as there's less effort needed for justifying the categories and the budget that each one has.

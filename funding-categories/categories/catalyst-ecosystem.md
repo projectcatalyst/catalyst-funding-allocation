@@ -10,19 +10,19 @@ Catalyst Ecosystem
 
 **Category question**
 
-What new tools, processes or research can help improve the governance of the Cardano treasury?
+What new tools, processes or research can help improve the governance of the Cardano treasury and also be used in the wider ecosystem?
 
 **Why is it important?**
 
-The Cardano ecosystem needs effective governance of the treasury so that funding can be distributed to areas that produce the most impact.
+The Cardano ecosystem needs effective governance and identity tools to support the distribution of the treasury and applications building on Cardano.
 
 **How does success look like?**
 
-Continuous improvement and evolution of the governance ecosystem and processes that most effectively support the Cardano ecosystem.
+Continuous improvement and evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and other applications governance.
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metric.
+Please refer to the suggested challenge brief success metrics ideas for different proposal types.
 
 
 
@@ -53,6 +53,7 @@ The better that Catalyst is able to effectively help with governing and distribu
 * **Governance tools, libraries & SDKs** - Tools that help with governance participation and decision making that can be used by Catalyst but also could be used by other teams building in the ecosystem. Tools for governance will help the Catalyst function more effectively as a DAO.
 * **DAO tools, libraries & SDKs** - Development that helps the wider community to build DAOs for their own projects.
 * **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used by the wider community.
+* **Rapid funding mechanisms** - New rapid funding mechanisms looking at improving the distribution of funding of the Cardano treasury.
 * **Auditing tools or processes** - Tools and process improvements that help with auditing funded proposals to help ensure they have the support needed to maximise the impact produced.
 * **Catalyst accelerators & mentors** - Tools, guides, mentors and programs that help people with going through the Catalyst funding process and working on their project.&#x20;
 * **Resources, processes & documentation** - Improvements to resources, processes and documentation that help with understanding and engaging with the Catalyst ecosystem.
@@ -67,10 +68,11 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **Governance tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
 * **DAO tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
 * **Identity tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
+* **Rapid funding mechanisms** - Number of participants involved in governance process, speed of funding distribution, number of projects supported through mechanism.
 * **Auditing tools or processes** - Amount of adoption from other projects, number of projects being audited, number of projects receiving extra support, number of projects having funding halted due to lack of execution.
-* **Catalyst accelerators & mentors** - Number of projects onboarded onto support programs, number of projects supported&#x20;
-* **Resources, processes & documentation** - Number of viewers on content, reduction in common questions support due to better resources or documentation
-* **Governance research and analysis** - Number of citations, number of projects utilising research or analysis in their execution
+* **Catalyst accelerators & mentors** - Number of projects onboarded onto support programs, number of projects supported.
+* **Resources, processes & documentation** - Number of viewers on content, reduction in common questions support due to better resources or documentation.
+* **Governance research and analysis** - Number of citations, number of projects utilising research or analysis in their execution.
 
 
 

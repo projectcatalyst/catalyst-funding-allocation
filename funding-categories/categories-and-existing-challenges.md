@@ -10,14 +10,17 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 
 
-**Catalyst Natives**
-
-* [Catalyst Natives COTI: Pay with ADA Plug-in](https://cardano.ideascale.com/c/campaigns/26256/about) (fund 7)
-
-
-
 &#x20;**Community & Outreach**
 
+* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
+* [Film + Media (FAM) creatives unite!](https://cardano.ideascale.com/c/campaigns/26452/about) (fund 8)
+* [New Member Onboarding](https://cardano.ideascale.com/c/campaigns/26450/about) (fund 8)
+* [Lobbying for favorable legislation](https://cardano.ideascale.com/c/campaigns/26446/about) (fund 8)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26444/about) (fund 8)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26442/about) (fund 8)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26441/about) (fund 8)
+* [Scale-UP Cardano's Community Hubs](https://cardano.ideascale.com/c/campaigns/26439/about) (fund 8)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26436/about) (fund 8)
 * [Community Events](https://cardano.ideascale.com/c/campaigns/26234/about) (fund 7)
 * [Lobbying for Favourable Legislation](https://cardano.ideascale.com/c/campaigns/26235/about) (fund 7)
 * [Connecting Japan/日本 Community](https://cardano.ideascale.com/c/campaigns/26238/about) (fund 7)
@@ -39,6 +42,15 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 **Products & Integrations**
 
+* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
+* [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26448/about) (fund 8)
+* [Business Solutions (B2B & B2C)](https://cardano.ideascale.com/c/campaigns/26445/about) (fund 8)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26444/about) (fund 8)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26442/about) (fund 8)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26441/about) (fund 8)
+* [Gamers On - Chained](https://cardano.ideascale.com/c/campaigns/26440/about) (fund 8)
+* [DApps and Integrations](https://cardano.ideascale.com/c/campaigns/26438/about) (fund 8)
+* [Nation Building Dapps](https://cardano.ideascale.com/c/campaigns/26435/about) (fund 8)
 * [Boosting Cardano's DeFi](https://cardano.ideascale.com/c/campaigns/26233/about) (fund 7)
 * [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)
 * [Disarm Cyber Disinformation Attacks](https://cardano.ideascale.com/c/campaigns/26239/about) (fund 7)
@@ -66,8 +78,19 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 ****
 
-**Catalyst Ecosystem**&#x20;
+**Catalyst Ecosystem**
 
+* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
+* [Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/about) (fund 8)
+* [Self-Sovereign Identity](https://cardano.ideascale.com/c/campaigns/26451/about) (fund 8)
+* [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)
+* [Improve and Grow Auditability](https://cardano.ideascale.com/c/campaigns/26447/about) (fund 8)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26444/about) (fund 8)
+* [Accelerate Decentralized Identity](https://cardano.ideascale.com/c/campaigns/26443/about) (fund 8)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26442/about) (fund 8)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26441/about) (fund 8)
+* [Open Source Development Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about) (fund 8)
+* [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/26433/about) (fund 8)
 * [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)
 * [Catalyst - Rapid Funding Mechanisms](https://cardano.ideascale.com/c/campaigns/26236/about) (fund 7)
 * [Disarm Cyber Disinformation Attacks](https://cardano.ideascale.com/c/campaigns/26239/about) (fund 7)
@@ -96,7 +119,15 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 **Cardano Ecosystem**
 
-* [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)
+* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
+* [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)
+* [The Great Migration (from Ethereum)](https://cardano.ideascale.com/c/campaigns/26448/about) (fund 8)
+* [Grow East Asia, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26444/about) (fund 8)
+* [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26442/about) (fund 8)
+* [Miscellaneous Challenge](https://cardano.ideascale.com/c/campaigns/26441/about) (fund 8)
+* [Cardano scaling solutions](https://cardano.ideascale.com/c/campaigns/26437/about) (fund 8)
+* [Cross-Chain Collaboration](https://cardano.ideascale.com/c/campaigns/26436/about) (fund 8)
+* [Open Source Development Ecosystem](https://cardano.ideascale.com/c/campaigns/26434/about) (fund 8)
 * [Disarm Cyber Disinformation Attacks](https://cardano.ideascale.com/c/campaigns/26239/about) (fund 7)
 * [New SPO Business Opportunities](https://cardano.ideascale.com/c/campaigns/26245/about) (fund 7)
 * [Grow Latin America, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26242/about) (fund 7)
@@ -118,3 +149,9 @@ Every existing challenge fits into the suggested broad funding categories. For t
 * [Grow Africa, Grow Cardano](https://cardano.ideascale.com/c/campaigns/25947/about) (fund 5)
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/25868/about) (fund 4)
 * [Developer Ecosystem](https://cardano.ideascale.com/c/campaigns/25805/about) (fund 3)
+
+****
+
+**Catalyst Natives**
+
+* [Catalyst Natives COTI: Pay with ADA Plug-in](https://cardano.ideascale.com/c/campaigns/26256/about) (fund 7)

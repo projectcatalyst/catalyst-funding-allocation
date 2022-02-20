@@ -6,7 +6,7 @@ description: >-
 
 # Categorisation Comparisons
 
-For the following comparison we are focussed on categorisation for proposal based funding. The comparisons are also for fixed categories. This means that analysis is done upfront for defining the categories to use that would infrequently change when needed rather than changing every funding round.
+For the following comparison we are focussed on categorisation for proposal based funding. The comparisons are also for comparing potential fixed core categories that would be used for the funding process. This means that analysis is done upfront for defining the categories to use where any changes would be less frequent instead of changing them every funding round.
 
 Other funding approaches should be taken into account when reviewing this analysis. Full time contributor based funding, such as [Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/), are a complimentary funding approach to proposal based funding.
 
@@ -20,10 +20,10 @@ Using different defined areas of the ecosystem as funding categories.
 
 **Categories**
 
-* **Catalyst Ecosystem** - Proposals about maintaining, improving and supporting Catalyst as the governance solution for the Cardano treasury.
-* **Cardano Ecosystem** - Proposals for improving and maintaining the development ecosystem for Cardano.
-* **DApps & Integrations** - Proposals for projects building on top of Cardano.
-* **Outreach & Engagement** - Proposals that do outreach to anyone outside of the community and for engagement within the community.
+* **Catalyst Ecosystem** - Proposals about maintaining, improving and supporting Catalyst as the governance solution for the Cardano treasury and improving governance and identity tools.
+* **Cardano Ecosystem** - Proposals for improving and maintaining the development ecosystem for Cardano and also supporting the operation of stake pool nodes.
+* **Products & Integrations** - Proposals for projects building on top of Cardano.
+* **Community & Outreach** - Proposals that do outreach to anyone outside of the community and for engagement within the community.
 
 ****
 
@@ -31,8 +31,8 @@ Using different defined areas of the ecosystem as funding categories.
 
 * **Those helping improve Catalyst** - Use the Catalyst Ecosystem category.
 * **Those helping improve Cardano** - Use the Cardano Ecosystem category.
-* **Those building DApps & integrations** - Use the DApps & Integrations category.
-* **Those doing outreach and building community** - Use the Outreach & Engagement category.
+* **Those building products & integrations** - Use the Products & Integrations category.
+* **Those doing outreach and building community** - Use the Community & Outreach category.
 
 ****
 
@@ -52,7 +52,7 @@ Using different defined areas of the ecosystem as funding categories.
 
 ### Organisation functions
 
-Using different organisation functions along DApps & Integrations for funding categories.
+Using different organisation functions along with Products & Integrations as funding categories.
 
 
 
@@ -63,7 +63,7 @@ Using different organisation functions along DApps & Integrations for funding ca
 * **Community** - Proposals that help bring the community together and increase engagement.
 * **Organisation -** Proposals that help deal with the administrative parts for project teams working on the Catalyst ecosystem or the Cardano developer ecosystem.
 * **Risk Management** - Proposals that cover mitigating risk in the Catalyst or Cardano ecosystem including auditing, legislative compliance or financial compliance.
-* **DApps & Integrations** - Applications building on top of Cardano.
+* **Products & Integrations** - Applications building on top of Cardano.
 
 ****
 
@@ -71,7 +71,7 @@ Using different organisation functions along DApps & Integrations for funding ca
 
 * **Those helping improve Catalyst** - Catalyst proposals could fit in research & development, outreach & marketing, community, organisation or risk management.
 * **Those helping improve Cardano** - Cardano proposals could fit in research & development, outreach & marketing, community, organisation or risk management.
-* **Those building DApps & integrations** - Use the DApps & Integrations category.
+* **Those building products & integrations** - Use the Products & Integrations category.
 * **Those doing outreach and building community** - Use the outreach & marketing or community categories.
 
 ****
@@ -109,7 +109,7 @@ Using locations such as different countries or continents as funding categories.
 
 * **Those helping improve Catalyst** - Could make smaller proposals across all countries if it impacts people globally or focus on specific locations if that is relevant.
 * **Those helping improve Cardano** - Could make smaller proposals across all countries if it impacts people globally or focus on specific locations if that is relevant.
-* **Those building DApps & integrations** - **** Sometimes the team may be decentralized from the start and they may decide to do proposals in where the end user will benefit most. The team could also use a location in which their business resides.
+* **Those building products & integrations** - **** Sometimes the team may be decentralized from the start and they may decide to do proposals in where the end user will benefit most. The team could also use a location in which their business resides.
 * **Those doing outreach and building community** - Separate community members could create local events and community hub proposals in their own location. Global events or outreach could split their proposal across different location categories.
 
 ****
@@ -151,8 +151,8 @@ Using a combination of the above approaches in a combined category approach. Thi
 
 * **Those helping improve Catalyst** - A Catalyst focussed category if it is included, otherwise proposals may fit into multiple categories
 * **Those helping improve Cardano** - A Cardano focussed category if it is included, otherwise proposals may fit into multiple categories
-* **Those building DApps & integrations** - A DApps & Integrations focussed category if it is included, otherwise proposals may fit into multiple categories
-* **Those doing outreach and building community** - An Outreach & Engagement focussed category if it is included, otherwise proposals may fit into multiple categories
+* **Those building products & integrations** - A Products & Integrations focussed category if it is included, otherwise proposals may fit into multiple categories
+* **Those doing outreach and building community** - An Community & Outreach focussed category if it is included, otherwise proposals may fit into multiple categories
 
 
 
@@ -178,11 +178,11 @@ Using a combination of the above approaches in a combined category approach. Thi
 * Locations add a lot of complexity around budget weighting, causing complexity from multiple split up proposals and creates harder justification for how to decide which countries and areas to group together or keep separate as over 190 country categories would not be practical. Locations as categorisation do not map well with most ecosystem tools and DApps that are built to be global.
 * Organisation functions could be effective at directing funding to more specific areas within Cardano and Catalyst however when those same ecosystems use the same categories it makes it harder to direct funding between them. The increase in budget weighting complexity is also a concern.
 * Category combinations make most areas more complex around justification, budget weighting and the governance surrounding it. The benefits of this approach of simpler categorisation are not clear making it a less attractive approach.
-* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Catalyst, Cardano, DApps & Integrations and Outreach & Engagement efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](../funding-categories/categories/).
+* Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Catalyst, Cardano, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](../funding-categories/categories/).
 
 ****
 
 ### **References**
 
 * [https://eprint.iacr.org/2018/435.pdf](https://eprint.iacr.org/2018/435.pdf) - A Treasury System for Cryptocurrencies research paper written in collaboration with IOG.
-* [https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view](https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. DApps & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](funding-allocation-approaches.md) analysis.
+* [https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view](https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](funding-allocation-approaches.md) analysis.

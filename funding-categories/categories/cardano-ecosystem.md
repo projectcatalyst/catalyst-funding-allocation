@@ -22,7 +22,7 @@ New or improvements of resources, tools, libraries, SDKs, scripts or research th
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metric.
+Please refer to the suggested challenge brief success metrics ideas for different proposal types.
 
 
 
@@ -52,6 +52,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **SPO tools, scripts, libraries & SDKs** - Development that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
 * **Plutus and IELE tools, libraries & SDKs** - Development that helps DApp developers more easily write and deploy smart contracts onto the Cardano blockchain.
 * **Native asset tools, libraries & SDKs** - Development to improve how the community and DApp developers issue and manage native assets.&#x20;
+* **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
 * **Resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
 * **Standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
 * **Research and development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
@@ -63,6 +64,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **SPO tools, scripts, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Plutus and IELE tools, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Native asset tools, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **Scalability solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
 * **Resources & documentation** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources
 * **Standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications
 * **Research and development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts

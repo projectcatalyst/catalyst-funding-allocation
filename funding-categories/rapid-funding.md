@@ -6,9 +6,9 @@ description: >-
 
 # Rapid Funding
 
-Many of the challenge settings from [previous selected challenges](../background/previous-selected-challenges/) and proposals that would go into the [categories](categories/) funding structures would benefit from having access to rapid funding.
+Many of the challenge settings from [previous selected challenges](../background/previous-selected-challenges/) and proposals benefit from having access to rapid funding. This benefit of rapid funding is also the case for when using broad categories as it accepts the same proposals that the current process does.
 
-The following is some ideas for each of the categories where rapid funding would be suitable to be used as the alternative to proposal based funding. This list is not exhaustive but provides ideas towards how alternative funding could impact what teams end up using the proposal process.
+The following are some ideas for where rapid funding could be used for each of the broad categories. Rapid funding would be an alternative to proposal based funding. This list is not exhaustive but provides ideas towards how alternative funding could impact what teams end up using the proposal process.
 
 
 

@@ -34,7 +34,7 @@ The Catalyst ecosystem category focusses on proposals that will help with improv
 
 **Catalyst Contributors**
 
-[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes used in Catalyst and the wider ecosystem. Proposals in this category are from candidates who would like to be paid fulfil a certain role.
+[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes used in Catalyst and the wider ecosystem. Proposals in this category are from candidates who would like to be paid to fulfil a certain role.
 
 **=>** [**Read the Catalyst Contributors category brief**](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)****
 
@@ -50,7 +50,7 @@ The Cardano ecosystem category looks for proposals that will help improve and ma
 
 **Cardano Contributors**
 
-[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) are a category for people to apply to work full time in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use. Proposals in this category are from candidates who would like to be paid fulfil a certain role.
+[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) are a category for people to apply to work full time in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use. Proposals in this category are from candidates who would like to be paid to fulfil a certain role.
 
 **=>** [**Read the Cardano Contributors category brief**](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)****
 

@@ -17,6 +17,7 @@
 
 ## Analysis
 
+* [Budget Weighting Considerations](analysis/budget-weighting-considerations.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Comparisons](analysis/categorisation-comparisons.md)
 * [Funding Allocation Approaches](analysis/funding-allocation-approaches.md)

@@ -1,16 +1,16 @@
 ---
-description: DApps & Integrations category proposal
+description: Products & Integrations category proposal
 ---
 
-# DApps & Integrations
+# Products & Integrations
 
 **Category Title**
 
-DApps & Integrations
+Products & Integrations
 
 **Category question**
 
-What new DApps and integrations can be developed that will offer more use cases to the Cardano ecosystem that are high impact and drive more adoption?&#x20;
+What new Products and integrations can be developed that will offer more use cases to the Cardano ecosystem that are high impact and drive more adoption?&#x20;
 
 **Why is it important?**
 
@@ -18,7 +18,7 @@ Cardano needs new innovations and applications for the ecosystem to reach its fu
 
 **How does success look like?**
 
-An increasing number of DApps or integrations that offer new solutions for people to interact and benefit from the Cardano ecosystem.
+An increasing number of products or integrations that offer new solutions for people to interact and benefit from the Cardano ecosystem.
 
 **Key Metrics to measure**
 
@@ -30,9 +30,9 @@ Please refer to the suggested challenge brief success metric.
 
 **Overview**
 
-DApps & Integrations is focussed on the following areas:
+Products & Integrations is focussed on the following areas:
 
-* Creation of new DApps or improvements to existing DApps that provide value to the Cardano community and wider ecosystem.&#x20;
+* Creation of new Products or improvements to existing products that provide value to the Cardano community and wider ecosystem.&#x20;
 * Integrations with other existing services and protocols that make it easier to use and benefit from the use of the Cardano ecosystem.&#x20;
 
 ****
@@ -47,14 +47,16 @@ The more interesting and useful applications and integration that can be built i
 
 **Types of proposals to include**
 
+* **Hardware** - Hardware wallets, Local ATMs for interacting with a blockchain, others...
+* **Physical products** - Tokenised housing as a Cardano native asset, International headquarters and liason office on every continent, others...
 * **DeFi** - Stable coins, DEXs, borrow & lending, synthetic assets, others...
 * **Gaming** - Open world games, card games, RPG, others...
 * **Nation governance systems** - New governance systems for nation states
-* **Environment** - DApps that help to solve environment issues
+* **Environment** - Solutions that help to solve environment issues
 * **Transport & logistics**
 * **Social media**
 * **Marketplaces**
-* **Many others** - Any other idea that someone thinks can be built on the Cardano blockchain and should be introduced to the ecosystem!
+* **Many others** - Any other idea or product that someone thinks can be built on the Cardano blockchain and should be introduced to the ecosystem!
 
 ****
 
@@ -62,6 +64,8 @@ The more interesting and useful applications and integration that can be built i
 
 This list is not exhaustive but does provides some ideas for proposers to consider.
 
+* **Hardware** - Number of items sold, number of total users, number of interactions with hardware solution
+* **Physical products** - Number of products tokenised as a native asset, Number of people using physical solution
 * **DeFi** - Total value locked, total number of users, number of active daily / weekly / monthly users
 * **Gaming** - Number of players, player income generated (if play to earn), qualitative feedback on game experience
 * **Nation governance systems** - Amount of population onboarded, amount of costs saved due to new solution, security difficulty improvements over previous approach

@@ -184,4 +184,5 @@ Using a combination of the above approaches in a combined category approach. Thi
 
 ### **References**
 
+* [https://eprint.iacr.org/2018/435.pdf](https://eprint.iacr.org/2018/435.pdf) - A Treasury System for Cryptocurrencies research paper written in collaboration with IOG.
 * [https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view](https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. DApps & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](funding-allocation-approaches.md) analysis.

@@ -6,7 +6,7 @@ description: A list of suggested categories to use for allocating Catalyst fundi
 
 The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-allocation-approaches.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
-![](<../../.gitbook/assets/funding-categories (1).png>)
+![](../../.gitbook/assets/funding-categories.png)
 
 **Community & Outreach**
 
@@ -16,11 +16,11 @@ Focusses on helping bring the community together and being engaged and also for 
 
 ****
 
-**DApps & Integrations**
+**Products & Integrations**
 
-The DApps and integrations category focusses on helping fund projects looking to build on top of Cardano such as DeFi, gaming, marketplaces, social media or any other application and integration.
+The Products and integrations category focusses on helping fund projects looking to build on top of Cardano such as DeFi, gaming, marketplaces, social media or any other application and integration.
 
-**=>** [**Read the DApps & Integrations category brief**](dapps-and-integrations.md)****
+**=>** [**Read the Products & Integrations category brief**](products-and-integrations.md)****
 
 ****
 

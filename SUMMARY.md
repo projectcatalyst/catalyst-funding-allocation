@@ -7,7 +7,7 @@
 * [Overview & Benefits](funding-categories/overview-and-benefits.md)
 * [Categories](funding-categories/categories/README.md)
   * [Community & Outreach](funding-categories/categories/community-and-outreach.md)
-  * [DApps & Integrations](funding-categories/categories/dapps-and-integrations.md)
+  * [Products & Integrations](funding-categories/categories/products-and-integrations.md)
   * [Catalyst Ecosystem](funding-categories/categories/catalyst-ecosystem.md)
   * [Cardano Ecosystem](funding-categories/categories/cardano-ecosystem.md)
   * [Catalyst Contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)

@@ -37,7 +37,7 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 ****
 
-**DApps & Integrations**
+**Products & Integrations**
 
 * [Boosting Cardano's DeFi](https://cardano.ideascale.com/c/campaigns/26233/about) (fund 7)
 * [DAOs <3 Cardano](https://cardano.ideascale.com/c/campaigns/26237/about) (fund 7)

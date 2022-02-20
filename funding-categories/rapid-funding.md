@@ -20,7 +20,7 @@ The following is some ideas for each of the categories where rapid funding would
 
 
 
-**DApps & Integrations**
+**Products & Integrations**
 
 * **Smaller projects** - Smaller projects that require less funding to be developed could be well suited to a rapid funding approach.
 * **Existing projects** - Existing established projects could request funding for certain features or improvements that would immediately benefit the ecosystem.

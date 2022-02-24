@@ -17,6 +17,8 @@
 
 ## Analysis
 
+* [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
+* [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Budget Weighting Considerations](analysis/budget-weighting-considerations.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Comparisons](analysis/categorisation-comparisons.md)

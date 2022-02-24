@@ -6,7 +6,7 @@ description: >-
 
 # Categorisation Comparisons
 
-For the following comparison we are focussed on categorisation for proposal based funding. The comparisons are also for comparing potential fixed core categories that would be used for the funding process. This means that analysis is done upfront for defining the categories to use where any changes would be less frequent instead of changing them every funding round.
+For the following comparison we are focused on categorisation for proposal based funding. The comparisons are also for comparing potential fixed core categories that would be used for the funding process. This means that analysis is done upfront for defining the categories to use where any changes would be less frequent instead of changing them every funding round.
 
 Other funding approaches should be taken into account when reviewing this analysis. Full time contributor based funding, such as [Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/), are a complimentary funding approach to proposal based funding.
 
@@ -97,10 +97,10 @@ Using locations such as different countries or continents as funding categories.
 
 **Categories**
 
-* **Africa** - Proposals focussed on Africa
-* **Latin America -** Proposals focussed on Latin America
-* **India -** Proposals focussed on India
-* **Japan** - Proposals focussed on Japan
+* **Africa** - Proposals focused on Africa
+* **Latin America -** Proposals focused on Latin America
+* **India -** Proposals focused on India
+* **Japan** - Proposals focused on Japan
 * ... Other continents or countries!
 
 ****
@@ -123,7 +123,7 @@ Using locations such as different countries or continents as funding categories.
 
 **Issues**
 
-* **Directing funding to ecosystem areas** - A location approach makes it more difficult to direct more or less funding to certain areas of the ecosystem such as the Catalyst ecosystem or Cardano development ecosystem as they are not location focussed.
+* **Directing funding to ecosystem areas** - A location approach makes it more difficult to direct more or less funding to certain areas of the ecosystem such as the Catalyst ecosystem or Cardano development ecosystem as they are not location focused.
 * **Risk of missing locations** - There are 195 countries in the world so separating by countries increase the likelihood of missing out on some areas. There are 7 continents but this then doesn't add much localisation to targeting proposals. Thought would be needed on what a fair approach is needed here that could have one location benefiting more than another.
 * **Budget weighting complexity** - Deciding on the budget weighting for each of the location categories is complex unless a simple rule is in place such as basing it on total population weighting. How does the community justify why one location should receive more than the other when not using a simple rule? Especially if many of the proposals have global availability.
 * **Multiple proposals complexity** - Many DApps, online events, Catalyst or Cardano tools and improvements often have a global audience. This makes location categorisation more burdensome as they would often need to split the same proposals across multiple categories for the same funding request. This adds a cost of resource effort to assess more proposals and also makes voting more complex for voters.
@@ -149,10 +149,10 @@ Using a combination of the above approaches in a combined category approach. Thi
 
 **How it might used**
 
-* **Those helping improve Catalyst** - A Catalyst focussed category if it is included, otherwise proposals may fit into multiple categories
-* **Those helping improve Cardano** - A Cardano focussed category if it is included, otherwise proposals may fit into multiple categories
-* **Those building products & integrations** - A Products & Integrations focussed category if it is included, otherwise proposals may fit into multiple categories
-* **Those doing outreach and building community** - An Community & Outreach focussed category if it is included, otherwise proposals may fit into multiple categories
+* **Those helping improve Catalyst** - A Catalyst focused category if it is included, otherwise proposals may fit into multiple categories
+* **Those helping improve Cardano** - A Cardano focused category if it is included, otherwise proposals may fit into multiple categories
+* **Those building products & integrations** - A Products & Integrations focused category if it is included, otherwise proposals may fit into multiple categories
+* **Those doing outreach and building community** - An Community & Outreach focused category if it is included, otherwise proposals may fit into multiple categories
 
 
 
@@ -185,4 +185,4 @@ Using a combination of the above approaches in a combined category approach. Thi
 ### **References**
 
 * [https://eprint.iacr.org/2018/435.pdf](https://eprint.iacr.org/2018/435.pdf) - A Treasury System for Cryptocurrencies research paper written in collaboration with IOG.
-* [https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view](https://drive.google.com/file/d/1kV56JwA7GqfmHShip6OscdlgvAwaDX-\_/view) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](funding-allocation-approaches.md) analysis.
+* [https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing](https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](funding-allocation-approaches.md) analysis.

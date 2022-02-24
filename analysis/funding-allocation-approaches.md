@@ -85,7 +85,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 
 **Improving proposal visibility**
 
-Two easy ways to help improve the proposal visibility would be using effective tagging for proposals and curated lists. Better tagging of proposals would mean it would be easier to group proposals based on common topics such as finance, agriculture or legal focussed proposals. Curated lists are another way where community members could create and share lists of proposals about a given topic to highlight ones the community benefit from reading about before voting. Curated lists could also mix well with the potential use of experts from different market segments.
+Two easy ways to help improve the proposal visibility would be using effective tagging for proposals and curated lists. Better tagging of proposals would mean it would be easier to group proposals based on common topics such as finance, agriculture or legal focused proposals. Curated lists are another way where community members could create and share lists of proposals about a given topic to highlight ones the community benefit from reading about before voting. Curated lists could also mix well with the potential use of experts from different market segments.
 
 ****
 

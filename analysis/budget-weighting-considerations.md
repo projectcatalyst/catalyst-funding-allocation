@@ -1,10 +1,12 @@
 ---
-description: Some considerations towards initial budget weighting
+description: >-
+  Some considerations for helping to decide on an initial budget to use for a
+  first round using funding categories
 ---
 
 # Budget Weighting Considerations
 
-The following are some reasons for and against having a larger or smaller initial budget weighting for each of the [funding categories](../funding-categories/categories/) that have been suggested.&#x20;
+The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../funding-categories/categories/) that have been suggested.&#x20;
 
 
 

@@ -30,7 +30,7 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Cardano Ecosystem is focussed on the following areas:
+Cardano Ecosystem is focused on the following areas:
 
 * Creation and improvement of tools, scripts, libraries and SDKs that help make it easier for projects to develop on Cardano and for the community to operate nodes in the network.
 * Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education of the existing ecosystem.
@@ -50,8 +50,8 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 **Types of proposals to include**
 
 * **SPO tools, scripts, libraries & SDKs** - Development that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
-* **Plutus and IELE tools, libraries & SDKs** - Development that helps DApp developers more easily write and deploy smart contracts onto the Cardano blockchain.
-* **Native asset tools, libraries & SDKs** - Development to improve how the community and DApp developers issue and manage native assets.&#x20;
+* **Plutus and IELE tools, libraries & SDKs** - Development that helps developers more easily write and deploy smart contracts onto the Cardano blockchain.
+* **Native asset tools, libraries & SDKs** - Development to improve how the community and developers can issue and manage native assets.&#x20;
 * **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
 * **Resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
 * **Standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
@@ -74,4 +74,4 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 **Considerations for proposers**
 
 * **Open source plan** - Any tools, libraries or SDKs are encouraged to be open source either from the start or as soon as possible. There is no requirement to be open source immediately however proposers should include the details of their plan towards open sourcing the project.
-* **Commercial projects** - Development projects most suited here will be open source with the aim of the work executed being available for the benefit of other projects to use and build their applications with. Commercial projects looking to build a network or DApp suited for an end user should use the DApps & Integration category for proposals. Projects are welcomed to make proposals in this category for any specific parts of their project that would be open source and should have benefit to the wider ecosystem around improving the development ecosystem or operation of Cardano.
+* **Commercial projects** - Development projects most suited here will be open source with the aim of the work executed being available for the benefit of other projects to use and build their applications with. Commercial projects looking to build a network or DApp suited for the  end user should use the Products & Integrations category for proposals. Projects are welcomed to make proposals in this category for any specific parts of their project that would be open source and should have benefit to the wider ecosystem around improving the development ecosystem or operation of Cardano.

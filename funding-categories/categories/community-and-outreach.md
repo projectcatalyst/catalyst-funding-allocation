@@ -30,7 +30,7 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Community & Outreach is focussed on the following important areas:
+Community & Outreach is focused on the following important areas:
 
 * Bringing the community together to engage with one another over important problems, topics, causes and any other important conversations.
 * Talking to people and organisations outside the community looking at how together we can help to solve problems, explore ways to collaborate or consider different opportunities for innovation.

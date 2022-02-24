@@ -30,7 +30,7 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Products & Integrations is focussed on the following areas:
+Products & Integrations is focused on the following areas:
 
 * Creation or improvement of different products that provide value to the Cardano community and wider ecosystem.
 * Integrations with other existing services, products and protocols that improve the end user experience whether thats giving the user more options or making something easier to use that benefits the wider ecosystem.&#x20;

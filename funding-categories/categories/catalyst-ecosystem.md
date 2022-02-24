@@ -30,7 +30,7 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Catalyst Ecosystem is focussed on the following areas:
+Catalyst Ecosystem is focused on the following areas:
 
 * Tools, libraries and SDKs that help with improving governance and identity around the systems we use including Catalyst and for the wider ecosystem applications.&#x20;
 * Resources, processes, documentation, mentors and accelerators that make it easier to participate and engage in the governance process in Catalyst.

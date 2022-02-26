@@ -84,7 +84,7 @@ Using the above examples we can consider the impact of how having certain fundin
 
 **Insurance Solutions Challenge** - Proposals for new decentralized insurance products
 
-* This challenge has the same issues as mentioned above. It is not egalitarian as it removes the opportunity for the idea about IOT devices for sharing local environment and agriculture data. This idea my not have anywhere else it could be submitted or if it can be would be at a disadvantage compared to proposals focused on insurance solutions that may be able to use multiple funding categorisations. If the proposal is unable to fit into another categorisation then the community would have less options of innovation opportunities to choose from.
+* This challenge has the same issues as mentioned above. It is not egalitarian as it removes the opportunity for the idea about IOT devices for sharing local environment and agriculture data. This idea may not have anywhere else it could be submitted. Or if it can be submitted it could be at a disadvantage compared to proposals focused on insurance solutions that are able to use multiple funding categorisations. If the proposal is unable to fit into another categorisation then the community would have less innovation opportunities options to choose from.
 
 
 

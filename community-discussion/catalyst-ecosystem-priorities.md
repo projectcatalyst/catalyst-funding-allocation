@@ -36,7 +36,7 @@ Priorities for the overall Catalyst ecosystem for helping distribute the Cardano
 
 **Fund proposals that can produce a high impact for the ecosystem**
 
-The overarching goal for the distribution of funding is for the receivers of funding to provide a high impact to the ecosystem. This is impact can be achieved through different ideas, support and changes.
+The overarching goal for the distribution of funding is for the receivers of funding to provide a high impact to the ecosystem. This impact could be achieved through different ideas, support and changes.
 
 ****
 

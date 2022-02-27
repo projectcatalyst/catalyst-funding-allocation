@@ -6,7 +6,7 @@ description: >-
 
 # Catalyst Ecosystem Priorities
 
-The following are some suggested priorities that apply to how funding is distributed in the Catalyst governance process.
+The following are some suggested functional priorities for what the Catalyst ecosystem should support to improve how the community can use that system to decide how to distribute funding.
 
 Please read [approaches for directing funding](catalyst-ecosystem-priorities.md#approaches-to-directing-funding) and [egalitarian funding categorisation](../analysis/egalitarian-funding-categorisation.md) before reviewing this document.
 
@@ -24,7 +24,7 @@ The funding categorisation is at the core of the funding process. It determines 
 
 Below we'll consider any general high level funding priorities for the Catalyst system as a whole and then also some priorities for the different stages of funding.
 
-The goal of these priorities are more focused on what the Catalyst ecosystem should be supporting from a functional and process level rather than focus on any opinions on where funding should be distributed towards. Opinions on where funding should be distributed come from the community, can be ever changing and will be applied on top of the system that is crated when the community use it.
+The goal of these priorities are more focused on what the Catalyst ecosystem should be supporting from a functional and process level rather than focus on opinions on where funding should be distributed towards. Opinions on where funding should be distributed come from the community, can be ever changing, and will be applied when using the Catalyst governance system.
 
 
 

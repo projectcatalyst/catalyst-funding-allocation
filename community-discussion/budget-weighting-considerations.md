@@ -8,6 +8,12 @@ description: >-
 
 The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../funding-categories/categories/) that have been suggested.&#x20;
 
+The following are suggestions to consider when giving feedback on the budget weighting discussion or community surveys. These suggestions are completely up for debate and currently only help to provide a starting point for the discussion.&#x20;
+
+
+
+**FEEDBACK AND THOUGHTS** - If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+
 
 
 ### Community & Outreach
@@ -59,7 +65,7 @@ The following are some reasons for and against having a larger or smaller initia
 
 **Reasons for a smaller initial  budget weighting**
 
-* The contributor funding approach has not been tested in practice using a first round of contributors yet.
+* The contributor funding approach has not yet been tested in practice using a first round of contributors.
 
 
 
@@ -85,4 +91,4 @@ The following are some reasons for and against having a larger or smaller initia
 
 **Reasons for a smaller initial budget weighting**
 
-* The contributor funding approach has not been battle tested in practice using a first round of contributors yet.
+* The contributor funding approach has not yet been battle tested in practice using a first round of contributors.

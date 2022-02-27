@@ -19,10 +19,15 @@
 
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
-* [Budget Weighting Considerations](analysis/budget-weighting-considerations.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Comparisons](analysis/categorisation-comparisons.md)
 * [Funding Allocation Approaches](analysis/funding-allocation-approaches.md)
+
+## Community Discussion
+
+* [Catalyst Ecosystem Priorities](community-discussion/catalyst-ecosystem-priorities.md)
+* [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
+* [Discussion](community-discussion/discussion.md)
 
 ## Background
 

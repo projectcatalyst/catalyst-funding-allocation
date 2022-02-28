@@ -10,7 +10,7 @@ Catalyst Ecosystem
 
 **Category question**
 
-What new tools, processes or research can help improve the governance of the Cardano treasury and also be used in the wider ecosystem?
+What tools, processes, support and research will help to improve the governance and identity used in Catalyst and the wider ecosystem?
 
 **Why is it important?**
 

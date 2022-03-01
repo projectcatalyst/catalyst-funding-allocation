@@ -13,5 +13,6 @@ There are a number of issues with the current challenge setting process used in 
 ### Contents
 
 * [**Funding Categories**](broken-reference) - A new approach of using only broad categories to help more easily allocate treasury funding.
-* [**Analysis**](broken-reference) - Exploring the differences between broad and specific categorisation when allocating funding.
+* [**Analysis**](broken-reference) - Analysis around different types of funding categorisation, comparing funding categorisation specificity, approaches for directing funding, egalitarian funding categorisation.
+* [**Community Discussion**](broken-reference) - Collection of content and feedback from the community regarding funding categories.
 * [**Background**](broken-reference) - Looking at the current process, issues and previous selected challenges used for allocating funding.

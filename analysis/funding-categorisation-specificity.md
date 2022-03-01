@@ -1,12 +1,14 @@
 ---
-description: A comparison of different approaches for allocating funding
+description: >-
+  A comparison of different approaches to do funding categorisation based on the
+  specificity
 ---
 
-# Funding Allocation Approaches
+# Funding Categorisation Specificity
 
-### Funding allocation: broad vs specific
+### Funding categorisation: broad vs specific
 
-There are a number of ways that funding could be allocated to distribute the Cardano treasury funding. One very important factor is how broad or specific the categorisation of that funding allocation is.
+There are a number of ways that funding could be allocated to distribute the Cardano treasury funding. One very important factor is how broad or specific the categorisation of that funding categorisation is.
 
 ![](<../.gitbook/assets/broad-vs-specific (1).png>)
 
@@ -41,7 +43,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 **Advantages**
 
 * **Very open funding** - Any team with any idea could make a proposal as there are no categories restricting where funding must be allocated.
-* **No budget weighting complexity** - All funding is available in one process meaning no allocation complexity is present in each funding round.
+* **No budget weighting complexity** - All funding is available in one process meaning no categorisation complexity is present in each funding round.
 * **No categorisation justification** - Community doesn't need to justify any categories each funding round meaning the community saves time and effort.
 
 **Issues**

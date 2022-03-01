@@ -4,7 +4,7 @@ description: A list of suggested categories to use for allocating Catalyst fundi
 
 # Categories
 
-The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-allocation-approaches.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
+The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-categorisation-specificity.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
 ![](../../.gitbook/assets/funding-categories.png)
 

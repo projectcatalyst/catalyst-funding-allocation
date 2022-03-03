@@ -10,15 +10,15 @@ Development & Node Operation
 
 **Category question**
 
-What resources, tools, libraries, SDKs, scripts or research can help those trying to run a node to secure the Cardano network or those building out the developer ecosystem?&#x20;
+What research, tools, libraries, SDKs or scripts can improve running a node to secure the Cardano network or the developer ecosystem?
 
 **Why is it important?**
 
-The Cardano ecosystem needs to be easy and efficient for new operators to run nodes to secure the network and for developers to easily build applications and integrations.
+Stake pool nodes need to be easy to run and developers need tools and libraries to more easily build applications and integrations
 
 **How does success look like?**
 
-Innovation of resources, tools, libraries, SDKs, scripts or research that improve the Cardano developer ecosystem or the operation of stake pool nodes.
+Innovation of resources, tools, libraries, SDKs, scripts or research within the developer ecosystem or for the operation of stake pool nodes
 
 **Key Metrics to measure**
 

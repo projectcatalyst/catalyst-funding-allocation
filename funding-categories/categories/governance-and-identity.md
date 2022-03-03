@@ -18,7 +18,7 @@ There is a need for effective governance and identity tools to support making it
 
 **How does success look like?**
 
-Continuous improvement and evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst or other Cardano applications
+Evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and applications building on Cardano
 
 **Key Metrics to measure**
 

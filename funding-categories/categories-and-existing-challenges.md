@@ -78,9 +78,9 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 ****
 
-**Catalyst Ecosystem**
+**Governance & Identity**
 
-* [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
+* ****[Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Community Advisor Improvements](https://cardano.ideascale.com/c/campaigns/26453/about) (fund 8)
 * [Self-Sovereign Identity](https://cardano.ideascale.com/c/campaigns/26451/about) (fund 8)
 * [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)
@@ -117,7 +117,7 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 
 
-**Cardano Ecosystem**
+**Development & Node Operation**
 
 * [Grow India, Grow Cardano](https://cardano.ideascale.com/c/campaigns/26454/about) (fund 8)
 * [Open Standards & Interoperability](https://cardano.ideascale.com/c/campaigns/26449/about) (fund 8)

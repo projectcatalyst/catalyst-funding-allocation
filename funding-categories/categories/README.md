@@ -6,7 +6,7 @@ description: A list of suggested categories to use for allocating Catalyst fundi
 
 The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-categorisation-specificity.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
-![](../../.gitbook/assets/funding-categories.png)
+![](<../../.gitbook/assets/funding-categories (1).png>)
 
 **Community & Outreach**
 
@@ -24,11 +24,11 @@ The products and integrations category focusses on helping fund projects looking
 
 ****
 
-**Catalyst Ecosystem**&#x20;
+**Governance & Identity**
 
-The Catalyst ecosystem category focusses on proposals that will help with improve and support the Catalyst ecosystem that managed the Cardano treasury. It also aims to help with providing wider ecosystem support with tools, libraries and SDKs concerning governance and identity.
+The Governance & Identity category focusses on proposals that will help with improve and support both Catalyst and the wider ecosystem with tools, libraries, SDKs, processes or research that help lead to integrating better governance and identity solutions.
 
-**=>** [**Read the Catalyst Ecosystem category brief**](catalyst-ecosystem.md)
+**=>** [**Read the Governance & Identity category brief**](governance-and-identity.md)
 
 ****
 
@@ -40,11 +40,11 @@ The Catalyst ecosystem category focusses on proposals that will help with improv
 
 ****
 
-**Cardano Ecosystem**&#x20;
+**Development & Node Operation**
 
-The Cardano ecosystem category looks for proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that would make it easier for developers to build new applications. It also looks at supporting the stake pool operation with tools and resources to make it as easy as possible for people to help secure the network by running a stake pool node.
+The Development & Node Operation category looks for proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that make it easier for developers to build applications. It also looks at supporting stake pool operation with tools and resources that will make it as easy as possible for people to help secure the network by running a stake pool node.
 
-**=>** [**Read the Cardano Ecosystem category brief**](cardano-ecosystem.md)****
+**=>** [**Read the Development & Node Operation category brief**](development-and-node-operation.md)****
 
 ****
 

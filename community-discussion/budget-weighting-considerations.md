@@ -42,7 +42,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 
 
-### Catalyst Ecosystem
+### Governance & Identity
 
 **Reasons for a larger initial budget weighting**
 
@@ -69,7 +69,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 
 
-### Cardano Ecosystem
+### Development & Node Operation
 
 **Reasons for a larger initial budget weighting**
 

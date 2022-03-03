@@ -2,23 +2,23 @@
 description: Cardano Ecosystem category proposal
 ---
 
-# Cardano Ecosystem
+# Development & Node Operation
 
 **Category Title**
 
-Cardano Ecosystem
+Development & Node Operation
 
 **Category question**
 
-What new resources, tools, libraries, SDKs, scripts or research can help those trying to run a node to secure the Cardano network or those building out the developer ecosystem?&#x20;
+What resources, tools, libraries, SDKs, scripts or research can help those trying to run a node to secure the Cardano network or those building out the developer ecosystem?&#x20;
 
 **Why is it important?**
 
-The Cardano ecosystem needs to be easy and efficient for new operators to run nodes to secure the network and for new developers to build applications and integrations.
+The Cardano ecosystem needs to be easy and efficient for new operators to run nodes to secure the network and for developers to easily build applications and integrations.
 
 **How does success look like?**
 
-New or improvements of resources, tools, libraries, SDKs, scripts or research that improve the Cardano developer ecosystem or the operation of stake pool nodes.
+Innovation of resources, tools, libraries, SDKs, scripts or research that improve the Cardano developer ecosystem or the operation of stake pool nodes.
 
 **Key Metrics to measure**
 
@@ -30,20 +30,20 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Cardano Ecosystem is focused on the following areas:
+Development & Node Operation is focused on the following areas:
 
-* Creation and improvement of tools, scripts, libraries and SDKs that help make it easier for projects to develop on Cardano and for the community to operate nodes in the network.
-* Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education of the existing ecosystem.
+* Creation and improvement of tools, scripts, libraries and SDKs that help make it easier for projects to develop on Cardano and for the community to operate stake pool nodes in the network.
+* Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education around what is available in the ecosystem for development or node operation.
 
 ****
 
 **Why this category is important**
 
-The Cardano developer ecosystem and operation of stake pool nodes need to be easy for newcomers and budding talent to get involved with and learn.
+The Cardano developer ecosystem and operation of stake pool nodes need to be easy for newcomers and budding talent to start learning and using.
 
 To make it easy to develop projects on Cardano as well as operate the network there is a need for high quality resources, standards, tools, scripts, libraries and SDKs for developers and operators to use.
 
-The higher quality and more thorough the developer and stake pool node ecosystem is for Cardano the faster that people can be onboarded and build out applications that the high quality and security standards that ecosystem needs to thrive.
+The higher quality and more thorough the developer and stake pool node ecosystem is for Cardano the faster that people can be onboarded and build out applications to a high quality and security standard.
 
 
 

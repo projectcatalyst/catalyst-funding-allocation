@@ -1,24 +1,24 @@
 ---
-description: Catalyst Ecosystem category proposal
+description: Governance & Identity category proposal
 ---
 
-# Catalyst Ecosystem
+# Governance & Identity
 
 **Category Title**
 
-Catalyst Ecosystem
+Governance & Identity
 
 **Category question**
 
-What tools, processes, support and research will help to improve the governance and identity used in Catalyst and the wider ecosystem?
+What tools, processes and research will improve governance or identity in the Catalyst ecosystem or for applications building on Cardano?
 
 **Why is it important?**
 
-The Cardano ecosystem needs effective governance and identity tools to support the distribution of the treasury and applications building on Cardano.
+There is a need for effective governance and identity tools to support making it easier for application development and evolution of Catalyst
 
 **How does success look like?**
 
-Continuous improvement and evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and other applications governance.
+Continuous improvement and evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst or other Cardano applications
 
 **Key Metrics to measure**
 
@@ -30,11 +30,11 @@ Please refer to the suggested challenge brief success metrics ideas for differen
 
 **Overview**
 
-Catalyst Ecosystem is focused on the following areas:
+Governance & Identity is focused on the following areas:
 
-* Tools, libraries and SDKs that help with improving governance and identity around the systems we use including Catalyst and for the wider ecosystem applications.&#x20;
-* Resources, processes, documentation, mentors and accelerators that make it easier to participate and engage in the governance process in Catalyst.
-* Research and analysis that help drive novel or improved approaches for governance that can be used in the Catalyst and wider ecosystem.
+* Tools, libraries and SDKs that help with improving governance and identity around the systems we use including Catalyst or also to be used by wider ecosystem applications.&#x20;
+* Resources, processes, documentation, mentors and accelerators that make it easier to participate and engage in the Catalyst governance process.
+* Research, analysis or reports that help drive novel or improved approaches for governance or identity that can be used in the Catalyst or wider ecosystem.
 
 ****
 
@@ -42,9 +42,9 @@ Catalyst Ecosystem is focused on the following areas:
 
 Catalyst provides the governance process for the distribution of Cardano treasury funding.&#x20;
 
-To maximise the potential of the ecosystem there is a need for effective and robust governance to help distribute treasury funding that will create a thriving community, development ecosystem and growing list of DApps and integrations.
+To maximise the potential of the ecosystem there is a need for effective and robust governance and identity tools to help distribute treasury funding. Achieving this will create a thriving community, an easier to use development ecosystem and nurture a growing list of products and integrations.
 
-The better that Catalyst is able to effectively help with governing and distributing funds the faster the ecosystem can create the innovations and adoption needed for Cardano to thrive as a ecosystem.
+The better that Catalyst is able to effectively help with governing and distributing funds the faster the ecosystem can create the innovations and adoption needed for Cardano to thrive. The better open source tools are made available for governance and identity within the ecosystem the faster interesting and novel solutions can be deployed.
 
 
 

@@ -37,19 +37,22 @@ Nurturing Ideas
 
 **Category question**
 
-How can we encourage smaller teams or new ideas to emerge and offer new approaches to evolve and support the Cardano ecosystem?
+How can we encourage smaller projects ideas and approaches to offer support or new innovations in the ecosystem?
 
 **Why is it important?**
 
-Cardano needs an increasingly diverse amount of ideas and teams involved in trying out new things in the ecosystem.
+Need for increasingly diverse ideas from different teams trying to support the ecosystem or bring in new innovation
 
 **How does success look like?**
 
-An increasing number of small initiatives and ideas that provide new opportunities to the ecosystem to learn or benefit from.
+An increasing number of small initiatives and ideas that provide new opportunities to the ecosystem to learn and benefit from
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metrics ideas for different proposal types.
+The community will benefit from measuring:
+
+* The number of teams and ideas supported to support the ecosystem or offer new novel innovations.
+* How those funded for this category lead to education or further proposals that improve the ecosystem.
 
 
 

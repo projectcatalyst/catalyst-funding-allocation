@@ -1,5 +1,5 @@
 ---
-description: Cardano Ecosystem category proposal
+description: Development & Node Operation category proposal
 ---
 
 # Development & Node Operation

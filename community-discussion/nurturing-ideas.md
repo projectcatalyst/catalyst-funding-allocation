@@ -21,7 +21,7 @@ Broad categorisation is [egalitarian in theory](../analysis/egalitarian-funding-
 
 ****
 
-**Hidden new ideas**
+**New ideas from unknown teams**
 
 If existing funded proposers are well known and have been effectively delivering against previous proposals then this could have a knock on impact for new proposal teams. New ideas from teams that aren't well known may struggle to get initial exposure and access to capital to prove their ideas are of importance.
 

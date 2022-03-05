@@ -26,6 +26,7 @@
 
 ## Community Discussion
 
+* [Nurturing Ideas](community-discussion/nurturing-ideas.md)
 * [Catalyst Ecosystem Priorities](community-discussion/catalyst-ecosystem-priorities.md)
 * [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
 * [Discussion](community-discussion/discussion.md)

@@ -20,6 +20,7 @@
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
 * [Proposers With Fewer Resources](analysis/proposers-with-fewer-resources.md)
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
+* [Categories vs Categories & Challenge Settings](analysis/categories-vs-categories-and-challenge-settings.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Comparisons](analysis/categorisation-comparisons.md)
 * [Funding Categorisation Specificity](analysis/funding-categorisation-specificity.md)

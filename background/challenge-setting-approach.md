@@ -34,7 +34,7 @@ The budget weighting for challenge settings is self determined by the proposal. 
 
 
 
-**Complexity justifying very specific challenge settings**
+**Complexity justifying specific challenge settings**
 
 The general guidelines for challenge setting proposals are to not be too broad but also not too specific. As the proposer is free to make any challenge the risk still exists that the challenge could be overly specific. For instance a challenge setting called [Connecting Japan/日本 Community](https://cardano.ideascale.com/c/campaigns/26238/about) focusses on the country of Japan. The population for Japan is around 125 million. The total worldwide population is 7.9 billion. The challenge targets around 1.58% of the global population which makes the challenge very specific. This adds complexity as more data, reasoning and evidence is needed to provide confidence on whether this specificity of focus is an effective way to direct funding over other options. The example above is not trying to suggest what specific challenge is and is not effective for funding allocation. Instead the only important thing to highlight is how specific challenges increase the complexity of justifying and governing the decisions of where to allocate funding. This complexity is a time and resource cost that impacts all stakeholders in the ecosystem.
 

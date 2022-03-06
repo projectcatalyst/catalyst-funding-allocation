@@ -79,7 +79,7 @@ Using different organisation functions along with Products & Integrations as fun
 **Advantages**
 
 * **High clarity** - It is easy to add high clarity on exactly what type of proposal would go in each category.
-* **Easy to direct funding** - The types of proposal for each category are well defined using the different organisation functions. This makes it easier to direct funding to another area if one area is performing well and needs less financial assistance then the budget weighting can be changed through a community vote on a subsequent funding round. However this categorisation is not effective at separating the funding to either the Catalyst or Cardano ecosystems.
+* **More precision when directing funding** - The types of proposal for each category are well defined using the different organisation functions. This makes it easier to direct funding to another area if one area is performing well and needs less financial assistance then the budget weighting can be changed through a community vote on a subsequent funding round. However this categorisation is not effective at separating the funding to either the Catalyst or Cardano ecosystems.
 
 
 
@@ -175,7 +175,7 @@ Using a combination of the above approaches in a combined category approach. Thi
 
 ### **Summary**
 
-* Locations add a lot of complexity around budget weighting, causing complexity from multiple split up proposals and creates harder justification for how to decide which countries and areas to group together or keep separate as over 190 country categories would not be practical. Locations as categorisation do not map well with most ecosystem tools and DApps that are built to be global.
+* Locations add a lot of complexity around budget weighting, causing complexity through multiple split up proposals and also creates harder justification for how to decide which countries and areas to group together or keep separate as over 190 country categories would not be practical. Location based categorisation does not map well with most ecosystem tools and DApps that are built to be global.
 * Organisation functions could be effective at directing funding to more specific areas within Cardano and Catalyst however when those same ecosystems use the same categories it makes it harder to direct funding between them. The increase in budget weighting complexity is also a concern.
 * Category combinations make most areas more complex around justification, budget weighting and the governance surrounding it. The benefits of this approach of simpler categorisation are not clear making it a less attractive approach.
 * Ecosystem areas is the simplest categorisation approach and effectively allows the community to direct funding between Governance & Identity, Development & Node Operation, Products & Integrations and Community & Outreach efforts. Another reason ecosystem areas is an effective approach is that organisation functions can also be covered by complementary categories that fund contributors full time which are suggested in the [categories](../funding-categories/categories/).

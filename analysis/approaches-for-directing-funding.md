@@ -1,7 +1,7 @@
 ---
 description: >-
-  Exploring different ways that funding could be more effectively directed when
-  using broad categorisation
+  Exploring ways that could be used to more effectively direct funding when
+  using broad funding categorisation
 ---
 
 # Approaches For Directing Funding
@@ -56,9 +56,9 @@ Funding data is valuable to give voters a better understanding of which teams ha
 
 
 
-**Community priority reports** (Medium term achievable)
+**Community reports** (Medium term achievable)
 
-A community priority report would involve someone compiling together the data, evidence and reasoning around a given topic, problem or idea to present a report to the community of why something is of a higher priority. This is very similar to the challenge setting process that is currently used however the key difference is it separates the analysis and justification from the funding categorisation. Instead community priority reports could be used to share analysis with the community where people are then able to provide feedback, suggestions about other areas to consider and also offer counter arguments. Reports could be highly valuable as it allows people to focus on looking at a single specific area in depth and make suggestions and recommendations based upon that research. Writing these reports should ideally include some form of community peer review. Impactful reports could also be compensated through the treasury. The aggregation of these types of reports could be very useful for both experts and community members to help them make more informed voting decisions on where to direct funding.
+A community report would involve someone compiling together the data, evidence and reasoning around a given topic, problem or idea to present a report to the community of why something is of a higher priority. This is very similar to the challenge setting process that is currently used however the key difference is it separates the analysis and justification from the funding categorisation. Instead community priority reports could be used to share analysis with the community where people are then able to provide feedback, suggestions about other areas to consider and also offer counter arguments. Reports could be highly valuable as it allows people to focus on looking at a single specific area in depth and make suggestions and recommendations based upon that research. Writing these reports should ideally include some form of community peer review. Impactful reports could also be compensated through the treasury. The aggregation of these types of reports could be very useful for both experts and community members to help them make more informed voting decisions on where to direct funding.
 
 
 

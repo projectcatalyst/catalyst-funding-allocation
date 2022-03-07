@@ -74,7 +74,13 @@ A bonus funding incentive is the idea that the community could use funds to put 
 
 Using rapid funding mechanisms could be an effective way to fund proposals that solve problems or capture opportunities when those proposals are more time sensitive. A community governance process could make the funds available to whoever can propose and implement a solution to the task.
 
-****
+
+
+**Quadratic funding**
+
+[Quadratic funding](https://wtfisqf.com) can be an effective tool to more effectively distribute funding to projects or causes in a more democratic way. There is a need to solve the issues around [sybil resistance](https://en.wikipedia.org/wiki/Sybil\_attack) by including one or multiple ways for the voters to verify they are a person. The use of quadratic funding could be applied to create incentives for people to solve certain problems or improve certain areas of the ecosystem.&#x20;
+
+
 
 **Marketing**
 

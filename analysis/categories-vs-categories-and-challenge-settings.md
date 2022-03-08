@@ -27,7 +27,7 @@ The following looks to compare why the community may choose to use just categori
 * [**Broad categorisation disadvantages**](funding-categorisation-specificity.md) - Using just broad categories would mean getting all the disadvantages that are outlined in the analysis of the implications of broad categorisation. Those disadvantages include:
   * **Lower precision for directing funding** - Solving this issue is covered in [approaches for directing funding](approaches-for-directing-funding.md)
   * **Lower proposal visibility** - Solving this issue is covered in [approaches for directing funding](approaches-for-directing-funding.md)
-  * **Increased funding difficulty for smaller teams** - Solving this issue can be supported by a category for [nurturing ideas](../community-discussion/nurturing-ideas.md) and also is helped by more [approaches for directing funding](approaches-for-directing-funding.md)
+  * **Increased funding difficulty for smaller teams** - Solving this issue can be supported by a category for [nurturing ideas](../funding-categories/categories/nurturing-ideas-and-teams.md) and also is helped by more [approaches for directing funding](approaches-for-directing-funding.md)
 
 ****
 

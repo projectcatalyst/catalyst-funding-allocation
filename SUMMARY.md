@@ -12,6 +12,7 @@
   * [Catalyst Contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)
   * [Development & Node Operation](funding-categories/categories/development-and-node-operation.md)
   * [Cardano Contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)
+  * [Nurturing Ideas & Teams](funding-categories/categories/nurturing-ideas-and-teams.md)
 * [Rapid Funding](funding-categories/rapid-funding.md)
 * [Categories & Existing Challenges](funding-categories/categories-and-existing-challenges.md)
 
@@ -20,6 +21,7 @@
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
 * [Proposal Inspiration & Encouragement](analysis/proposal-inspiration-and-encouragement.md)
+* [Small Budget Proposals](analysis/small-budget-proposals.md)
 * [Proposers With Fewer Resources](analysis/proposers-with-fewer-resources.md)
 * [Categories vs Categories & Challenge Settings](analysis/categories-vs-categories-and-challenge-settings.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
@@ -28,7 +30,6 @@
 
 ## Community Discussion
 
-* [Nurturing Ideas](community-discussion/nurturing-ideas.md)
 * [Catalyst Ecosystem Priorities](community-discussion/catalyst-ecosystem-priorities.md)
 * [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
 * [Discussion](community-discussion/discussion.md)

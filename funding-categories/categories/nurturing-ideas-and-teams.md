@@ -1,35 +1,15 @@
 ---
 description: >-
-  Exploring the idea of a nurturing ideas as an additional category aimed at
-  bringing in numerous smaller projects with new ideas or ways to support the
-  ecosystem
+  Exploring the idea of a nurturing ideas & teams as an additional category
+  aimed at bringing in numerous smaller projects with new ideas or ways to
+  support the ecosystem
 ---
 
-# Nurturing Ideas
-
-### Broad categorisation problems
-
-
-
-**Increase difficulty for people with fewer resources**
-
-Broad categorisation is [egalitarian in theory](../analysis/egalitarian-funding-categorisation.md) but can be unfair for some proposers in practice that have [fewer resources](../analysis/proposers-with-fewer-resources.md). When competition is higher this can make it more difficult for people with fewer resources to compete with producing proposals as effectively as those with more resources.
-
-****
-
-**Decreased visibility of unknown teams or new ideas**
-
-If existing funded proposers are well known and have been effectively delivering against previous proposals then this could have the impact of making it easier for that team to get funding in the future. This can have a negative knock on impact for new proposal teams who have to compete with more established teams. New ideas from unknown teams may struggle to get initial exposure and access to capital to prove their ideas are of importance.
-
-****
-
-## Nurturing Ideas & Teams
-
-
+# Nurturing Ideas & Teams
 
 **Category Title**
 
-Nurturing Ideas
+Nurturing Ideas & Teams
 
 **Category question**
 

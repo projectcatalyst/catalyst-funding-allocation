@@ -152,6 +152,12 @@ Every existing challenge fits into the suggested broad funding categories. For t
 
 ****
 
+**Nurturing Ideas & Teams**
+
+This category is open to any idea from the community so all previous challenges could have proposals that fit into this category. The only constraint in the [Nurturing Ideas & Teams](categories/nurturing-ideas-and-teams.md) category is proposals have a small maximum budget so they can try out different ideas and form teams.
+
+****
+
 **Catalyst Natives**
 
 * [Catalyst Natives COTI: Pay with ADA Plug-in](https://cardano.ideascale.com/c/campaigns/26256/about) (fund 7)

@@ -6,7 +6,7 @@ description: A list of suggested categories to use for allocating Catalyst fundi
 
 The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-categorisation-specificity.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
-![](<../../.gitbook/assets/funding-categories (1).png>)
+![](../../.gitbook/assets/funding-categories-normal.png)
 
 **Community & Outreach**
 
@@ -55,6 +55,14 @@ The Development & Node Operation category looks for proposals that will help imp
 **=>** [**Read the Cardano Contributors category brief**](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)****
 
 
+
+**Nurturing Ideas & Teams**
+
+Nurturing Ideas & Teams is all about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget to increase the number of teams and ideas that can be funded to increase the idea and team diversity.&#x20;
+
+**=>** [**Read the Nurturing Ideas & Teams brief**](nurturing-ideas-and-teams.md)
+
+****
 
 **Catalyst Natives**
 

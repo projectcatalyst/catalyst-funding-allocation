@@ -13,7 +13,7 @@ Nurturing Ideas & Teams
 
 **Category question**
 
-How can we encourage new ideas and new teams to get funded to bring new innovations or support to the ecosystem?
+How can we encourage new ideas and teams to form and bring new innovations or support to the ecosystem?
 
 **Why is it important?**
 
@@ -48,13 +48,13 @@ Nurturing Ideas is focused on the following important areas:
 
 The ecosystem needs to have a way to easily introduce and nurture new and existing ideas that could provide impact to the ecosystem.
 
-Having a category focussed on nurturing ideas can help to ensure that there is always an exploration of new ideas, processes and approaches within the ecosystem.&#x20;
+Having a category focussed on nurturing ideas can help to ensure that there is always exploration of new ideas, processes and approaches that could benefit the ecosystem.&#x20;
 
-Nurturing ideas & teams provides a less competitive path to request initial funding in the the Catalyst ecosystem by having a cap on what amount of funding each proposal can request.
+Nurturing ideas & teams is a category that applies a cap to the amount of funding a proposal can request. This provides a less competitive environment for teams to find initial funding to nurture their growth and evolution.
 
-This category can be seen as an on ramp for new ideas and teams to try things out and show what they are capable of with some initial funding.
+This category can be seen as an on ramp for new ideas and teams for trying things out something and showing the community what they are capable of achieving.
 
-The more ideas and exploration the community can nurture the faster the ecosystem can learn from and develop better solutions. The more new teams that can be introduced and formed in the ecosystem the better the diversity and combined efforts can be made as a community.
+The more ideas and exploration the community can nurture the faster the ecosystem can learn from and develop better solutions. The more new teams that can be formed the better the diversity and combined efforts that can be made as a community.
 
 
 

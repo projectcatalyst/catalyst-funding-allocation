@@ -56,12 +56,14 @@ Effective community initiatives will improve how people joining the ecosystem fi
 * **Hackathons** - Encouraging new projects and teams to form around a development theme
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.
-* **Demos** - Demo tutorials and videos of ecosystem functionality or DApp features that helps newcomers learn about Cardano and the wider ecosystem.
+* **Demos** - Demo tutorials, videos and content showcasing Cardano functionality or DApp features that will help newcomers learn about Cardano and the wider ecosystem.
 * **Legal** - Creation of a legal community team to support the ecosystem, resources for community projects on legal concerns.
 * **Interviews & podcasts** - Recorded interview and podcasts with community members and project teams to showcase news and latest developments.
 * **Community hubs** - Education, awareness and support based community hubs in different countries internationally.
+* **Culture** - Workshops, education or projects that help with establishing and nurturing a collaborative and open culture within the different Cardano communities.
 * **Proposer outreach** - Outreach approaches to help increase the number of quality proposals submitted into each funding round.
 * **Translation support** - Support for translating core resources both in the ecosystem or for DApp projects that would help to engage more of the international community.
+* **Education** - Guides and resources about the wider Cardano ecosystem, communities and projects.
 
 ****
 

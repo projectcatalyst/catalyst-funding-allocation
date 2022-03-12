@@ -61,6 +61,7 @@ If the fund 9 total budget was $32 million and the community voted for 70% total
 
 * **Voter power** - 1 person 1 vote.
 * **Weighted outcome** - The outcome from the vote is based on weightings and not the highest voted item. For instance if there was only a mix between 60% and 100% votes the outcome would move closer to 80%.
+* **Rounded outcome** - The outcome will be rounded to the nearest 10% for increased simplicity. If the result value sits exactly in the middle such as 75 we will round down to 70 rather than up. Any amount above the middle number will be rounded up.
 
 
 
@@ -115,3 +116,4 @@ If the total funding allocation was $22,400,000, as per this first decision exam
 
 * **Voter power** - 1 person 1 vote.
 * **Weighted outcome** - The outcome from the vote is based on weightings. The values will be aggregated from every vote to work out the final values for each category.
+* **Rounded outcome** - The final values will be rounded to the nearest whole number. For example, 24.64 would be rounded to a 25% allocation. The total weightings together will equal 100%.

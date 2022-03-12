@@ -18,12 +18,12 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 ### Community & Outreach
 
-**Reasons for a larger initial budget weighting**
+**Reasons for a larger budget weighting**
 
 * Need for community wide discussion around how ecosystem gets implemented and operates.
 * A need for outreach to new collaborators or community members to help grow the number of people involved in the ecosystem.
 
-**Reasons for a smaller initial budget weighting**
+**Reasons for a smaller budget weighting**
 
 * It's beneficial to have products and integrations in place to form communities around to solve and iterate on defined problems and mission statements.
 * Limited functionality and applications in the short term could cause increased churn for any outreach efforts to attract new community members.
@@ -32,11 +32,11 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 ### **Products & Integrations**
 
-**Reasons for a larger initial budget weighting**
+**Reasons for a larger budget weighting**
 
 * Cardano needs more use cases through applications and integrations that will help drive adoption.
 
-**Reasons for a smaller initial budget weighting**
+**Reasons for a smaller budget weighting**
 
 * Developer ecosystem currently lacks a wide range of tools, libraries and SDKs. This makes it more difficult to develop applications on the Cardano ecosystem in the short term until more of the development ecosystem is implemented.
 
@@ -57,13 +57,13 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 ### Catalyst Contributors
 
-**Reasons for a larger initial budget weighting**
+**Reasons for a larger budget weighting**
 
 * New tools and processes are needed to help the community take more ownership of the governance process.
 * The Catalyst process is labour intensive and requires more people supporting how it operates.
 * Contributors have an objective to help with collaboration which can help to reduce the amount of duplicated efforts for new developments that get funded in the Catalyst ecosystem.
 
-**Reasons for a smaller initial  budget weighting**
+**Reasons for a smaller  budget weighting**
 
 * The contributor funding approach has not yet been tested in practice using a first round of contributors.
 
@@ -71,12 +71,12 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 ### Development & Node Operation
 
-**Reasons for a larger initial budget weighting**
+**Reasons for a larger budget weighting**
 
 * New scripts, tools, libraries and SDKs are needed to make it easier to develop and deploy applications onto the Cardano blockchain.
 * The developer ecosystem will become the backbone of what DApp developers use to build on top of the blockchain. Enough funding is required to pay for highly skilled developers that can produce secure and maintainable open source code that will be used by other teams to build applications.
 
-**Reasons for a smaller initial budget weighting**
+**Reasons for a smaller budget weighting**
 
 * :thinking:
 
@@ -84,11 +84,24 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 ### Cardano Contributors
 
-**Reasons for a larger initial budget weighting**
+**Reasons for a larger budget weighting**
 
 * New scripts, tools, libraries and SDKs are needed to make it easier to develop and deploy applications onto the Cardano blockchain.
 * Contributors have an objective to help with collaboration which can help to reduce the amount of duplicated efforts for new developments that get funded in the Cardano ecosystem.
 
-**Reasons for a smaller initial budget weighting**
+**Reasons for a smaller budget weighting**
 
 * The contributor funding approach has not yet been battle tested in practice using a first round of contributors.
+
+
+
+### Nurturing Ideas & Teams
+
+**Reasons for a larger budget weighting**
+
+* Increased budget weighting for this category would mean increasing the number of smaller teams and ideas that can be funded for more experimentation.
+
+**Reasons for a smaller budget weighting**
+
+* The small budget cap on proposals means that many proposals can be funded with even a modest total budget. If the total funding is too high it becomes more difficult to fill the category with quality proposals. A less competitive process could lead to a reduction in the average proposal quality.
+* Certain types of proposal around development would benefit from more development ecosystem, governance or identity tools for them to execute a lower budget proposal. Proposals can be of any idea and type for this category so this factor only impacts some proposals.

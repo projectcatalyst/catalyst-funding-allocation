@@ -34,6 +34,14 @@
 * [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
 * [Discussion](community-discussion/discussion.md)
 
+## Community Votes
+
+* [Fund 8 - Categories Budget Weighting](community-votes/fund-8-categories-budget-weighting/README.md)
+  * [Voter Check List](community-votes/fund-8-categories-budget-weighting/voter-check-list.md)
+  * [Voter FAQ](community-votes/fund-8-categories-budget-weighting/voter-faq.md)
+  * [Vote Meeting (Monday 14th March)](community-votes/fund-8-categories-budget-weighting/vote-meeting-monday-14th-march.md)
+  * [Back Up Vote (Async)](community-votes/fund-8-categories-budget-weighting/back-up-vote-async.md)
+
 ## Background
 
 * [Challenge Setting Approach](background/challenge-setting-approach.md)

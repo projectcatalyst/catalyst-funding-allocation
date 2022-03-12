@@ -8,7 +8,7 @@ description: Details for the vote held online in a meeting format.
 
 **Time**: 18:00 UTC
 
-**Zoom link**: TBC
+**Zoom link**: [https://us02web.zoom.us/j/85689813575](https://us02web.zoom.us/j/85689813575)
 
 
 

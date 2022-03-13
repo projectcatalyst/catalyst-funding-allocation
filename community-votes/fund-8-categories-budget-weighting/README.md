@@ -30,7 +30,9 @@ The following is the two budget weighting decisions for this community vote.
 
 ****
 
-**Question** - What percentage should the total allocation be for all of the seven funding categories be out of the total funding available for fund 9?
+**Question** - What percentage should the total allocation be for all of the seven broad [funding categories](../../funding-categories/categories/) be out of the total funding available for fund 9?&#x20;
+
+The remaining percentage would be what is available for other challenge setting proposals. For example 80% allocation to funding categories would mean 20% allocation for other challenge settings.
 
 ****
 

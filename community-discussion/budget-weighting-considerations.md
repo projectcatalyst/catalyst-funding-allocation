@@ -20,7 +20,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 **Reasons for a larger budget weighting**
 
-* Need for community wide discussion around how the ecosystem innovates and operates.
+* Need for community wide discussion around how the ecosystem innovates and operates and also around impactful topics.
 * A need for outreach to new collaborators or community members to help grow the number of people involved in the ecosystem.
 
 **Reasons for a smaller budget weighting**
@@ -47,7 +47,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 **Reasons for a larger initial budget weighting**
 
 * Catalyst is currently very centralised relying on IOG and Ideascale. More tools and processes that can help the community operate this process are needed to move more governance control over to the community.
-* There is a lack of governance and identity tools and processes that can help applications building on Cardano have more resources to have more effective ways to govern their applications.
+* There is a lack of governance and identity tools, resources, processes that can help either Catalyst or applications building on Cardano to use and create more effective ways to govern these systems.
 
 **Reasons for a smaller initial budget weighting**
 

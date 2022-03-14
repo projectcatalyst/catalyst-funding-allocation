@@ -20,12 +20,12 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 **Reasons for a larger budget weighting**
 
-* Need for community wide discussion around how ecosystem gets implemented and operates.
+* Need for community wide discussion around how the ecosystem innovates and operates.
 * A need for outreach to new collaborators or community members to help grow the number of people involved in the ecosystem.
 
 **Reasons for a smaller budget weighting**
 
-* It's beneficial to have products and integrations in place to form communities around to solve and iterate on defined problems and mission statements.
+* It's beneficial to have enough products and integrations in place to form communities around to iterate on problems and mission statements.
 * Limited functionality and applications in the short term could cause increased churn for any outreach efforts to attract new community members.
 
 ****
@@ -46,8 +46,8 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 **Reasons for a larger initial budget weighting**
 
-* Catalyst is currently very centralised relying on IOG and Ideascale. More tools and processes that help the community can operate are needed to move more governance control over to the community.
-* There is a lack of governance and identity tools and processes that can help applications building on Cardano to have more effective ways to govern their applications.
+* Catalyst is currently very centralised relying on IOG and Ideascale. More tools and processes that can help the community operate this process are needed to move more governance control over to the community.
+* There is a lack of governance and identity tools and processes that can help applications building on Cardano have more resources to have more effective ways to govern their applications.
 
 **Reasons for a smaller initial budget weighting**
 
@@ -66,6 +66,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 **Reasons for a smaller  budget weighting**
 
 * The contributor funding approach has not yet been tested in practice using a first round of contributors.
+* Proposals for candidates will have a maximum of roughly $55,000 per contributor depending on the role. A large budget may make it difficult to fill up this new approach with candidates in the short term.
 
 
 
@@ -92,6 +93,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 **Reasons for a smaller budget weighting**
 
 * The contributor funding approach has not yet been battle tested in practice using a first round of contributors.
+* Proposals for candidates will have a maximum of roughly $55,000 per contributor depending on the role. A large budget may make it difficult to fill up this new approach with candidates in the short term.
 
 
 
@@ -103,5 +105,5 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 **Reasons for a smaller budget weighting**
 
-* The small budget cap on proposals means that many proposals can be funded with even a modest total budget. If the total funding is too high it becomes more difficult to fill the category with quality proposals. A less competitive process could lead to a reduction in the average proposal quality.
+* The small budget cap on proposals means that many proposals can be funded with even a modest total budget. If the total funding is too high it increases the difficulty to fill the category with quality proposals. A less competitive process could lead to a reduction in the average proposal quality.
 * Certain types of proposal around development would benefit from more development ecosystem, governance or identity tools for them to execute a lower budget proposal. Proposals can be of any idea and type for this category so this factor only impacts some proposals.

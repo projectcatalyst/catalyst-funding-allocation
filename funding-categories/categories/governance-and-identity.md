@@ -52,12 +52,13 @@ The better that Catalyst is able to effectively help with governing and distribu
 
 * **Governance tools, libraries & SDKs** - Tools that help with governance participation and decision making that can be used by Catalyst but also could be used by other teams building in the ecosystem. Tools for governance will help the Catalyst function more effectively as a DAO.
 * **DAO tools, libraries & SDKs** - Development that helps the wider community to build DAOs for their own projects.
-* **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used by the wider community.
+* **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used in other applications in the wider ecosystem. Identity solutions could be Atala PRISM focussed but could also be integrations of other identity systems into the Cardano ecosystem.
 * **Rapid funding mechanisms** - New rapid funding mechanisms looking at improving the distribution of funding of the Cardano treasury.
 * **Auditing tools or processes** - Tools and process improvements that help with auditing funded proposals to help ensure they have the support needed to maximise the impact produced.
 * **Catalyst accelerators & mentors** - Tools, guides, mentors and programs that help people with going through the Catalyst funding process and working on their project.&#x20;
-* **Resources, processes & documentation** - Improvements to resources, processes and documentation that help with understanding and engaging with the Catalyst ecosystem.
-* **Governance research and analysis** - Research and analysis projects that will help improve how the community can approach governance.
+* **Resources, processes, hosted discussions & documentation** - Proposals aimed at helping improve understanding and engagement with the Catalyst ecosystem or around governance topics such as improving decision making or processes for how the community reaches consensus.
+* **Governance research and analysis** - Research and analysis projects that will help improve how the community can approach governance. This can include exploring existing or new governance models that could improve how the community approaches distributed governance.
+* **Education** - Demos, guides, videos or documentation for improving the education resources available about the different governance and identity tools, libraries and processes available in the ecosystem.
 
 ****
 
@@ -71,8 +72,9 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **Rapid funding mechanisms** - Number of participants involved in governance process, speed of funding distribution, number of projects supported through mechanism.
 * **Auditing tools or processes** - Amount of adoption from other projects, number of projects being audited, number of projects receiving extra support, number of projects having funding halted due to lack of execution.
 * **Catalyst accelerators & mentors** - Number of projects onboarded onto support programs, number of projects supported.
-* **Resources, processes & documentation** - Number of viewers on content, reduction in common questions support due to better resources or documentation.
+* **Resources, processes, hosted discussions & documentation** - Number of viewers on content, reduction in common questions support due to better resources or documentation.
 * **Governance research and analysis** - Number of citations, number of projects utilising research or analysis in their execution.
+* **Education -** Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
 
 
 

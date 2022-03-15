@@ -57,7 +57,7 @@ Effective community initiatives will improve how people joining the ecosystem fi
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.
 * **Demos** - Demo tutorials, videos and content showcasing Cardano functionality or DApp features that will help newcomers learn about Cardano and the wider ecosystem.
-* **Legal** - Creation of a legal community team to support the ecosystem, resources for community projects on legal concerns.
+* **High impact or topic based communities** - Support for resources, discussion, events or other initiatives led by communities focussed on different topics or high impact areas within the ecosystem. Topic and impact areas be around anything such as legal, finance, gaming, adoption or the environment as some examples. Communities should be related to the Cardano ecosystem.
 * **Interviews & podcasts** - Recorded interview and podcasts with community members and project teams to showcase news and latest developments.
 * **Community hubs** - Education, awareness and support based community hubs in different countries internationally.
 * **Culture** - Workshops, courses, education, self development or similar projects that help with establishing and nurturing a collaborative and open culture within Cardano communities.
@@ -76,7 +76,7 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **Public outreach** - Number of advertisement or content views, number of call to action conversions, percentage increase in traffic for targeted ecosystem sites.
 * **Government outreach & engagement** - Number of outcome goals achieved from collaboration, number of new supporting government body members.
 * **Demos** - Number of demo views, number of interactions with demoed product, number of users joined.
-* **Legal** - Number of projects or community members supported by legal team, number of views and engagement with legal resources.
+* **High impact or topic based communities** - Number of community members engaged with the community, number of projects or applications that get created or supported by the community, level of engagement from community members.
 * **Interviews & podcasts** - Number of views and engagement with audience, number of topics covered.
 * **Community hubs** - Number of community hub attendees, types of content and information covered, open feedback from attendees about the community hub community or support, number of people supported that then participate or contribute to a given cause or area.
 * **Culture** - Number of participants in the initiative, number of views and interaction for digital content, testimonies on quality of the initiative from community feedback.

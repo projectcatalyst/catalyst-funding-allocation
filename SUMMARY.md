@@ -41,7 +41,7 @@
   * [Voter FAQ](community-votes/fund-8-categories-budget-weighting/voter-faq.md)
   * [Vote Meeting (Monday 14th March)](community-votes/fund-8-categories-budget-weighting/vote-meeting-monday-14th-march.md)
   * [Back Up Vote (Async)](community-votes/fund-8-categories-budget-weighting/back-up-vote-async.md)
-  * [Voting results](community-votes/fund-8-categories-budget-weighting/voting-results.md)
+  * [Voting results (Fund 8)](community-votes/fund-8-categories-budget-weighting/voting-results-fund-8.md)
 
 ## Background
 

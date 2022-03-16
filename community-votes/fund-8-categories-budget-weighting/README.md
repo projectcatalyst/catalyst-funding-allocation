@@ -6,6 +6,12 @@ description: >-
 
 # Fund 8 - Categories Budget Weighting
 
+**COMPLETED** - The vote has been completed and the [voting results](voting-results-fund-8.md) have been recorded and shared with the community.&#x20;
+
+## Overview
+
+
+
 This is a fund 8 vote for setting the budgets of the funding categories that have been proposed in the fund 9 challenge setting.
 
 

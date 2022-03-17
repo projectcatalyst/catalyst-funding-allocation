@@ -22,7 +22,15 @@ An increasing number of products or integrations that offer new solutions for pe
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metrics ideas for different proposal types.
+Tracking success for this category will mean:
+
+* Increasing the number products available for the community to use that help to enrich the ecosystem with new use cases.
+* Increase the number of integrations that bring existing solutions together for a more seamless and connected experience between different products.
+* Increased quality of existing products & integrations through suggested improvements that is supported by customer feedback or increased usage by the community.
+
+
+
+For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
 
 
 

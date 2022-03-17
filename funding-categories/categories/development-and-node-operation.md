@@ -22,7 +22,15 @@ Innovation of resources, tools, libraries, SDKs, scripts or research within the 
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metrics ideas for different proposal types.
+Tracking success for this category will mean:
+
+* Increasing the number or quality of tools, libraries & SDKs that help improve areas around running nodes for SPOs, Plutus & IELE development or native asset development.
+* Increasing the scalability of Cardano through the introduction of improvements that can come from research, layer 2 solutions and support further integrations of existing solutions.
+* Increase the number or quality of the standards, resources and research that make it easier for node operators and developers to understand the ecosystem and to improve the overall ecosystem quality of the software being delivered.
+
+
+
+For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
 
 
 

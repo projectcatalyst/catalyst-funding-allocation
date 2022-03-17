@@ -22,7 +22,16 @@ Communities forming around certain topics, public goods or ecosystem areas and a
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metrics ideas for different proposal types.
+Tracking success for this category will mean:
+
+* Increasing the number of community members coming together to collaborate and get to know each other over different topics and high impact areas
+* Increasing the size of the community through outreach and marketing efforts
+* Improvements around culture and supporting how people interact, collaborate, engage and organise themselves
+* Supporting efforts to collaborate with external parties such as new potential community members or legislators
+
+
+
+For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
 
 
 

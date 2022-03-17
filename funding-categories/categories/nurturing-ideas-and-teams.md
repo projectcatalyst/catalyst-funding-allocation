@@ -25,11 +25,15 @@ An increasing number of small initiatives and ideas that provide new opportuniti
 
 **Key Metrics to measure**
 
-The community will benefit from measuring:
+Tracking success for this category will mean:
 
-* The number of new teams funded to support the ecosystem or offer new novel innovations.
-* The number of new and novel ideas that help the ecosystem learn about which ideas should receive more attention and funding in future.
-* How those funded for this category lead to education or further proposals that improve the ecosystem.
+* Increasing the number of new teams funded to support the ecosystem or offer new novel innovations.
+* Increasing the number of new and novel ideas that help the ecosystem learn about which ideas should receive more attention and funding in future.
+* Tracking whether those funded for this category help lead to education or further proposals that improve the ecosystem based on learnings from tested ideas and analysis.
+
+
+
+For ideas on individual success metrics for the different types of proposals please refer to some of the other 6 funding categories that have been listed.
 
 
 

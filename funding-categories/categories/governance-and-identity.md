@@ -22,7 +22,13 @@ Evolution of the governance and identity ecosystem tools, processes and resource
 
 **Key Metrics to measure**
 
-Please refer to the suggested challenge brief success metrics ideas for different proposal types.
+Tracking success for this category will mean:
+
+* Increasing the number or quality of tools, libraries & SDKs that help improve areas around governance, identity and DAOs.
+* Improvements to the Catalyst process based on community feedback that improve the overall process, tools being used, decision making, ability to deliver rapid funding or auditing of proposals.
+* An increased amount of support in the forms of research, educational resources, hosted discussions, mentors or accelerators that help support and improve areas around Catalyst, identity or governance.&#x20;
+
+For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
 
 
 

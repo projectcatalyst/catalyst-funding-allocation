@@ -46,5 +46,6 @@
 ## Background
 
 * [Challenge Setting Approach](background/challenge-setting-approach.md)
+* [Challenge Setting Assessment Issues](background/challenge-setting-assessment-issues.md)
 * [Previous Selected Challenges](background/previous-selected-challenges/README.md)
   * [All Previous Challenge Settings](background/previous-selected-challenges/all-previous-challenge-settings.md)

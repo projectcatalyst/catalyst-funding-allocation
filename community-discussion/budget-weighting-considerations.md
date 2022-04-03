@@ -6,7 +6,7 @@ description: >-
 
 # Budget Weighting Considerations
 
-The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../funding-categories/categories/) that have been suggested.&#x20;
+The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../funding-categories/overview.md) that have been suggested.&#x20;
 
 The following are suggestions to consider when giving feedback on the budget weighting discussion or community surveys. These suggestions are completely up for debate and currently only help to provide a starting point for the discussion.&#x20;
 

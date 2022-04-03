@@ -1,12 +1,12 @@
 ---
-description: A list of suggested categories to use for allocating Catalyst funding
+description: Broad categories for allocating Catalyst funding
 ---
 
-# Categories
+# Overview
 
-The following are the suggested broad categories that provide a simpler way to do [funding allocation](../../analysis/funding-categorisation-specificity.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
+The following are broad categories that provide a simpler way to do [funding allocation](../analysis/funding-categorisation-specificity.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
 
-![](../../.gitbook/assets/funding-categories-normal.png)
+![](../.gitbook/assets/funding-categories-normal.png)
 
 **Community & Outreach**
 

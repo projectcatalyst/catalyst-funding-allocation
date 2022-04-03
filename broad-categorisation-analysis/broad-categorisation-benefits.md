@@ -1,10 +1,8 @@
 ---
-description: >-
-  An overview of funding categories and the benefits they bring for funding
-  allocation
+description: Benefits of using broad categorisation for funding categorisation
 ---
 
-# Overview & Benefits
+# Broad Categorisation Benefits
 
 Funding categories are concerned with how Catalyst allocates funding from the Cardano treasury to different areas in the Cardano ecosystem. A category groups proposals around a certain topic or purpose.
 
@@ -18,13 +16,15 @@ The following are the benefits for using broad funding categories to allocate tr
 
 **All ideas are welcomed**
 
-A reason to use broad categories is that they should guarantee that there is funding available for all areas within the ecosystem that could benefit from funding support. The [categories](categories/) that have been created have been back tested with the previous [existing selected challenges](categories-and-existing-challenges.md).
+A reason to use broad categories is that they should guarantee that there is funding available for all areas within the ecosystem that could benefit from funding support. The [categories](../funding-categories/overview.md) that have been created have been back tested with the previous [existing selected challenges](categories-and-existing-challenges.md).
 
 
 
 **Maximises opportunity to find innovation**
 
 The key issue with making a mandate on where to allocate funds is this does not reflect how innovation works. Putting a mandate that one specific area should receive funding over another does not mean that suitable innovation will turn up in that challenge nor does it mean the proposal team is well suited for its execution. There is also no guarantee of what innovation could emerge from areas that have been rejected for a given funding round. Strong ideas and innovation could come at anytime. By using broad categories that allow any idea to be submitted the ecosystem maximises the chances to invite new innovation. Voters are always able to pick which proposals they want to receive funding meaning the process is fair and the proposal process is inclusive of different ideas.
+
+
 
 ### **Less complexity**
 

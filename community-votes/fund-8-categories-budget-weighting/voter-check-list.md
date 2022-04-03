@@ -7,8 +7,8 @@ description: Document check list for voters to consider
 **Essential**
 
 * ****:white\_check\_mark: [**Current Challenge Settings**](https://cardano.ideascale.com/c/campaigns/26455/about) - Understand the current challenge settings currently being proposed in fund 8 as comparison.
-* :white\_check\_mark: [**Overview & Benefits**](../../funding-categories/overview-and-benefits.md) - Understand the overview of the benefits of broad categorisation.
-* :white\_check\_mark: [**Funding Categories**](../../funding-categories/categories/) - Understand the suggested 7 categories.
+* :white\_check\_mark: [**Overview & Benefits**](../../broad-categorisation-analysis/broad-categorisation-benefits.md) - Understand the overview of the benefits of broad categorisation.
+* :white\_check\_mark: [**Funding Categories**](../../funding-categories/overview.md) - Understand the suggested 7 categories.
 * :white\_check\_mark: [**Budget Weighting Considerations**](../../community-discussion/budget-weighting-considerations.md) - Consider factors for increasing and decreasing percentage allocation for each of the seven categories.&#x20;
   * Please provide any feedback for these considerations so more factors can be added where necessary.
 

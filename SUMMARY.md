@@ -4,28 +4,38 @@
 
 ## Funding Categories
 
-* [Overview & Benefits](funding-categories/overview-and-benefits.md)
-* [Categories](funding-categories/categories/README.md)
-  * [Community & Outreach](funding-categories/categories/community-and-outreach.md)
-  * [Products & Integrations](funding-categories/categories/products-and-integrations.md)
-  * [Governance & Identity](funding-categories/categories/governance-and-identity.md)
-  * [Catalyst Contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)
-  * [Development & Node Operation](funding-categories/categories/development-and-node-operation.md)
-  * [Cardano Contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)
-  * [Nurturing Ideas & Teams](funding-categories/categories/nurturing-ideas-and-teams.md)
-* [Rapid Funding](funding-categories/rapid-funding.md)
-* [Categories & Existing Challenges](funding-categories/categories-and-existing-challenges.md)
+* [Overview](funding-categories/overview.md)
+* [Community & Outreach](funding-categories/community-and-outreach.md)
+* [Products & Integrations](funding-categories/products-and-integrations.md)
+* [Governance & Identity](funding-categories/governance-and-identity.md)
+* [Catalyst Contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)
+* [Development & Node Operation](funding-categories/development-and-node-operation.md)
+* [Cardano Contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)
+* [Nurturing Ideas & Teams](funding-categories/nurturing-ideas-and-teams.md)
+
+## Broad Categorisation Analysis
+
+* [Broad Categorisation Benefits](broad-categorisation-analysis/broad-categorisation-benefits.md)
+* [Rapid Funding](broad-categorisation-analysis/rapid-funding.md)
+* [Categories & Existing Challenges](broad-categorisation-analysis/categories-and-existing-challenges.md)
+* [Concerns & Solutions](broad-categorisation-analysis/concerns-and-solutions/README.md)
+  * [Increased Competition](broad-categorisation-analysis/concerns-and-solutions/increased-competition/README.md)
+    * [Proposers With Fewer Resources Considerations](broad-categorisation-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
+  * [Proposal Visibility](broad-categorisation-analysis/concerns-and-solutions/proposal-visibility.md)
+  * [Proposal Idea Generation](broad-categorisation-analysis/concerns-and-solutions/proposal-idea-generation.md)
+  * [Proposal Submission Encouragement](broad-categorisation-analysis/concerns-and-solutions/proposal-submission-encouragement.md)
+  * [Directing Funding](broad-categorisation-analysis/concerns-and-solutions/directing-funding.md)
+  * [Verifiability](broad-categorisation-analysis/concerns-and-solutions/verifiability.md)
+  * [Less Specialised Challenge Teams](broad-categorisation-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
+* [FAQs](broad-categorisation-analysis/faqs/README.md)
+  * [Using Categories & Challenges](broad-categorisation-analysis/faqs/using-categories-and-challenges.md)
 
 ## Analysis
 
-* [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
-* [Proposal Inspiration & Encouragement](analysis/proposal-inspiration-and-encouragement.md)
-* [Small Budget Proposals](analysis/small-budget-proposals.md)
-* [Proposers With Fewer Resources](analysis/proposers-with-fewer-resources.md)
-* [Categories vs Categories & Challenge Settings](analysis/categories-vs-categories-and-challenge-settings.md)
+* [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
-* [Categorisation Comparisons](analysis/categorisation-comparisons.md)
+* [Categorisation Approaches](analysis/categorisation-approaches.md)
 * [Funding Categorisation Specificity](analysis/funding-categorisation-specificity.md)
 
 ## Community Discussion

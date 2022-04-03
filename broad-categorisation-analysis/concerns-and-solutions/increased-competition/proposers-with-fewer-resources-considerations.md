@@ -1,40 +1,4 @@
----
-description: >-
-  Considerations for proposers with fewer resources when considering the
-  suggested broad categories
----
-
-# Proposers With Fewer Resources
-
-### Broad Categories In Practice
-
-**Fair in theory**
-
-Using broad categorisation allows anyone across the world to submit proposals of any type across the broad categories defined. This creates [egalitarian funding categorisation](egalitarian-funding-categorisation.md) as no preference is given to one person, proposal type or location over another.
-
-
-
-**Can be unfair in practice**
-
-There are a number of people that may be in more difficult living circumstances or financial situations such as in less developed countries that do not have the same resources in terms of time or capital to create effective proposals. Proposers who do have more time and resources have an advantage in being able to more easily allocate time to create proposals that have a higher chance of receiving funding.
-
-
-
-### **Solutions**
-
-**Medium and long term solutions**
-
-A number of approaches have been outlined in the [approaches for directing funding](approaches-for-directing-funding.md) analysis that can be used to ensure awareness, support and more effective systems get put in place to help ensure proposers have a fair playing field when submitting proposals for funding. Support structures could help certain proposers ensure their proposal includes everything required, is well translated were applicable, gets suggestions for improvements and that they also get any questions answered.
-
-
-
-**Potential solutions for now**
-
-The potential issue with the above solutions is these solutions won't all be available in the very short term. One potential solution is to integrate this support through allocating some funding at the funding categorisation level.
-
-****
-
-### Category considerations
+# Proposers With Fewer Resources Considerations
 
 **Objectives**
 
@@ -42,11 +6,11 @@ Provide increased support to proposers who have less resources to compete effect
 
 
 
-**Category details**
+**Considerations**
 
 * **Inclusion list** - If a category was to solve this problem it should define who should be included when making proposals. This could be taken from an existing list such as United Nations [least developed countries](https://unctad.org/topic/least-developed-countries/list) or usage of another suitable data source.
 * **Capped proposal funding request** - The purpose of this categorisation, if the category was established, would be to support those that need more support in the funding process. To maximise the number of people that this category supports it may make sense to have a cap, such as $30,000 to 50,000 per proposal. This ensures that many proposals are funded from different people who face this problem of it being more difficult to get access to funding.
-* **Proposal types included** - As this category would aim to support those with less resources to competitively propose solutions it will make sense to allow all forms of ideas and solutions. This means that any type of proposal can be submitted and proposers compete on the strength of their proposal. These same proposers would also be welcomed to use the other [categories](../funding-categories/categories/) as well as an alternative if necessary.
+* **Proposal types included** - As this category would aim to support those with less resources to competitively propose solutions it will make sense to allow all forms of ideas and solutions. This means that any type of proposal can be submitted and proposers compete on the strength of their proposal. These same proposers would also be welcomed to use the other [categories](../../../funding-categories/overview.md) as well as an alternative if necessary.
 
 
 
@@ -103,3 +67,4 @@ There are a number of complexities in trying to solve this problem of supporting
 * Supporting proposers with fewer resources is an important problem the Catalyst ecosystem can solve to increase diversity and innovation across the world.
 * Solving this problem at the categorisation level introduces a lot of complex questions, justifications and governance requirements to consider in each funding round.
 * It is hard to fairly determine those who should be included, how to moderate the proposers are part of the inclusion list criteria and whether this extra categorisation brings better outcomes over the use of a simpler collection of categories.&#x20;
+* Capping the maximum budget for proposals on its own instead of also trying to moderate who can and cannot use a funding category is more scalable and maintainable. [Nurturing ideas & teams](../../../funding-categories/nurturing-ideas-and-teams.md) helps to achieve the objectives without introducing the complexities of trying to allow and prevent certain people from participating.

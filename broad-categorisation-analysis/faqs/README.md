@@ -8,13 +8,13 @@ description: >-
 
 **Who has control over maintaining categories?**&#x20;
 
-Catalyst contributors once initiated will be who maintains and improves the Catalyst funding categories. No existing group or individual will have control over this documentation or the categorisation. Catalyst contributors would be expected to host this GitBook themselves and manage it themselves.&#x20;
+Catalyst contributors once initiated will be who maintains and improves the Catalyst funding categories. No existing group or individual will have control over this documentation or the categorisation. Catalyst contributors would be expected to host and manage this GitBook themselves.
 
 ****
 
 **Why is there only a small participation in the budget weighting vote?**
 
-The initial vote included 19 community members across a live and asynchronous vote to do budge weighting. This was a first attempt at gathering as many community members as possible in a short time frame to democratically vote on the budget weightings for each of the categories.
+The initial vote included 19 community members across a live and asynchronous vote to do the budget weighting for the seven different categories for fund 8. This was a first attempt at gathering as many community members as possible in a short time frame to democratically vote on the budget weightings for each of the categories.
 
 Currently existing challenge teams will self determine their own budget. This is an issue as it means a small challenge team has a high influence over the funding allocated to certain areas in the ecosystem. The initial community vote was one of the most open and democratically conducted vote so far for Catalyst to determine budget weightings for funding categorisation.
 

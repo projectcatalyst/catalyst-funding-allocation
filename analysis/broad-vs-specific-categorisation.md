@@ -1,14 +1,14 @@
 ---
 description: >-
-  A comparison of different approaches to do funding categorisation based on the
-  specificity
+  Comparing funding categorisation based on the specificity of the
+  categorisation
 ---
 
-# Funding Categorisation Specificity
+# Broad vs Specific Categorisation
 
 ### Funding categorisation: broad vs specific
 
-There are a number of ways that funding could be allocated to distribute the Cardano treasury funding. One very important factor is how broad or specific the categorisation of that funding categorisation is.
+Categorisation can be either broad and cover a wide range of ideas and innovation to being very specific where it instead focusses on a small amount of potential ideas and innovation.
 
 ![](<../.gitbook/assets/broad-vs-specific (1).png>)
 
@@ -89,7 +89,7 @@ There are a number of ways that funding could be allocated to distribute the Car
 
 * **Restrictive funding** - Funding can only be requested by proposals in the categories that are selected. This makes funding more restrictive and also doesn't mean there is any guarantee that an effective team will make proposals in that category. This increases risk of funding being deployed to lower quality proposals.
 * **High budget weighting complexity** - Every extra specific category makes it more complex to determine what amount of budget should be allocated to each area in the ecosystem.
-* **High categorisation justification** - Every extra specific category makes it more complex to justify why those specific categories are more important than other potential ones that could be used.&#x20;
+* **High categorisation justification** - Every extra specific category makes it more complex to justify why those specific categories are more important compared to other potential categories.
 * **Increased categorisation confusion** - Proposers and voters have to constantly learn about new challenges that represent a new form of categorisation. This leads to more effort to understand where proposals can be submitted, whether they should be in that category when assessing and whether a voter needs to compare similar proposals over multiple forms of categorisation or not.
 * **High governance effort** - Many stakeholders must be involved in determining which of the more specific categories to include and there is more effort to understand the implications, present the information and vote on what approach is most sensible.
 * **High stakeholder effort** - With changing specific categories proposers would need to submit challenges, community advisors have to spend time assessing all the suggested challenges and voters would need to review all the challenges to make an informed decision. &#x20;
@@ -134,6 +134,6 @@ To resolve the issue of needing to justify the categories there would need to be
 ### Summary
 
 * **Specificity adds budget complexity** - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
-* **Specificity adds justification complexity** - The more categories that get added to a funding round the more difficult it gets to justify why that category is more important than any other category that may be being excluded.
+* **Specificity adds justification complexity** - The more categories that get added to a funding round the more difficult it gets to justify why that category is more important than other categories.
 * **Easier to solve proposal visibility and directing funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is directed to certain areas.
 * **Broader categorisation takes far less effort and governance** - Less information, governance and tools are needed for more broad categorisation as there's less effort needed for justifying the categories and the budget that each one has.

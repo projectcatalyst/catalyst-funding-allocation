@@ -4,7 +4,7 @@ description: Exploring the usage of broad categories over specific categories fo
 
 # Catalyst & Broad Categories
 
-The [funding allocation approaches](funding-categorisation-specificity.md) analysis explored the tradeoffs for categorising funding between broad and specific approaches.
+The [funding allocation approaches](broad-vs-specific-categorisation.md) analysis explored the tradeoffs for categorising funding between broad and specific approaches.
 
 Based on that analysis broad categories appear to be a suitable choice for being a simple yet effective way to categorise treasury funding distribution. The following analysis will look at the factors that make broad categories a good allocation approach.
 

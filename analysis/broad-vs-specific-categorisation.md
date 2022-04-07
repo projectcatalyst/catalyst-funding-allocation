@@ -8,7 +8,7 @@ description: >-
 
 ### Funding categorisation: broad vs specific
 
-Categorisation can be either broad and cover a wide range of ideas and innovation to being very specific where it instead focusses on a small amount of potential ideas and innovation.
+Categorisation can be either broad and have a large amount of ideas and innovation in one category or be more specific and have more specific ideas and innovation included in each category.
 
 ![](<../.gitbook/assets/broad-vs-specific (1).png>)
 
@@ -20,7 +20,7 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 
 
-**Specific categories -** Funding is allocated between a moderate amount of specific categories with smaller budget weightings applied to each of them. Example categories include AI & machine learning, transportation or DeFi.
+**Specific categories -** Funding is allocated between a number of specific categories that would mean using smaller budget weightings applied to each of them. Example categories include AI & machine learning, transportation or DeFi.
 
 
 
@@ -30,11 +30,9 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 ### **Factors to consider for categorisation**
 
-* **Open or restrictive funding** - How hard or easy is it for all forms of ideas and innovation to request funding due to the categorisation being used?
 * **Budget weighting complexity** - What complexity is there for deciding the budget weightings for each of the categories in a funding round? How much effort and how long will it take to get a well informed outcome?
-* **Categorisation justification** - How complex is it to provide evidence and data to justify all categorisation selected for a given funding round? How much effort and governance is required?&#x20;
 * **Proposal visibility** - How easy is it for proposals to be seen? Is there high competition causing lower visibility?
-* **Directing funding** - How effective is the categorisation for directing funding to certain areas that need more funding support?
+* **Directing funding** - How effective is the categorisation for directing funding to certain areas?
 * **Governance effort** - How much effort is needed to govern the specificity of the categorisation?
 * **Stakeholder effort** - How much effort is required to maintain this type of categorisation from the stakeholders involved in the funding process?
 * **Level of competition** - High competition can be good for selecting the best proposed ideas and innovation from a wider proposal pool but comes at the cost of making it more challenging for smaller teams. Lower competition for categorisation has the benefit of helping spread the competition difficulty that will help smaller teams but comes at the cost of an increased chance of funding innovation that is not as effective due to the lower competition.
@@ -45,17 +43,15 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 **Advantages**
 
-* **Very open funding** - Any team with any idea could make a proposal as there are no categories restricting where funding must be allocated. This [funding is egalitarian](egalitarian-funding-categorisation.md) as no preference is given to any type of proposal, person or location and all proposals have the same chance of funding and same access to an equal amount of funding.
 * **No budget weighting complexity** - All funding is available in one process meaning no categorisation complexity is present in each funding round.
-* **No categorisation justification** - Community doesn't need to justify any categories each funding round meaning the community saves time and effort.
 * **No governance effort** - This categorisation is the most simple to govern as no decisions would be needed around justification of weightings, no data or insights need to be collected to justify one decision over another.
 * **No stakeholder effort** - Proposers, community advisors and voters would not spend anytime dealing with the maintenance of the categorisation as all proposals would go into a single place.
 
 **Issues**
 
 * **Very low proposal visibility** - With just one category it becomes hard for individual proposals to stand out against all other proposal teams. This results in a high need for better tagging and community curated lists for small proposals to get better visibility.
-* **No prevision to directing funding** - No effort is made to steer funding into a certain area for the wider ecosystem. This could result in more popular areas repeatedly receiving more funding than is needed. However voters in this scenario still fully determine where funding is allocated which is a democratic solution.
-* **Very high funding difficulty for smaller teams** - No categorisation means that smaller teams would need to compete with every single larger team in the ecosystem meaning the competition would be at its highest that would increase the challenge for smaller or less known teams to secure funding.
+* **No precision for directing funding** - No effort is made to steer funding into a certain area for the wider ecosystem. This could result in more popular areas repeatedly receiving more funding than is needed. However voters in this scenario still fully determine where funding is allocated which is a democratic solution.
+* **Very high competition** - The good part of high competition is that it can help for the best projects to rise to the top and receive funding. However using no categorisation to this level also means that smaller teams would need to compete with every single larger team in the ecosystem against every form of idea and innovation meaning the competition would be at its highest. This categorisation would increase the difficulty for smaller or less known teams to secure funding.
 
 
 
@@ -63,18 +59,17 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 **Advantages**
 
-* **Open funding** - Funding is more open and [egalitarian](egalitarian-funding-categorisation.md) as any area in the ecosystem should be able to create proposals into one of the broad categories. Broad categories only have the restriction on the amount allocated to each category however should still allow for all forms of ideas to be submitted.
 * **Low budget weighting complexity** - Usage of only a few categories results in a low complexity for determining what amount of funding should be allocated to each one.
-* **Low categorisation justification** - Broad categories can allow any type of proposal to be added meaning there is low justification on why the categories are used in each funding round as they are inclusive to all ideas and innovation.
-* **Higher categorisation familiarity** - Proposers and voters get the benefit of having categories they become more familiar with over time and understand the types of proposals that get placed in them. This simplicity reduces cognitive effort for all stakeholders.
 * **Low governance effort** - Less governance effort is needed as challenges don't need to be moderated, assessed and voted on each round. Instead governance only focuses on the budget weighting. The community would still be able to make proposals to change the broad categories when and if the categories needed to be changed in the future.
 * **Low stakeholder effort** - Proposers would not need to submit proposals concerning challenge setting, community advisors would not need to assess the extra challenge setting proposals and voters wouldn't need to spend time ready and comparing multiple more specific challenges.
+* **Good competition** - The smaller the amount of categories there are the more competition there is for proposers. This is good for healthy competition and also helps to keep some of the different areas more separated so a more popular area doesn't overwhelm other proposals. A category can also be considered to help with competition that is targeted at new ideas and teams such as [nurturing ideas & teams](../funding-categories/nurturing-ideas-and-teams.md).&#x20;
+
+
 
 **Issues**
 
-* **Lower precision for directing funding** - Directing the funding to more precise areas within the category is more difficult as more types of proposals are competing under the same category. It is down to the voters for how funding should be directed by deciding which proposals to vote on.
+* **Lower precision for directing funding** - Directing the funding to more precise areas within the category can still be difficult as more types of proposals are competing under the same category. However ultimately the most effective way to direct funding is through voting as the voters would still determine how funding should be directed by deciding which proposals to vote on.
 * **Lower proposal visibility** - Having only a few broad categories makes it hard for some proposals to stand out against larger more established teams. There could be a need for some form of tagging and community curated lists to help aid in visibility for smaller teams.
-* **Increased funding difficulty for smaller teams** - The smaller the amount of categories there are the more competition there is for proposers. This can be good for funding the most promising innovation however also gives many smaller or less known proposers an increased challenge to get access to funding when competing with more established projects.
 
 
 
@@ -82,18 +77,15 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 **Advantages**
 
-* **Good proposal visibility** - Proposals would generally have less competition for a specific challenge making it easier to get proposal visibility due to the categorisation.
-* **Higher precision for directing funding** - Using more specific categories makes it easier to allocate funding to specific areas in the ecosystem. However this specificity of allocation comes at the expense of other areas that can be excluded.
+* **Good proposal visibility** - Proposals would generally have surrounding proposals in a more specific category making it easier to get clear proposal visibility for proposals in that specific area.
+* **Higher precision for directing funding** - Using more specific categories makes it easier to allocate funding to more precise areas in the ecosystem.
 
 **Issues**
 
-* **Restrictive funding** - Funding can only be requested by proposals in the categories that are selected. This makes funding more restrictive and also doesn't mean there is any guarantee that an effective team will make proposals in that category. This increases risk of funding being deployed to lower quality proposals.
-* **High budget weighting complexity** - Every extra specific category makes it more complex to determine what amount of budget should be allocated to each area in the ecosystem.
-* **High categorisation justification** - Every extra specific category makes it more complex to justify why those specific categories are more important compared to other potential categories.
-* **Increased categorisation confusion** - Proposers and voters have to constantly learn about new challenges that represent a new form of categorisation. This leads to more effort to understand where proposals can be submitted, whether they should be in that category when assessing and whether a voter needs to compare similar proposals over multiple forms of categorisation or not.
-* **High governance effort** - Many stakeholders must be involved in determining which of the more specific categories to include and there is more effort to understand the implications, present the information and vote on what approach is most sensible.
-* **High stakeholder effort** - With changing specific categories proposers would need to submit challenges, community advisors have to spend time assessing all the suggested challenges and voters would need to review all the challenges to make an informed decision. &#x20;
-* **Less competition between proposals** - Increasing the amount of categories means there is less competition between a smaller amount of proposals. This increases the chance that proposals with weaker ideas and innovation solutions get funding that would not have been if there was more competition between more proposals.
+* **High budget weighting complexity** - Every extra specific category makes it more complex to determine the budget weighting that should be allocated to each area in the ecosystem.
+* **High governance effort** - A sufficient governance process is needed to inform stakeholders voting on budget weighting on the implications of increasing or decreasing the funding provided to certain areas in the ecosystem.
+* **High stakeholder effort** - Stakeholders would need to generate information flow of reasons for and against increasing or decreasing funding in certain areas. This may include data, insights or analysis. Those stakeholders involved in voting for the decision would also need to read this information to make informed decisions.&#x20;
+* **Lower competition** - Increasing the amount of categories means there is less competition between each of the proposals in a given category. This increases the chance that there can be categories that have a weaker pool of ideas and innovation meaning it could lead to worse outcomes.
 
 
 
@@ -101,39 +93,26 @@ Categorisation can be either broad and cover a wide range of ideas and innovatio
 
 **Improving proposal visibility**
 
-Two easy ways to help improve the proposal visibility would be using effective [tagging for proposals and curated lists](approaches-for-directing-funding.md). Better tagging of proposals would mean it would be easier to group proposals based on common topics such as finance, agriculture or legal focused proposals. Curated lists are another way where community members could create and share lists of proposals about a given topic to highlight ones the community benefit from reading about before voting. Curated lists could also mix well with the potential use of experts from different market segments.
+Two easy ways to help improve the proposal visibility would be using effective [tagging for proposals and curated lists](approaches-for-directing-funding.md). Better tagging of proposals would mean it would be easier to group proposals based on common topics such as finance, agriculture or legal focused proposals. Curated lists are another way where community members could create and share lists of proposals about a given topic to highlight proposals that the community would benefit from reading about before voting. Curated lists could also mix well with the potential use of experts from different market segments.
 
 ****
 
 **Improve ability to direct funding**
 
-One way that funding could be directed better to certain areas in the ecosystem is by creating a governance system for the community to vote on which areas they believe require the most attention. This could also include qualitative information. The results could then be made available to the wider community during funding rounds so people are aware of the thoughts of different people in the community to take that information into account when voting on proposals. There are a wide number of [approaches for directing funding](approaches-for-directing-funding.md) that the community can consider and integrate into the process.
+One way that funding could be directed better to more precise areas in the ecosystem is by creating a governance system for the community to vote on which areas they believe require the most attention. This could also include qualitative information. The results could then be made available to the wider community during funding rounds so people are aware of the thoughts of different people in the community to take that information into account when voting on proposals. There are a wide number of [approaches for directing funding](approaches-for-directing-funding.md) that the community can consider and integrate into the process.
 
 ****
 
 ### **Resolving issues for specific categories**
 
-**Preventing restrictive funding**
-
-One way this could be achieved is to ensure that all the specific categories cover the same areas that broad categories would achieve. The problem with this is it adds significant complexity to the budget weighting and also makes the budgets highly restrictive as only fixed amounts of funding would be distributed to each area. This leaves little flexibility to the unpredictable arrival of different innovation which could lead to stifling ecosystem progress.&#x20;
-
-
-
 **Reducing budget weighting complexity**
 
-It is difficult to decide how much funding should be directed to each of the selected specific categories. To resolve this issue there would need to be a process to gather a sufficient amount of data and justification to support decisions on which area require more funding than others. A governance process **** is also needed to decide on final budget weighting allocations.
-
-
-
-**Reducing categorisation justification**
-
-To resolve the issue of needing to justify the categories there would need to be sufficient data and reasoning over the tradeoffs of allocating funding to one area over another so that well informed decisions can be made. To do this effectively it may need experts from each category area to showcase and highlight current progress and how new or existing projects in those areas would benefit from further funding.
+It is difficult to decide how much funding should be directed to specific categories. To resolve this issue there would need to be a thorough process to gather a sufficient amount of data and justification to support decisions on which area requires more funding over other areas. The more specificity added to the categorisation the more complex and thorough a governance process **** is needed to effectively decide on final budget weighting allocations.
 
 
 
 ### Summary
 
-* **Specificity adds budget complexity** - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
-* **Specificity adds justification complexity** - The more categories that get added to a funding round the more difficult it gets to justify why that category is more important than other categories.
-* **Easier to solve proposal visibility and directing funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is directed to certain areas.
-* **Broader categorisation takes far less effort and governance** - Less information, governance and tools are needed for more broad categorisation as there's less effort needed for justifying the categories and the budget that each one has.
+* **Specificity adds significant budget weighting complexity** - The more categories that get added to the funding round process the more complex it becomes to determine a sensible budget to allocate to each category.
+* **Easier to solve proposal visibility and directing funding issues** - Better tagging, curated lists and gathering community feedback can be effective ways to organise and distribute information to the community that help solve issues for broader categorisation around proposal visibility and how funding is directed to more precise areas.
+* **Broader categorisation takes far less effort and governance** - Less information, governance and tools are needed for more broad categorisation as fewer categories mean there's less effort needed to determine a suitable budget for each of those categories.

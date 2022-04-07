@@ -8,7 +8,7 @@ description: >-
 
 ### Funding categorisation: inclusive vs competitive
 
-For determining a future funding rounds availability of funding to different areas the categorisation can either go for an inclusive or competitive approach.&#x20;
+For determining availability of funding to different areas the categorisation can either go for an inclusive or competitive approach.&#x20;
 
 ![](../.gitbook/assets/inclusive-vs-competitive.png)
 

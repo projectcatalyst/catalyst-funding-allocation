@@ -36,6 +36,7 @@
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Approaches](analysis/categorisation-approaches.md)
+* [Defined vs Changing Categorisation](analysis/defined-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](analysis/broad-vs-specific-categorisation.md)
 

@@ -2,17 +2,17 @@
 description: Comparing the differences between defined and changing funding categorisation
 ---
 
-# Defined vs Changing Categorisation
+# Recurring vs Changing Categorisation
 
-### Funding categorisation: defined vs changing
+### Funding categorisation: recurring vs changing
 
-Funding categorisation could be well defined and repeatedly used in each funding round or alternatively could be ever changing where new categorisation approaches are used each round.
+Funding categorisation could be well defined and repeatedly used in each funding round or alternatively could be always changing with new categorisation approaches used each round.
 
 
 
-**Defined categorisation**
+**Recurring categorisation**
 
-Defined categorisation means looking to make sensible groupings of similar proposal types that are well defined. These categorisations can be used on a repeatable basis in every funding round. Defined categorisation would still be changed over time, but the aim would be only to change the categorisation when it was more clearly necessary.
+Recurring categorisation means looking to make sensible groupings of similar proposal types that are well defined. These categorisations can be used on a recurring basis in every funding round. Recurring categorisation would still be changed over time, but the aim would be only to change the categorisation when it was more clearly necessary.
 
 ****
 
@@ -32,14 +32,14 @@ Changing categorisation looks to introduce a new grouping for proposal types eac
 
 
 
-### Defined funding categorisation
+### Recurring funding categorisation
 
 **Advantages**
 
 * **Less budget weighting complexity** - Using similar categorisations in each funding round will mean having more data and insights in how the categorisation was used in previous rounds. This data will make it easier for people to make well informed decisions on how to better distribute funding between the categories in the following rounds.
 * **Low categorisation justification** - All effort for categorisation is done upfront and then changed when necessary. This means stakeholders involved in managing the categorisation don't need to justify it each funding round and this effort is done only justified once.
 * **Low governance effort** - Repeatedly using the same categorisation means you don't need the community to review and vote on which categorisation to use and instead focus on the budget weightings of the ones that are defined.
-* **Low stakeholder effort** - By having defined and repeatedly used categorisation the proposers and voters get the benefit of having categories they become more familiar with over time and can fully understand the types of proposals that should be placed in each categorisation. This simplicity reduces ongoing mental effort for all stakeholders involved to understand the categorisation part of the funding process which helps to speed up their interactions with the funding process.&#x20;
+* **Low stakeholder effort** - By having recurring categorisation used each funding round the proposers and voters get the benefit of having categories they become more familiar with over time and can fully understand the types of proposals that should be placed in each categorisation. This simplicity reduces ongoing mental effort for all stakeholders involved to understand the categorisation part of the funding process which helps to speed up their interactions with the funding process.&#x20;
 
 **Issues**
 

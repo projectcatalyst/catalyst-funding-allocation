@@ -18,6 +18,7 @@
 * [Broad Categorisation Benefits](broad-categorisation-analysis/broad-categorisation-benefits.md)
 * [Rapid Funding](broad-categorisation-analysis/rapid-funding.md)
 * [Categories & Existing Challenges](broad-categorisation-analysis/categories-and-existing-challenges.md)
+* [Access To Funding Historical Comparison](broad-categorisation-analysis/access-to-funding-historical-comparison.md)
 * [Concerns & Solutions](broad-categorisation-analysis/concerns-and-solutions/README.md)
   * [Increased Competition](broad-categorisation-analysis/concerns-and-solutions/increased-competition/README.md)
     * [Proposers With Fewer Resources Considerations](broad-categorisation-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
@@ -36,7 +37,7 @@
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Approaches](analysis/categorisation-approaches.md)
-* [Defined vs Changing Categorisation](analysis/defined-vs-changing-categorisation.md)
+* [Recurring vs Changing Categorisation](analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](analysis/inclusive-vs-competitive-categorisation.md)
 * [Broad vs Specific Categorisation](analysis/broad-vs-specific-categorisation.md)
 

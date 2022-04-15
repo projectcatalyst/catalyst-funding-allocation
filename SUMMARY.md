@@ -35,7 +35,6 @@
 
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
-* [Catalyst & Broad Categories](analysis/catalyst-and-broad-categories.md)
 * [Categorisation Approaches](analysis/categorisation-approaches.md)
 * [Recurring vs Changing Categorisation](analysis/recurring-vs-changing-categorisation.md)
 * [Inclusive vs Competitive Categorisation](analysis/inclusive-vs-competitive-categorisation.md)
@@ -47,14 +46,14 @@
 * [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
 * [Discussion](community-discussion/discussion.md)
 
-## Community Votes
+## Budget Weighting Votes
 
-* [Fund 8 - Categories Budget Weighting](community-votes/fund-8-categories-budget-weighting/README.md)
-  * [Voter Check List](community-votes/fund-8-categories-budget-weighting/voter-check-list.md)
-  * [Voter FAQ](community-votes/fund-8-categories-budget-weighting/voter-faq.md)
-  * [Vote Meeting (Monday 14th March)](community-votes/fund-8-categories-budget-weighting/vote-meeting-monday-14th-march.md)
-  * [Back Up Vote (Async)](community-votes/fund-8-categories-budget-weighting/back-up-vote-async.md)
-  * [Voting results (Fund 8)](community-votes/fund-8-categories-budget-weighting/voting-results-fund-8.md)
+* [Fund 8](budget-weighting-votes/fund-8/README.md)
+  * [Voter Check List](budget-weighting-votes/fund-8/voter-check-list.md)
+  * [Voter FAQ](budget-weighting-votes/fund-8/voter-faq.md)
+  * [Vote Meeting (Monday 14th March)](budget-weighting-votes/fund-8/vote-meeting-monday-14th-march.md)
+  * [Back Up Vote (Async)](budget-weighting-votes/fund-8/back-up-vote-async.md)
+  * [Voting Results (Fund 8)](budget-weighting-votes/fund-8/voting-results-fund-8.md)
 
 ## Background
 

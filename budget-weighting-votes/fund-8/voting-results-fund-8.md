@@ -2,7 +2,7 @@
 description: Results for the fund 8 budget weighting vote
 ---
 
-# Voting results
+# Voting Results (Fund 8)
 
 **Total allocation for all categories**
 
@@ -54,7 +54,7 @@ As an example, for the Community & Outreach category => $16,000,000 x 0.7 x 0.14
 
 
 
-**Voting raw voting data**
+**Voting raw voting data** - 19 votes
 
 * [Live vote (Monday March 14th) form data](https://docs.google.com/spreadsheets/d/1Yh3X-SGqqNV7bD7SHtB\_F8BfYwU2htdw7Xh66q6C8s4/edit?usp=sharing) - Raw data for live vote from Google Form
 * [Async vote form data](https://docs.google.com/spreadsheets/d/1\_TNHwoiW9XQn65IoNjy7g55Tp\_fQCVbfFqPHOBNXZAg) - Raw data for async vote from Google Form

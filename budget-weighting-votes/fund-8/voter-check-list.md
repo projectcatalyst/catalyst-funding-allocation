@@ -17,7 +17,7 @@ description: Document check list for voters to consider
 **Highly recommended**
 
 * :white\_check\_mark: [**Funding Categorisation Specificity**](../../analysis/broad-vs-specific-categorisation.md) - Comparison between broad and specific categorisation.
-* :white\_check\_mark: [**Catalyst & Broad Categories**](../../analysis/catalyst-and-broad-categories.md) - Application of why Catalyst benefits from broad categorisation.
+* :white\_check\_mark: [**Catalyst & Broad Categories**](broken-reference) - Application of why Catalyst benefits from broad categorisation.
 * :white\_check\_mark:[ **Approaches for Directing Funding**](../../analysis/approaches-for-directing-funding.md) - How the community can more effectively direct funding to areas that most need it.
 * :white\_check\_mark: [**Egalitarian Funding Categorisation**](../../analysis/egalitarian-funding-categorisation.md) **** - Why funding categorisation should be egalitarian
 * :white\_check\_mark: **Any analysis document** - If you have time, any of the other analysis documents!

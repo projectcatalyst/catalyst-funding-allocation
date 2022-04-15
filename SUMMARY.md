@@ -13,23 +13,23 @@
 * [Cardano Contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)
 * [Nurturing Ideas & Teams](funding-categories/nurturing-ideas-and-teams.md)
 
-## Broad Categorisation Analysis
+## Funding Categories Analysis
 
-* [Broad Categorisation Benefits](broad-categorisation-analysis/broad-categorisation-benefits.md)
-* [Rapid Funding](broad-categorisation-analysis/rapid-funding.md)
-* [Categories & Existing Challenges](broad-categorisation-analysis/categories-and-existing-challenges.md)
-* [Access To Funding Historical Comparison](broad-categorisation-analysis/access-to-funding-historical-comparison.md)
-* [Concerns & Solutions](broad-categorisation-analysis/concerns-and-solutions/README.md)
-  * [Increased Competition](broad-categorisation-analysis/concerns-and-solutions/increased-competition/README.md)
-    * [Proposers With Fewer Resources Considerations](broad-categorisation-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
-  * [Proposal Visibility](broad-categorisation-analysis/concerns-and-solutions/proposal-visibility.md)
-  * [Proposal Idea Generation](broad-categorisation-analysis/concerns-and-solutions/proposal-idea-generation.md)
-  * [Proposal Submission Encouragement](broad-categorisation-analysis/concerns-and-solutions/proposal-submission-encouragement.md)
-  * [Directing Funding](broad-categorisation-analysis/concerns-and-solutions/directing-funding.md)
-  * [Verifiability](broad-categorisation-analysis/concerns-and-solutions/verifiability.md)
-  * [Less Specialised Challenge Teams](broad-categorisation-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
-* [FAQs](broad-categorisation-analysis/faqs/README.md)
-  * [Using Categories & Challenges](broad-categorisation-analysis/faqs/using-categories-and-challenges.md)
+* [Funding Categories Benefits](funding-categories-analysis/funding-categories-benefits.md)
+* [Rapid Funding](funding-categories-analysis/rapid-funding.md)
+* [Categories & Existing Challenges](funding-categories-analysis/categories-and-existing-challenges.md)
+* [Historical Comparison Of Access To Funding](funding-categories-analysis/historical-comparison-of-access-to-funding.md)
+* [Concerns & Solutions](funding-categories-analysis/concerns-and-solutions/README.md)
+  * [Increased Competition](funding-categories-analysis/concerns-and-solutions/increased-competition/README.md)
+    * [Proposers With Fewer Resources Considerations](funding-categories-analysis/concerns-and-solutions/increased-competition/proposers-with-fewer-resources-considerations.md)
+  * [Proposal Visibility](funding-categories-analysis/concerns-and-solutions/proposal-visibility.md)
+  * [Proposal Idea Generation](funding-categories-analysis/concerns-and-solutions/proposal-idea-generation.md)
+  * [Proposal Submission Encouragement](funding-categories-analysis/concerns-and-solutions/proposal-submission-encouragement.md)
+  * [Directing Funding](funding-categories-analysis/concerns-and-solutions/directing-funding.md)
+  * [Verifiability](funding-categories-analysis/concerns-and-solutions/verifiability.md)
+  * [Less Specialised Challenge Teams](funding-categories-analysis/concerns-and-solutions/less-specialised-challenge-teams.md)
+* [FAQs](funding-categories-analysis/faqs/README.md)
+  * [Using Categories & Challenges](funding-categories-analysis/faqs/using-categories-and-challenges.md)
 
 ## Analysis
 

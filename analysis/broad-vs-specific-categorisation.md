@@ -60,7 +60,7 @@ Categorisation can be either broad and have a large amount of ideas and innovati
 **Advantages**
 
 * **Low budget weighting complexity** - Usage of only a few categories results in a low complexity for determining what amount of funding should be allocated to each one.
-* **Low governance effort** - Less governance effort is needed as challenges don't need to be moderated, assessed and voted on each round. Instead governance only focuses on the budget weighting. The community would still be able to make proposals to change the broad categories when and if the categories needed to be changed in the future.
+* **Low governance effort** - Governance efforts only need to focus on the budget weighting between a small number of categories meaning less precision is needed than having a higher amount of specific categories.
 * **Low stakeholder effort** - Proposers would not need to submit proposals concerning challenge setting, community advisors would not need to assess the extra challenge setting proposals and voters wouldn't need to spend time ready and comparing multiple more specific challenges.
 * **Good competition** - The smaller the amount of categories there are the more competition there is for proposers. This is good for healthy competition and also helps to keep some of the different areas more separated so a more popular area doesn't overwhelm other proposals. A category can also be considered to help with competition that is targeted at new ideas and teams such as [nurturing ideas & teams](../funding-categories/nurturing-ideas-and-teams.md).&#x20;
 

@@ -33,10 +33,10 @@
 
 ## Analysis
 
-* [Objective vs Category Based Funding Allocation](analysis/objective-vs-category-based-funding-allocation/README.md)
-  * [Objective Setting](analysis/objective-vs-category-based-funding-allocation/objective-setting.md)
-  * [Progress & Impact Auditing](analysis/objective-vs-category-based-funding-allocation/progress-and-impact-auditing.md)
-  * [Independent Objective Setting Process](analysis/objective-vs-category-based-funding-allocation/independent-objective-setting-process.md)
+* [Objective vs Category Based Funding Categorisation](analysis/objective-vs-category-based-funding-categorisation/README.md)
+  * [Objective Setting](analysis/objective-vs-category-based-funding-categorisation/objective-setting.md)
+  * [Progress & Impact Auditing](analysis/objective-vs-category-based-funding-categorisation/progress-and-impact-auditing.md)
+  * [Independent Objective Setting Process](analysis/objective-vs-category-based-funding-categorisation/independent-objective-setting-process.md)
 * [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
 * [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
 * [Categorisation Approaches](analysis/categorisation-approaches.md)

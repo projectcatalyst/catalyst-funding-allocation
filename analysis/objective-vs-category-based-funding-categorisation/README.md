@@ -1,10 +1,10 @@
 ---
 description: >-
   Comparing the differences for using objective or category based funding
-  allocation
+  categorisation
 ---
 
-# Objective vs Category Based Funding Allocation
+# Objective vs Category Based Funding Categorisation
 
 ![](../../.gitbook/assets/objectives-vs-categories.png)
 

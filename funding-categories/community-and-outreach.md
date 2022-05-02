@@ -10,7 +10,7 @@ Community & Outreach
 
 **Category question**
 
-How can we engage the community and also do outreach that brings more people into the ecosystem and also helps with collaborating with external people and organisations.
+How can we engage the community, do outreach that brings more people into the ecosystem and support collaborations with external people and organisations.
 
 **Why is it important?**
 
@@ -18,7 +18,7 @@ Cardano needs an engaged and thriving community along with collaboration with th
 
 **How does success look like?**
 
-Communities forming around certain topics, public goods or ecosystem areas and approaches that promote collaboration and helping to introduce more people into the community.
+Communities forming around certain topics, public goods or ecosystem areas or approaches that promote collaboration or introduce more people into the community.
 
 **Key Metrics to measure**
 
@@ -31,7 +31,7 @@ Tracking success for this category will mean:
 
 
 
-For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
+Individual success metrics are added for the different types of proposal in the category brief. These metrics provide suggestions for how different proposal types could be audited.
 
 
 
@@ -41,8 +41,8 @@ For individual success metrics for the different types of proposal that can be i
 
 Community & Outreach is focused on the following important areas:
 
-* Bringing the community together to engage with one another over important problems, topics, causes and any other important conversations.
-* Talking to people and organisations outside the community looking at how together we can help to solve problems, explore ways to collaborate or consider different opportunities for innovation.
+* Bringing the community together to engage with one another over important problems, topics, causes or for any other important conversations.
+* Talking to people and organisations outside the community looking at how together we can collectively solve problems, explore ways to collaborate or consider different opportunities for innovation.
 * Finding people outside the community interested in learning more about the ecosystem or joining a community that they could be passionate about.
 
 ****
@@ -51,25 +51,25 @@ Community & Outreach is focused on the following important areas:
 
 The community for any decentralized ecosystem is what makes that ecosystem truly valuable.
 
-Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate we as a community can learn about different people, communities and problems.
+Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate the community can learn about different people, communities and problems.
 
-The better that communities form around common goals and missions the easier it will be to find potential new solutions or collaborations that improve both the ecosystem and the world around us.
+The better that communities form around common goals and missions the easier it will be to find potential new solutions or collaborations that improve both the ecosystem and wider society.
 
-Effective community initiatives will improve how people joining the ecosystem find the missions that they are most passionate about and causes that they truly resonate with.
+Effective community initiatives will improve how people joining the ecosystem find the missions and objectives that they are most passionate about along with the causes they truly resonate with.
 
 
 
 **Types of proposals to include**
 
 * **Online & in person events** - Any Cardano related event that helps bring new or existing community members together around a given topic or cause.
-* **Hackathons** - Encouraging new projects and teams to form around a development theme
+* **Hackathons** - Encouraging new projects and teams to form around different development efforts or for potential innovation focus areas.
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.
 * **Demos** - Demo tutorials, videos and content showcasing Cardano functionality or DApp features that will help newcomers learn about Cardano and the wider ecosystem.
 * **High impact or topic based communities** - Support for resources, discussion, events or other initiatives led by communities focussed on different topics or high impact areas within the ecosystem. Topic and impact areas could be about legal, finance, gaming, adoption, the environment or anything else that helps bring the community together around different missions or shared values. Communities should be related to the Cardano ecosystem.
-* **Interviews & podcasts** - Recorded interview and podcasts with community members and project teams to showcase news and latest developments.
+* **Interviews & podcasts** - Recorded interviews and podcasts with community members and project teams to showcase news and latest developments.
 * **Community hubs** - Education, awareness and support based community hubs in different countries internationally.
-* **Culture** - Workshops, courses, education, self development or similar projects that help with establishing and nurturing a collaborative and open culture within Cardano communities.
+* **Culture** - Workshops, courses, education, self development or other similar projects that help with establishing and nurturing a collaborative and open culture within Cardano related communities.
 * **Proposer outreach** - Outreach approaches to help increase the number of quality proposals submitted into each funding round.
 * **Translation support** - Support for translating core resources both in the ecosystem or for DApp projects that would help to engage more of the international community.
 * **Education** - Guides and resources about the wider Cardano ecosystem, communities and projects.

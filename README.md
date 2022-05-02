@@ -1,19 +1,20 @@
 ---
 description: >-
-  Exploring how funding is allocated in the Cardano ecosystem with a potential
-  solution for a simpler and more effective approach
+  Analysis of how funding is categorised in the Catalyst funding process for the
+  Cardano treasury with suggested improvements to funding categorisation
 ---
 
 # Overview
 
-There are a number of issues with the current challenge setting process used in the Catalyst ecosystem. The purpose of this documentation is to go through the current process, some analysis towards alternative options and to suggest a new approach that provides a simple and effective solution for allocating funding into different categories.
+There are a number of issues with the current [challenge setting process](background/challenge-setting-approach.md) used in the Catalyst ecosystem. In this documentation you will find a break down of the current process, analysis on different ways to do categorisation, which attributes are preferable and more effective and suggestions towards an improved funding categorisation approach.
 
 
 
 ### Contents
 
-* [**Funding Categories**](broken-reference) - A new approach of using only broad categories to help more easily allocate treasury funding.
-* [**Broad Categorisation Analysis**](broken-reference) - Analysing the benefits, concerns and usage of broad funding categorisation.
-* [**Analysis**](broken-reference) - Analysis around different types of funding categorisation, comparing funding categorisation specificity, approaches for directing funding, egalitarian funding categorisation.
+* [**Funding Categories**](broken-reference) - An approach to funding categorisation that uses recurring, inclusive and broad categories.
+* ****[**Categories Analysis**](broken-reference) - Analysing funding categories and how they benefit the Catalyst ecosystem along with addressing any concerns people may have about their usage.
+* [**Analysis**](broken-reference) - Analysis looking at the trade offs between different approaches for doing funding categorisation and also analysis on certain outcomes that are desirable to achieve.
 * [**Community Discussion**](broken-reference) - Collection of content and feedback from the community regarding funding categories.
-* [**Background**](broken-reference) - Looking at the current process, issues and previous selected challenges used for allocating funding.
+* [**Budget Weighting Votes**](community-discussion/budget-weighting-considerations.md) - A record of the votes taken that determine the budget weighting used for the funding categories.
+* [**Background**](broken-reference) - Exploring the current challenge setting process and the issues involved, the issues on how challenge settings are assessed and also a list of the previously selected challenges from previous funding rounds.

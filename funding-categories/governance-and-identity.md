@@ -10,25 +10,27 @@ Governance & Identity
 
 **Category question**
 
-What tools, processes and research will improve governance or identity in the Catalyst ecosystem or for applications building on Cardano?
+What tools, processes and research will improve how we integrate governance or identity solutions both in Catalyst and the wider Cardano ecosystem?
 
 **Why is it important?**
 
-There is a need for effective governance and identity tools to support making it easier for application development and evolution of Catalyst
+There is a need for effective governance and identity tools and processes that make it easier to develop applications used in Catalyst and the wider ecosystem.
 
 **How does success look like?**
 
-Evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and applications building on Cardano
+Evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and any applications building on Cardano.
 
 **Key Metrics to measure**
 
 Tracking success for this category will mean:
 
-* Increasing the number or quality of tools, libraries & SDKs that help improve areas around governance, identity and DAOs.
-* Improvements to the Catalyst process based on community feedback that improve the overall process, tools being used, decision making, ability to deliver rapid funding or auditing of proposals.
+* Increasing the number or quality of tools, libraries & SDKs that can help improve areas around governance, identity and DAOs.
+* Solutions and processes for the Catalyst ecosystem that improve the overall process, tools being used, decision making, ability to deliver rapid funding or auditing of proposals.
 * An increased amount of support in the forms of research, educational resources, hosted discussions, mentors or accelerators that help support and improve areas around Catalyst, identity or governance.&#x20;
 
-For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
+
+
+Individual success metrics are added for the different types of proposal in the category brief. These metrics provide suggestions for how different proposal types could be audited.
 
 
 
@@ -38,19 +40,21 @@ For individual success metrics for the different types of proposal that can be i
 
 Governance & Identity is focused on the following areas:
 
-* Tools, libraries and SDKs that help with improving governance and identity around the systems we use including Catalyst or also to be used by wider ecosystem applications.&#x20;
+* Tools, libraries and SDKs that help with improving governance and identity around the systems used in Catalyst or for applications in the wider ecosystem.&#x20;
 * Resources, processes, documentation, mentors and accelerators that make it easier to participate and engage in the Catalyst governance process.
-* Research, analysis or reports that help drive novel or improved approaches for governance or identity that can be used in the Catalyst or wider ecosystem.
+* Research, analysis and reports that help drive novel or improved approaches for governance or identity that can be used in Catalyst or the wider ecosystem.
 
 ****
 
 **Why this category is important**
 
-Catalyst provides the governance process for the distribution of Cardano treasury funding.&#x20;
+Catalyst provides the governance process for the distribution of funding from the Cardano treasury.&#x20;
 
-To maximise the potential of the ecosystem there is a need for effective and robust governance and identity tools to help distribute treasury funding. Achieving this will create a thriving community, an easier to use development ecosystem and nurture a growing list of products and integrations.
+To maximise the potential of the ecosystem there is a need for effective and robust governance and identity tools that help with determining how to distribute treasury funding. Achieving this will create a thriving community, an easier to use development ecosystem and nurture a growing list of products and integrations.
 
-The better that Catalyst is able to effectively help with governing and distributing funds the faster the ecosystem can create the innovations and adoption needed for Cardano to thrive. The better open source tools are made available for governance and identity within the ecosystem the faster interesting and novel solutions can be deployed.
+This category also concerns any identity or governance solutions used in the wider ecosystem that will help to ecosystem to thrive.
+
+The better that Catalyst and applications in the wider community are able to effectively govern and apply identity to their applications and processes the more the ecosystem can thrive on reliable and trustable infrastructure. More open source tools for governance and identity within the ecosystem will help with increasing the rate of people developing novel solutions to different problems.
 
 
 
@@ -58,7 +62,7 @@ The better that Catalyst is able to effectively help with governing and distribu
 
 * **Governance tools, libraries & SDKs** - Tools that help with governance participation and decision making that can be used by Catalyst but also could be used by other teams building in the ecosystem. Tools for governance will help the Catalyst function more effectively as a DAO.
 * **DAO tools, libraries & SDKs** - Development that helps the wider community to build DAOs for their own projects.
-* **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used in other applications in the wider ecosystem. Identity solutions could be Atala PRISM focussed but could also be integrations of other identity systems into the Cardano ecosystem.
+* **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used in other applications across the wider ecosystem. Identity solutions could be Atala PRISM focussed but could also be integrations of other identity systems into the Cardano ecosystem.
 * **Rapid funding mechanisms** - New rapid funding mechanisms looking at improving the distribution of funding of the Cardano treasury.
 * **Auditing tools or processes** - Tools and process improvements that help with auditing funded proposals to help ensure they have the support needed to maximise the impact produced.
 * **Catalyst accelerators & mentors** - Tools, guides, mentors and programs that help people with going through the Catalyst funding process and working on their project.&#x20;

@@ -24,7 +24,7 @@ The intention for this in the future will be for Catalyst contributors to host a
 
 **Why are there so many proposal types in each category?**
 
-Using broad categories that include a wide number of ideas was the intention behind the categories. Specific funding categorisation adds significant complexity in governance and effort required by the community which we outline when exploring [funding categorisation specificity](../../analysis/broad-vs-specific-categorisation.md).
+Using broad categories that include a wide number of ideas was the intention behind the categories. Specific funding categorisation adds significant complexity in governance and effort required by the community which we outline when exploring [broad vs specific categorisation](../../analysis/broad-vs-specific-categorisation.md).
 
 
 
@@ -34,9 +34,9 @@ No individual or group manages the Catalyst or Cardano contributors. Once electe
 
 
 
-**How will category teams be effective with bigger budgets and more proposal types?**
+**How will category teams be effective when there are bigger budgets and more proposal types?**
 
-There will be only so much that a category team could be in supporting a wider range of ideas and innovation and an increased amount of proposals. We've explored the impact of having [less specialised challenge teams](../concerns-and-solutions/less-specialised-challenge-teams.md) and how we could use category teams as well as experts or topic focussed community groups to support the funding process.
+There will be only so much that a category team can do to support a wider range of ideas and innovation with an increased amount of proposals. To resolve this concern we've highlighted the impact of having [less specialised challenge teams](../concerns-and-solutions/less-specialised-challenge-teams.md) which describe how category teams can be used along with experts or topic focussed community groups to support more specialised issues around a certain topic area.
 
 
 

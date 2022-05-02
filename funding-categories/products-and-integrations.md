@@ -14,11 +14,11 @@ What new products and integrations can be developed that will offer more use cas
 
 **Why is it important?**
 
-Cardano needs new innovations and solutions for the ecosystem to reach its full potential and improve the systems that society relies on across the world.
+Cardano needs new innovations and solutions for the ecosystem to reach its full potential and improve the systems that society use across the world.
 
 **How does success look like?**
 
-An increasing number of products or integrations that offer new solutions for people to interact with and benefit from when using Cardano.
+An increasing number of products and integrations that offer new solutions for people to interact with and benefit from using Cardano.
 
 **Key Metrics to measure**
 
@@ -26,11 +26,11 @@ Tracking success for this category will mean:
 
 * Increasing the number products available for the community to use that help to enrich the ecosystem with new use cases.
 * Increase the number of integrations that bring existing solutions together for a more seamless and connected experience between different products.
-* Increased quality of existing products & integrations through suggested improvements that is supported by customer feedback or increased usage by the community.
+* Increased quality of existing products & integrations through improvements and new functionality.
 
 
 
-For individual success metrics for the different types of proposal that can be included please refer to the suggested challenge brief success metrics ideas.
+Individual success metrics are added for the different types of proposal in the category brief. These metrics provide suggestions for how different proposal types could be audited.
 
 
 
@@ -38,10 +38,10 @@ For individual success metrics for the different types of proposal that can be i
 
 **Overview**
 
-Products & Integrations is focused on the following areas:
+Products & Integrations focuses on the following areas:
 
 * Creation or improvement of different products that provide value to the Cardano community and wider ecosystem.
-* Integrations with other existing services, products and protocols that improve the end user experience whether thats giving the user more options or making something easier to use that benefits the wider ecosystem.&#x20;
+* Integrations with other existing services, products and protocols that improve the end user experience. This could mean giving the user more options or making something easier to use that benefits the wider ecosystem.
 
 ****
 
@@ -49,7 +49,7 @@ Products & Integrations is focused on the following areas:
 
 Cardano needs a thriving ecosystem of different products and integrations for the community to use that increasingly become the better alternatives over current centralised providers.
 
-The more interesting and useful the products and integrations are that can be built in the ecosystem the more reasons people have to interact with the Cardano blockchain that can help further drive more adoption, feedback, growth and even more innovations.
+The more interesting and useful the products and integrations are in the ecosystem the more reasons people have to interact with the Cardano blockchain that can help further drive more adoption, feedback and further innovation.
 
 
 
@@ -60,17 +60,17 @@ The more interesting and useful the products and integrations are that can be bu
 * **DeFi** - Stable coins, DEXs, borrow & lending, synthetic assets, others...
 * **Gaming** - Open world games, card games, RPG, others...
 * **Nation governance systems** - New governance systems for nation states
-* **Environment** - Solutions that help to solve environment issues
+* **Environment** - Solutions that help to solve environmental issues
 * **Transport & logistics**
 * **Social media**
 * **Marketplaces**
-* **Many others** - Any other idea, product or integration that someone thinks should be built in the Cardano ecosystem!
+* **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
 
 ****
 
 **Potential success metrics for proposal types**
 
-This list is not exhaustive but does provides some ideas for proposers to consider.
+This list is not exhaustive but provides some ideas for proposers to consider.
 
 * **Hardware** - Number of items sold, number of total users, number of interactions with hardware solution
 * **Physical products** - Number of products tokenised as a native asset, Number of people using physical solution

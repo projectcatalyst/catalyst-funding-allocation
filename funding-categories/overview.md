@@ -4,13 +4,13 @@ description: Broad categories for allocating Catalyst funding
 
 # Overview
 
-The following are broad categories that provide a simpler way to do [funding allocation](../analysis/broad-vs-specific-categorisation.md). The categories below are inclusive in that they should allow for any type of idea or innovation to be included in any given funding round.
+Funding categories provide a simpler and far more effective way to do funding categorisation. Funding categories are recurring, broad and inclusive. The following categories collectively allow for any type of idea or innovation to be submitted.
 
 ![](../.gitbook/assets/funding-categories-normal.png)
 
 **Community & Outreach**
 
-Focusses on helping bring the community together and engaged and also for outreach to new potential community members and collaborations with external people and organisations.&#x20;
+Community & Outreach focusses on helping bring the community together and be engaged in the ecosystem. It also is for supporting outreach to new potential community members and collaborations with external people and communities.
 
 **=>** [**Read the Community & Outreach category brief**](community-and-outreach.md)****
 
@@ -18,7 +18,7 @@ Focusses on helping bring the community together and engaged and also for outrea
 
 **Products & Integrations**
 
-The products and integrations category focusses on helping fund projects looking to build on top of Cardano such as DeFi, gaming, hardware devices, marketplaces, social media or any other product, application and integration.
+The Products & Integrations category focusses on finding projects that are building on top of Cardano such as DeFi, gaming, hardware devices, marketplaces, social media or any other product, application and integration.
 
 **=>** [**Read the Products & Integrations category brief**](products-and-integrations.md)****
 
@@ -26,7 +26,7 @@ The products and integrations category focusses on helping fund projects looking
 
 **Governance & Identity**
 
-The Governance & Identity category focusses on proposals that will help with improve and support both Catalyst and the wider ecosystem with tools, libraries, SDKs, processes or research that help lead to integrating better governance and identity solutions.
+Governance & Identity focusses on proposals that will help with improve and support both Catalyst and the wider ecosystem around how governance and identity is used in different communities such as through from different tools, libraries, SDKs, processes or research.
 
 **=>** [**Read the Governance & Identity category brief**](governance-and-identity.md)
 
@@ -34,7 +34,7 @@ The Governance & Identity category focusses on proposals that will help with imp
 
 **Catalyst Contributors**
 
-[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) are a category for people to apply to work full time in the Catalyst ecosystem to support and improve the governance tools and processes used in Catalyst and the wider ecosystem. Proposals in this category are from candidates who would like to be paid to fulfil a certain role.
+[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) help with people who want to be paid to become a full time contributor in the Catalyst ecosystem to support and improve the Catalyst ecosystem. This can include helping with development, coordination, analysis, QA & auditing, marketing, product or design.
 
 **=>** [**Read the Catalyst Contributors category brief**](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)****
 
@@ -42,7 +42,7 @@ The Governance & Identity category focusses on proposals that will help with imp
 
 **Development & Node Operation**
 
-The Development & Node Operation category looks for proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that make it easier for developers to build applications. It also looks at supporting stake pool operation with tools and resources that will make it as easy as possible for people to help secure the network by running a stake pool node.
+Development & Node Operation focuses on proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that make it easier for developers to build applications. It also includes stake pool operation with tools and resources that will make it as easy as possible for community members to secure the network and run their own stake pool node.
 
 **=>** [**Read the Development & Node Operation category brief**](development-and-node-operation.md)****
 
@@ -50,7 +50,7 @@ The Development & Node Operation category looks for proposals that will help imp
 
 **Cardano Contributors**
 
-[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) are a category for people to apply to work full time in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use. Proposals in this category are from candidates who would like to be paid to fulfil a certain role.
+[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) is for people who want to be paid to work as full time contributors in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use.
 
 **=>** [**Read the Cardano Contributors category brief**](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)****
 
@@ -58,7 +58,7 @@ The Development & Node Operation category looks for proposals that will help imp
 
 **Nurturing Ideas & Teams**
 
-Nurturing Ideas & Teams is all about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget to increase the number of teams and ideas that can be funded to increase the idea and team diversity.&#x20;
+Nurturing Ideas & Teams is about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget for proposals which helps to increase the number and diversity of teams and ideas that can be funded.
 
 **=>** [**Read the Nurturing Ideas & Teams brief**](nurturing-ideas-and-teams.md)
 
@@ -66,4 +66,4 @@ Nurturing Ideas & Teams is all about exploring how we can help to foster growth 
 
 **Catalyst Natives**
 
-Other ecosystem projects can introduce their own funding challenges into the process with their own self determined funding allocation amounts for rewarding proposals.
+Catalyst Native is a model used in Catalyst where external communities can setup their own funding challenge with an allotted budget for proposals. These challenges set by these communities may or not be recurring and may only be included for one funding round.

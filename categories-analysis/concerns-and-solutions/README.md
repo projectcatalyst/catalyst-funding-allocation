@@ -4,7 +4,7 @@ description: What concerns have come up for broad categorisation and what soluti
 
 # Concerns & Solutions
 
-There are a number of concerns to consider when using broad categorisation in the Catalyst process:
+Funding categories have a number of concerns to consider of which all have answers or solutions:
 
 * [Increased Competition](increased-competition/)&#x20;
 * [Proposal Visibility](proposal-visibility.md)

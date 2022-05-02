@@ -13,11 +13,11 @@ Nurturing Ideas & Teams
 
 **Category question**
 
-How can we encourage new ideas and teams to form and bring new innovations or support to the ecosystem?
+How can we support new ideas and teams that form and bring new innovations and support the ecosystem?
 
 **Why is it important?**
 
-Ecosystems needs an increasingly diverse group of teams trying different ideas to explore how to innovate and support the ecosystem
+There is a need for a diverse group of teams and ideas exploring different ways to innovate and support the ecosystem
 
 **How does success look like?**
 
@@ -29,11 +29,11 @@ Tracking success for this category will mean:
 
 * Increasing the number of new teams funded to support the ecosystem or offer new novel innovations.
 * Increasing the number of new and novel ideas that help the ecosystem learn about which ideas should receive more attention and funding in future.
-* Tracking whether those funded for this category help lead to education or further proposals that improve the ecosystem based on learnings from tested ideas and analysis.
+* Tracking whether funded proposals for this category help lead to education or further proposals to improve the ecosystem based on any learnings from tested ideas and analysis.
 
 
 
-For ideas on individual success metrics for the different types of proposals please refer to some of the other 6 funding categories that have been listed.
+Individual success metrics are added for the different types of proposal in the category brief. These metrics provide suggestions for how different proposal types could be audited.
 
 
 
@@ -56,7 +56,7 @@ Having a category focussed on nurturing ideas can help to ensure that there is a
 
 Nurturing ideas & teams is a category that applies a cap to the amount of funding a proposal can request. This provides a less competitive environment for teams to find initial funding to nurture their growth and evolution.
 
-This category can be seen as an on ramp for new ideas and teams for trying things out something and showing the community what they are capable of achieving.
+This category can be seen as an on ramp for new ideas and teams for trying out something to then show the community what they are capable of achieving.
 
 The more ideas and exploration the community can nurture the faster the ecosystem can learn from and develop better solutions. The more new teams that can be formed the better the diversity and combined efforts that can be made as a community.
 

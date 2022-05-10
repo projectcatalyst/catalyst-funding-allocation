@@ -1,12 +1,12 @@
 ---
 description: >-
-  Exploring ways that could be used to more effectively direct funding when
-  using broad funding categorisation
+  Exploring ways that could be used to more effectively direct funding than just
+  using challenge settings
 ---
 
 # Approaches For Directing Funding
 
-Broad categories have the benefit of bringing simplicity to the funding categorisation and helps result in lower governance and stakeholder effort being required. However a key concern that needs to be discussed is how the community can effectively direct funding to priority areas in the ecosystem. Those areas could be Africa, DeFi, gaming, social networks or anything else that the community believes is highest priority to receive support and funding.
+Broad, inclusive and recurring funding categorisation has the benefit of bringing simplicity to the funding process by helping lower governance and stakeholder effort that is required. A key concern that also needs to be discussed is how the community can effectively direct funding to priority areas in the ecosystem. Those areas could be Africa, DeFi, gaming, social networks or anything else that the community believes is highest priority to receive support and funding.
 
 
 

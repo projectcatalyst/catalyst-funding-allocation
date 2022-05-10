@@ -15,7 +15,7 @@ Proposers who are new to the ecosystem or that have fewer resources may find it 
 
 **Fair in theory**
 
-Using broad categorisation allows anyone across the world to submit proposals of any type across the broad categories defined. This creates [egalitarian funding categorisation](../../../analysis/egalitarian-funding-categorisation.md) as no preference is given to one person, proposal type or location over another.
+Using broad categorisation allows anyone across the world to submit proposals of any type across the broad categories defined. This creates [egalitarian funding categorisation](../../../categorisation-analysis/egalitarian-funding-categorisation.md) as no preference is given to one person, proposal type or location over another.
 
 
 
@@ -35,7 +35,7 @@ If existing funded proposers are well known and have been effectively delivering
 
 **Medium and long term solutions**
 
-A number of approaches have been outlined in the [approaches for directing funding](../../../analysis/approaches-for-directing-funding.md) analysis that can be used to ensure awareness, support and more effective systems get put in place to help ensure proposers have a fair playing field when submitting proposals for funding. Support structures could help certain proposers ensure their proposal includes everything required, is well translated were applicable, gets suggestions for improvements and that they also get any questions answered.
+A number of approaches have been outlined in the [approaches for directing funding](../../../categorisation-analysis/approaches-for-directing-funding.md) analysis that can be used to ensure awareness, support and more effective systems get put in place to help ensure proposers have a fair playing field when submitting proposals for funding. Support structures could help certain proposers ensure their proposal includes everything required, is well translated were applicable, gets suggestions for improvements and that they also get any questions answered.
 
 
 

@@ -22,4 +22,4 @@ Proposal tagging will be an important integration into the proposal submission a
 
 Curated lists offer another organised way to create digestible groups of proposals. Curated lists could be created the community, content creators or [Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/).&#x20;
 
-There are a number of ways that the community can consider for making it easier to [direct funding](../../analysis/approaches-for-directing-funding.md) that also help with the visibility of proposals.
+There are a number of ways that the community can consider for making it easier to [direct funding](../../categorisation-analysis/approaches-for-directing-funding.md) that also help with the visibility of proposals.

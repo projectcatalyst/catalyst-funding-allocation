@@ -18,4 +18,4 @@ Broad categorisation is inclusive of all forms of idea and innovation which mean
 
 The community still has the most powerful option to decide where to direct funding - their vote!
 
-Another part of this problem is information flow. How does the community know exactly what problems the ecosystem needs to solve right now or areas in the ecosystem that need more attention? There are multiple [approaches for directing funding](../../analysis/approaches-for-directing-funding.md) for the community to consider that mean not needing to use specific funding categorisation.
+Another part of this problem is information flow. How does the community know exactly what problems the ecosystem needs to solve right now or areas in the ecosystem that need more attention? There are multiple [approaches for directing funding](../../categorisation-analysis/approaches-for-directing-funding.md) for the community to consider that mean not needing to use specific funding categorisation.

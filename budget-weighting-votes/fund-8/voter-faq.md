@@ -14,7 +14,7 @@ description: >-
 
 **2. Why is the minimum total budget option 60% for all of the categories?**
 
-* Funding categories have been created to help solves issues surrounding the current challenge setting process. Please read each of the analysis sections and [benefits](../../categories-analysis/categories-benefits.md) to understand the issues of specific challenge settings and then the benefits of broader categorisation. There are 7 categories to split the total budget allocated between. Using a lower total allocation percentage would not be effective at showcasing the benefits against more specific categorisation. The community also still determines the outcome at the voting stage - the categories still require the community to vote them in.
+* Funding categories have been created to help solves issues surrounding the current challenge setting process. Please read each of the analysis sections and [benefits](broken-reference) to understand the issues of specific challenge settings and then the benefits of broader categorisation. There are 7 categories to split the total budget allocated between. Using a lower total allocation percentage would not be effective at showcasing the benefits against more specific categorisation. The community also still determines the outcome at the voting stage - the categories still require the community to vote them in.
 
 
 

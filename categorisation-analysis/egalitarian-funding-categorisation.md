@@ -6,13 +6,9 @@ description: >-
 
 # Egalitarian Funding Categorisation
 
-The Cardano project is a global blockchain that distributes an ecosystem treasury using a governance process. People can submit proposals with their own ideas and innovations. If voted on by the community those proposals will receive funding to execute those ideas.
-
-
-
 ### What are we concerned about?
 
-Egalitarian funding categorisation for this governance process means ensuring that anyone across the world has equal rights and access to the opportunity to submit proposals for the chance to be funded to execute those ideas. It also means that one type of proposal does not receive an unfair advantage over another in funding rounds.
+Egalitarian funding categorisation for the Catalyst governance process means ensuring that anyone across the world has equal rights and access to the opportunity to submit proposals and equal chance to be funded to execute those ideas. This also means that one type of proposal should not receive any unfair advantage over another.
 
 
 
@@ -47,7 +43,7 @@ Funding categorisation that makes a requirement on which specific ideas have bet
 **Fairer to all involved**
 
 * **No unfair advantage** - Having egalitarian funding categorisation means no person or proposal should receive an unfair advantage over another person or proposal.
-* **Equal access to opportunity** - Egalitarian funding means every person should get the same access to the opportunity to submit proposals. This does not mean making sure everyone receives funding and also does not mean they should receive an equal amount. This is only concerned with people just having the opportunity to request funding with their proposal.
+* **Equal access to opportunity** - Egalitarian funding means every person should get the same access to the opportunity and be able to submit proposals for consideration. This does not mean making sure everyone receives funding and also does not mean they should receive an equal amount. Equal access only means ensuring people have the opportunity to request funding.
 
 
 
@@ -114,8 +110,8 @@ The above image highlights some areas worth considering when thinking about the 
 **Further reasons the funding categorisation stage should be egalitarian**
 
 * **Fair for all proposers and ideas** - Non restrictive funding categorisation mean all proposals get a fair chance to compete in every funding round.
-* **Removes moral issues** - Funding categorisation that focuses on one type of user, location, or product market have the moral issue of justifying why that one focus is important enough that it justifies ideas being from a different focus being not allowed the opportunity to submit proposals. This moral complexity is not necessary to effectively determine where funding should be directed.
-* **Reduces risk** - Usage of specific funding categorisation puts increased risk on the distribution of funding as innovation for that selected area has to present itself at that precise time. This is riskier than allowing a wider range of ideas to compete. It also means rejecting the possibility that at that time there may have been other areas with better innovation ideas.
+* **Removes moral issues** - Funding categorisation that focuses on one type of user, location, or product market have the moral issue of justifying why that one focus is important enough that it justifies ideas from a different focus not being allowed the opportunity to submit proposals. This moral complexity is not necessary to effectively determine where funding should be directed.
+* **Reduces risk** - Usage of specific funding categorisation puts increased risk on the distribution of funding. This is because innovation for that specific area must present itself at that precise time. This is riskier than allowing a wider range of ideas to compete. It also means rejecting the possibility that at that time there may have been other areas with better innovation ideas.
 
 
 
@@ -129,12 +125,12 @@ The above image highlights some areas worth considering when thinking about the 
 
 
 
-**Stop usage of funding categorisation that excludes other proposals**
+**Reducing usage of funding categorisation that excludes certain proposals**
 
 The following is a non exhaustive list of funding categorisation that can lead to unfair advantages to certain proposals:
 
-* **Specific product focuses** => Categorisation focusing on one type of product such as 'insurance products' means unfair funding advantage over other product areas.
-* **Type of user** => User demographic focuses (e.g. poor, rich, young, old, etc). Categorisation focused on one user demographic would mean unfair funding advantage over ideas for other demographics.&#x20;
+* **Specific product focuses** => Categorisation focusing on one type of product such as 'insurance products' means receiving an unfair funding advantage over other product areas.
+* **Demographic focuses** => Certain demographic focuses such as poor, rich, young, old, etc would mean giving an unfair funding advantage over ideas from the excluded demographics.&#x20;
 * **Locations** => Using a subset selection of countries or continents against the total available means some countries receive an unfair funding advantage over the ones that are excluded.
 
 
@@ -148,5 +144,5 @@ The following is a non exhaustive list of funding categorisation that can lead t
 
 ### Summary
 
-* **Egalitarian funding categorisation** - Keep fundings first stage, the funding categorisation, egalitarian by inviting to all forms of ideas and innovation with inclusive categories. Achieve this by using categorisation that is open to all forms of ideas. This is most easily achieved using [broad categories](../funding-categories/overview.md) however more specific but well thought out categories could also achieve the same outcome.&#x20;
+* **Egalitarian funding categorisation** - Keep the categorisation stage of funding egalitarian by inviting to all forms of ideas and innovation with inclusive categories. Achieve this by using categorisation that is open to all forms of ideas. This is most easily achieved using [broad categories](../funding-categories/overview.md) however more specific and well thought out categories could also achieve the same outcome.
 * **Apply priorities, feedback and opinions above the categorisation stage** - The community can have the same conviction over priorities as they do currently using an egalitarian funding categorisation approach. The main difference is that the effort goes into reviewing the proposals submitted with feedback, data, opinions and use of community priority voting to help make well informed voting decisions. This gives innovation the maximum chance to reveal itself and gives everyone a fair chance of being considered even if that idea is considered lower priority to the ecosystem at that time.

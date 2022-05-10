@@ -4,7 +4,7 @@ description: >-
   setting?
 ---
 
-# Access To Funding Historical Comparison
+# Historical Comparison Of Access To Funding
 
 ### Access to funding for different proposal types
 
@@ -101,7 +101,7 @@ For the example above of gaming projects if a proposal team do decide to use DAp
 
 **Difficult to easily determine what proposals should be included**
 
-It was often not obvious what percentage to apply to some of the fund 8 categorisations when considering what potential proposal types are covered. It must be noted that the proposal types for this analysis could have been broken down further and made more specific to increase the precision of making these estimations. The confusion in trying to determine this helps to highlight the importance of considering the implications of having [defined versus changing categorisation](../analysis/recurring-vs-changing-categorisation.md) each funding round.
+It was often not obvious what percentage to apply to some of the fund 8 categorisations when considering what potential proposal types are covered. It must be noted that the proposal types for this analysis could have been broken down further and made more specific to increase the precision of making these estimations. The confusion in trying to determine this helps to highlight the importance of considering the implications of having [defined versus changing categorisation](../categorisation-analysis/recurring-vs-changing-categorisation.md) each funding round.
 
 
 

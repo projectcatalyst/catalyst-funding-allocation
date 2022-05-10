@@ -8,7 +8,7 @@ description: >-
 
 The following are some suggested functional priorities for what the Catalyst ecosystem should support to improve how the community can use that system to decide how to distribute funding.
 
-Please read [approaches for directing funding](catalyst-ecosystem-priorities.md#approaches-to-directing-funding) and [egalitarian funding categorisation](../categorisation-analysis/egalitarian-funding-categorisation.md) before reviewing this document.
+Please read [approaches for directing funding](catalyst-ecosystem-priorities.md#approaches-to-directing-funding) and [egalitarian funding categorisation](broken-reference) before reviewing this document.
 
 The priorities below are completely up for debate but help to provide a starting point for the discussion.&#x20;
 

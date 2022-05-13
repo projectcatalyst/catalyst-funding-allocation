@@ -28,6 +28,7 @@
   * [Back Up Vote (Async)](budget-weighting-votes/fund-8/back-up-vote-async.md)
   * [Voting Results (Fund 8)](budget-weighting-votes/fund-8/voting-results-fund-8.md)
 
-***
+## 🔗 Links
 
 * [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
+* [Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)

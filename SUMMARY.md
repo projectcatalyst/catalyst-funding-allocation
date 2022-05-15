@@ -31,4 +31,4 @@
 ## 🔗 Links
 
 * [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
-* [Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
+* [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)

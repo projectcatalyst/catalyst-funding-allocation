@@ -60,14 +60,14 @@ The better that Catalyst and applications in the wider community are able to eff
 
 **Types of proposals to include**
 
-* **Governance tools & software** - Tools, libraries and SDKs that help with governance participation and decision making that can be used by Catalyst but also could be used by other teams building in the ecosystem. Tools for governance will help the Catalyst function more effectively as a DAO.
-* **DAO tools & software** - Development tools, libraries and SDKs that helps the wider community to build DAOs for their own projects.
-* **Identity tools & software** - Identity tools, libraries and SDKs that help with Catalyst governance or that could be used in other applications across the wider ecosystem. Identity solutions could be Atala PRISM focussed but could also be integrations of other identity systems into the Cardano ecosystem.
+* **Governance tools, libraries & SDKs** - Tools that help with governance participation and decision making that can be used by Catalyst but also could be used by other teams building in the ecosystem. Tools for governance will help the Catalyst function more effectively as a DAO.
+* **DAO tools, libraries & SDKs** - Development that helps the wider community to build DAOs for their own projects.
+* **Identity tools, libraries & SDKs** - Identity tools that help with Catalyst governance or that could be used in other applications across the wider ecosystem. Identity solutions could be Atala PRISM focussed but could also be integrations of other identity systems into the Cardano ecosystem.
 * **Rapid funding mechanisms** - New rapid funding mechanisms looking at improving the distribution of funding of the Cardano treasury.
 * **Auditing tools or processes** - Tools and process improvements that help with auditing funded proposals to help ensure they have the support needed to maximise the impact produced.
 * **Catalyst accelerators & mentors** - Tools, guides, mentors and programs that help people with going through the Catalyst funding process and working on their project.&#x20;
 * **Resources, processes, hosted discussions & documentation** - Proposals aimed at helping improve understanding and engagement with the Catalyst ecosystem or around governance topics such as improving decision making or processes for how the community reaches consensus.
-* **Governance research & analysis** - Research and analysis projects that will help improve how the community can approach governance. This can include exploring existing or new governance models that could improve how the community approaches distributed governance.
+* **Governance research and analysis** - Research and analysis projects that will help improve how the community can approach governance. This can include exploring existing or new governance models that could improve how the community approaches distributed governance.
 * **Education** - Demos, guides, videos or documentation for improving the education resources available about the different governance and identity tools, libraries and processes available in the ecosystem.
 
 ****
@@ -76,9 +76,9 @@ The better that Catalyst and applications in the wider community are able to eff
 
 This list is not exhaustive but does provides some ideas for proposers to consider.
 
-* **Governance tools & software** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
-* **DAO tools & software** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
-* **Identity tools & software** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
+* **Governance tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
+* **DAO tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
+* **Identity tools, libraries & SDKs** - Amount of adoption from other projects, improvement metrics from any adoption in Catalyst ecosystem.
 * **Rapid funding mechanisms** - Number of participants involved in governance process, speed of funding distribution, number of projects supported through mechanism.
 * **Auditing tools or processes** - Amount of adoption from other projects, number of projects being audited, number of projects receiving extra support, number of projects having funding halted due to lack of execution.
 * **Catalyst accelerators & mentors** - Number of projects onboarded onto support programs, number of projects supported.

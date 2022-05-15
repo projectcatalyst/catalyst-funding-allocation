@@ -10,21 +10,21 @@ Development & Node Operation
 
 **Category question**
 
-What research, tools, libraries, SDKs or scripts can improve running a node to secure the Cardano network or the developer ecosystem?
+What research, tools or software can improve the developer ecosystem to build on Cardano or for running a Cardano node?
 
 **Why is it important?**
 
-Stake pool nodes need to be easy to run and developers need tools and libraries to more easily build applications and integrations
+Developers need tools and software to more easily build applications and integrations and stake pool nodes need to be easy as possible to run&#x20;
 
 **How does success look like?**
 
-Innovation around tools, libraries, SDKs, scripts or research within the developer ecosystem or that help with operating stake pool nodes
+Innovation in tools, software or research that support how developers build applications or that help with operating stake pool nodes
 
 **Key Metrics to measure**
 
 Tracking success for this category will mean:
 
-* Increasing the number or quality of tools, libraries & SDKs that improve areas such as running nodes for SPOs, Plutus & IELE development or native asset development.
+* Increasing the number or quality of tools and software that improve areas such as running nodes for SPOs, Plutus & IELE development or native asset development.
 * Increasing the scalability of Cardano through the introduction of solutions that could in the form of research, layer 2 solutions or integrations of existing solutions.
 * Increase the number or quality of the standards, resources and research that make it easier for node operators and developers to understand the ecosystem and to improve the overall quality of the software being delivered across the ecosystem.
 
@@ -40,7 +40,7 @@ Individual success metrics are added for the different types of proposal in the 
 
 Development & Node Operation is focused on the following areas:
 
-* Creation and improvement of tools, scripts, libraries and SDKs that help make it easier for projects to develop on Cardano and for the community to operate stake pool nodes in the network.
+* Creation and improvement of tools and software that help make it easier for projects to develop on Cardano and for the community to operate stake pool nodes in the network.
 * Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education around what is available in the ecosystem for development or node operation.
 
 ****
@@ -57,25 +57,25 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 
 **Types of proposals to include**
 
-* **SPO tools, scripts, libraries & SDKs** - Development that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
-* **Plutus and IELE tools, libraries & SDKs** - Development that helps developers more easily write and deploy smart contracts onto the Cardano blockchain.
-* **Native asset tools, libraries & SDKs** - Development to improve how the community and developers can issue and manage native assets.&#x20;
+* **SPO tools & software** - Development tools, scripts, libraries and SDKs that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
+* **Plutus and IELE tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain. Keep in mind that IELE is yet to be released to the wider community.
+* **Native asset tools & software** - Development tools, libraries and SDKs to improve how the community and developers can issue and manage native assets.&#x20;
 * **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
 * **Resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
 * **Standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
-* **Research and development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
+* **Research & development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
 
 ****
 
 **Potential success metrics for proposal types**
 
-* **SPO tools, scripts, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
-* **Plutus and IELE tools, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
-* **Native asset tools, libraries & SDKs** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **SPO tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **Plutus and IELE tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Scalability solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
 * **Resources & documentation** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources
 * **Standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications
-* **Research and development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts
+* **Research & development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts
 
 
 

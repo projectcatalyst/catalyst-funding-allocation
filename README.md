@@ -8,7 +8,7 @@ description: >-
 
 Funding categories were creating to create a simple and effective solution for doing funding categorisation for the Catalyst funding process. Funding categories were created as a result of the [funding categorisation analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/).
 
-![Funding categories](.gitbook/assets/category-proposal-coverage.png)
+![Funding categories](<.gitbook/assets/category-proposal-coverage (1).png>)
 
 ### Contents
 

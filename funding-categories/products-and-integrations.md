@@ -60,10 +60,13 @@ The more interesting and useful the products and integrations are in the ecosyst
 * **DeFi** - Stable coins, DEXs, borrow & lending, synthetic assets, others...
 * **Gaming** - Open world games, card games, RPG, others...
 * **Nation governance systems** - New governance systems for nation states
-* **Environment** - Solutions that help to solve environmental issues
+* **Climate Change** - Solutions that help to solve environmental issues
 * **Transport & logistics**
 * **Social media**
 * **Marketplaces**
+* **Insurance**
+* **Mediation**
+* **Wallets**
 * **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
 
 ****

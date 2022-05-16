@@ -61,8 +61,8 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **Plutus and IELE tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain. Keep in mind that IELE is yet to be released to the wider community.
 * **Native asset tools & software** - Development tools, libraries and SDKs to improve how the community and developers can issue and manage native assets.&#x20;
 * **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
-* **Resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
-* **Standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
+* **Technical resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
+* **Technical standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
 * **Blockchain interoperability** - Research, software or any other useful initiatives that help increase the interoperability of Cardano with other blockchain systems
 * **Research & development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
 

@@ -67,6 +67,7 @@ The more interesting and useful the products and integrations are in the ecosyst
 * **Insurance**
 * **Mediation**
 * **Wallets**
+* **Legal**
 * **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
 
 ****
@@ -80,10 +81,14 @@ This list is not exhaustive but provides some ideas for proposers to consider.
 * **DeFi** - Total value locked, total number of users, number of active daily / weekly / monthly users
 * **Gaming** - Number of players, player income generated (if play to earn), qualitative feedback on game experience
 * **Nation governance systems** - Amount of population onboarded, amount of costs saved due to new solution, security difficulty improvements over previous approach
-* **Environment** - Total number of users, total CO2 sequestered, amount of awareness being produced, number of people changing a environmentally damaging habit&#x20;
+* **Climate change** - Total number of users, total CO2 sequestered, amount of awareness being produced, number of people changing a environmentally damaging habit&#x20;
 * **Transport & logistics** - Total number of packages tracked, Number of counterfeit items prevented&#x20;
 * **Social media** - Total number of users, number of meaningful interactions
 * **Marketplaces** - Total number of users, number of transactions performed
+* **Insurance** - Total number of users, total value insured
+* **Mediation** - Total completed mediations&#x20;
+* **Wallets** - Total number of users, number of DApp integrations
+* **Legal** - Total time or value saved for end users in meeting local regulations
 * **Many others** - Proposers can add in whatever metrics or success criteria make sense for their own project!
 
 

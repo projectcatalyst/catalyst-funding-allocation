@@ -73,7 +73,7 @@ Effective community initiatives will improve how people joining the ecosystem fi
 * **Nurturing culture** - Initiatives that help with establishing and nurturing a collaborative and open culture within Cardano related communities.
 * **Proposer outreach** - Outreach approaches to help increase the number of quality proposals submitted into each funding round.
 * **Translation support** - Support for translating core resources both in the ecosystem or for DApp projects that would help to engage more of the international community.
-* **Ecosystem education** - Guides and resources about the wider Cardano ecosystem, communities and projects.
+* **Ecosystem education** - Guides and resources about the wider Cardano ecosystem, communities and projects that make it easier for people to understand how to participate and use available solutions.
 
 ****
 
@@ -93,7 +93,7 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **Nurturing culture** - Number of participants in the initiative, number of views and interaction for digital content, testimonies on quality of the initiative from community feedback.
 * **Proposer outreach** - Number of proposals created, number of people viewing or learning about the proposal funding process, number of referrals for proposals.
 * **Translation support** - Number of languages supported, amount of content translated, number of people interacting with translated resources.
-* **Education resources** - Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
+* **Ecosystem education** - Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
 
 
 

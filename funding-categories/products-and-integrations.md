@@ -68,6 +68,7 @@ The more interesting and useful the products and integrations are in the ecosyst
 * **Mediation**
 * **Wallets**
 * **Legal**
+* **Business solutions** - Software products, data management, process management, data management solutions (CRM, ERP etc), privacy products**.**
 * **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
 
 ****
@@ -89,6 +90,7 @@ This list is not exhaustive but provides some ideas for proposers to consider.
 * **Mediation** - Total completed mediations&#x20;
 * **Wallets** - Total number of users, number of DApp integrations
 * **Legal** - Total time or value saved for end users in meeting local regulations
+* **Business solutions** - Total number of organisations using solutions, total time or value saved for end users
 * **Many others** - Proposers can add in whatever metrics or success criteria make sense for their own project!
 
 

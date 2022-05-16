@@ -63,6 +63,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
 * **Resources & documentation** - Technical documentation on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
 * **Standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
+* **Blockchain interoperability** - Research, software or any other useful initiatives that help increase the interoperability of Cardano with other blockchain systems
 * **Research & development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
 
 ****
@@ -73,9 +74,10 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **Plutus and IELE tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Scalability solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
-* **Resources & documentation** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources
-* **Standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications
-* **Research & development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts
+* **Resources & documentation** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources.
+* **Standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications.
+* **Blockchain interoperability** - Increase in number of chains or applications used between multiple chains, research papers completed, innovations in bridging technology or for any other areas of improvement.
+* **Research & development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts.
 
 
 

@@ -69,11 +69,10 @@ Effective community initiatives will improve how people joining the ecosystem fi
 * **High impact or topic based communities** - Support for resources, discussion, events or other initiatives led by communities focussed on different topics or high impact areas within the ecosystem. Topic and impact areas could be about legal, finance, gaming, adoption, the environment or anything else that helps bring the community together around different missions or shared values. Communities should be related to the Cardano ecosystem.
 * **Interviews & podcasts** - Recorded interviews and podcasts with community members and project teams to showcase news and latest developments.
 * **Community hubs** - Education, awareness and support based community hubs in different countries internationally.
-* **Workshops & courses** - Educational workshops and courses that help people learn about what can is available in the Cardano ecosystem that they could use or participate in.
-* **Nurturing culture** - Initiatives that help with establishing and nurturing a collaborative and open culture within Cardano related communities.
+* **Culture** - Workshops, courses, education, self development or other similar projects that help with establishing and nurturing a collaborative and open culture within Cardano related communities.
 * **Proposer outreach** - Outreach approaches to help increase the number of quality proposals submitted into each funding round.
 * **Translation support** - Support for translating core resources both in the ecosystem or for DApp projects that would help to engage more of the international community.
-* **Education resources** - Guides and resources about the wider Cardano ecosystem, communities and projects.
+* **Education** - Guides and resources about the wider Cardano ecosystem, communities and projects.
 
 ****
 
@@ -89,11 +88,10 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **High impact or topic based communities** - Number of community members engaged with the community, number of projects or applications that get created or supported by the community, level of engagement from community members.
 * **Interviews & podcasts** - Number of views and engagement with audience, number of topics covered.
 * **Community hubs** - Number of community hub attendees, types of content and information covered, open feedback from attendees about the community hub community or support, number of people supported that then participate or contribute to a given cause or area.
-* **Workshops & courses** - Number of participants, completion percentage, testimonies on quality of workshops or courses
-* **Nurturing culture** - Number of participants in the initiative, number of views and interaction for digital content, testimonies on quality of the initiative from community feedback.
+* **Culture** - Number of participants in the initiative, number of views and interaction for digital content, testimonies on quality of the initiative from community feedback.
 * **Proposer outreach** - Number of proposals created, number of people viewing or learning about the proposal funding process, number of referrals for proposals.
 * **Translation support** - Number of languages supported, amount of content translated, number of people interacting with translated resources.
-* **Education resources** - Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
+* **Education** - Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
 
 
 

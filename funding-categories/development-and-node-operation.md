@@ -60,7 +60,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **SPO tools & software** - Development tools, scripts, libraries and SDKs that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
 * **Plutus and IELE tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain. Keep in mind that IELE is yet to be released to the wider community.
 * **Native asset tools & software** - Development tools, libraries and SDKs to improve how the community and developers can issue and manage native assets.&#x20;
-* **Scalability solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
+* **Scalability research & solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
 * **Technical documentation & education** - Technical documentation and educational resources on how to use different tools, libraries or SDKs in the ecosystem.&#x20;
 * **Technical standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
 * **Blockchain interoperability** - Research, software or any other useful initiatives that help increase the interoperability of Cardano with other blockchain systems
@@ -73,7 +73,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 * **SPO tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Plutus and IELE tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
-* **Scalability solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
+* **Scalability research & solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
 * **Technical documentation & education** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources.
 * **Technical standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications.
 * **Blockchain interoperability** - Increase in number of chains or applications used between multiple chains, research papers completed, innovations in bridging technology or for any other areas of improvement.

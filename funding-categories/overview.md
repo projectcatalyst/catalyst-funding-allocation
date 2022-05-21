@@ -40,11 +40,11 @@ Governance & Identity focusses on proposals that will help with improve and supp
 
 ****
 
-**Development & Node Operation**
+**Development & Infrastructure**
 
-Development & Node Operation focuses on proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that make it easier for developers to build applications. It also includes stake pool operation with tools and resources that will make it as easy as possible for community members to secure the network and run their own stake pool node.
+Development & Infrastructure focuses on proposals that will help improve and maintain the Cardano developer ecosystem with tools, scripts, libraries and SDKs that make it easier for developers to build applications. It also includes infrastructure improvements with tools and resources that will make it as easy as possible for community members to secure and scale the network and run their own infrastructure and stake pool nodes.
 
-**=>** [**Read the Development & Node Operation category brief**](development-and-node-operation.md)****
+**=>** [**Read the Development & Infrastructure category brief**](development-and-infrastructure.md)****
 
 ****
 

@@ -8,7 +8,7 @@
 * [Community & Outreach](funding-categories/community-and-outreach.md)
 * [Products & Integrations](funding-categories/products-and-integrations.md)
 * [Governance & Identity](funding-categories/governance-and-identity.md)
-* [Development & Node Operation](funding-categories/development-and-node-operation.md)
+* [Development & Infrastructure](funding-categories/development-and-infrastructure.md)
 * [Nurturing Ideas & Teams](funding-categories/nurturing-ideas-and-teams.md)
 * [Catalyst Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/)
 * [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)

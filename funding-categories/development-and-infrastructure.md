@@ -1,24 +1,24 @@
 ---
-description: Development & Node Operation category proposal
+description: Development & Infrastructure category proposal
 ---
 
-# Development & Node Operation
+# Development & Infrastructure
 
 **Category Title**
 
-Development & Node Operation
+Development & Infrastructure
 
 **Category question**
 
-What research, tools or software can improve the developer ecosystem to build on Cardano or for running a Cardano node?
+What research, tools or software can improve the developer ecosystem or infrastructure to make it easier to run and build on the Cardano blockchain?
 
 **Why is it important?**
 
-Developers need tools and software to more easily build applications and integrations and stake pool nodes need to be easy as possible to run&#x20;
+Developers need tools and software to more easily build and run applications and integrations on the Cardano blockchain
 
 **How does success look like?**
 
-Innovation in tools, software or research that support how developers build applications or that help with operating stake pool nodes
+Innovation in tools, software or research that support how developers build applications or that help with improving Cardano infrastructure
 
 **Key Metrics to measure**
 
@@ -38,10 +38,10 @@ Individual success metrics are added for the different types of proposal in the 
 
 **Overview**
 
-Development & Node Operation is focused on the following areas:
+Development & Infrastructure is focused on the following areas:
 
 * Creation and improvement of tools and software that help make it easier for projects to develop on Cardano and for the community to operate stake pool nodes in the network.
-* Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education around what is available in the ecosystem for development or node operation.
+* Research, analysis and creation of standards, resources or documentation that bring either novel innovation to the ecosystem or help with improving the education around what is available in the ecosystem for development or running infrastructure.
 
 ****
 
@@ -51,13 +51,13 @@ The Cardano developer ecosystem and operation of stake pool nodes need to be eas
 
 To make it easy to develop projects on Cardano as well as operate the network there is a need for high quality resources, standards, tools, scripts, libraries and SDKs for developers and operators to use.
 
-The higher quality and more thorough the developer and stake pool node ecosystem is for Cardano the faster that people can be onboarded and build out applications to a high quality and security standard.
+The higher quality and more thorough the developer ecosystem and infrastructure is for Cardano the faster that people can be onboarded and build out applications to a high quality and security standard.
 
 
 
 **Types of proposals to include**
 
-* **SPO tools & software** - Development tools, scripts, libraries and SDKs that helps the SPO community more easily start and run their Cardano nodes or other ecosystem node infrastructure.
+* **Node & SPO tools & software** - Development tools, scripts, libraries and SDKs that helps the SPO community more easily start and run their Cardano nodes or other ecosystem infrastructure.
 * **Plutus and IELE tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain. Keep in mind that IELE is yet to be released to the wider community.
 * **Native asset tools & software** - Development tools, libraries and SDKs to improve how the community and developers can issue and manage native assets.&#x20;
 * **Scalability research & solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains.
@@ -70,7 +70,7 @@ The higher quality and more thorough the developer and stake pool node ecosystem
 
 **Potential success metrics for proposal types**
 
-* **SPO tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **Node & SPO tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Plutus and IELE tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Scalability research & solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.

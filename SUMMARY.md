@@ -16,17 +16,24 @@
 ## Community Discussion
 
 * [Catalyst Ecosystem Priorities](community-discussion/catalyst-ecosystem-priorities.md)
-* [Budget Weighting Considerations](community-discussion/budget-weighting-considerations.md)
 * [Discussion](community-discussion/discussion.md)
 
 ## Budget Weighting Votes
 
+* [Fund 9](budget-weighting-votes/fund-9/README.md)
+  * [Voter Guide](budget-weighting-votes/fund-9/voter-guide.md)
+  * [Budget Weighting Considerations](budget-weighting-votes/fund-9/budget-weighting-considerations.md)
 * [Fund 8](budget-weighting-votes/fund-8/README.md)
   * [Voter Check List](budget-weighting-votes/fund-8/voter-check-list.md)
   * [Voter FAQ](budget-weighting-votes/fund-8/voter-faq.md)
+  * [Budget Weighting Considerations](budget-weighting-votes/fund-8/budget-weighting-considerations.md)
   * [Vote Meeting (Monday 14th March)](budget-weighting-votes/fund-8/vote-meeting-monday-14th-march.md)
   * [Back Up Vote (Async)](budget-weighting-votes/fund-8/back-up-vote-async.md)
   * [Voting Results (Fund 8)](budget-weighting-votes/fund-8/voting-results-fund-8.md)
+* [Resources](budget-weighting-votes/resources/README.md)
+  * [Vote Moderator](budget-weighting-votes/resources/vote-moderator.md)
+  * [Vote FAQs](budget-weighting-votes/resources/vote-faqs.md)
+  * [Vote Improvement Ideas](budget-weighting-votes/resources/vote-improvement-ideas.md)
 
 ## 🔗 Links
 

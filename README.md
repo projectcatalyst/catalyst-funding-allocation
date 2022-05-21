@@ -14,4 +14,4 @@ Funding categories were creating to create a simple and effective solution for d
 
 * [**Funding Categories**](broken-reference) - An approach to funding categorisation that uses recurring, inclusive and broad categories.
 * [**Community Discussion**](broken-reference) - Collection of content and feedback from the community regarding funding categories.
-* [**Budget Weighting Votes**](community-discussion/budget-weighting-considerations.md) - A record of the votes taken that determine the budget weighting used for the funding categories.
+* [**Budget Weighting Votes**](budget-weighting-votes/fund-8/budget-weighting-considerations.md) - A record of the votes taken that determine the budget weighting used for the funding categories.

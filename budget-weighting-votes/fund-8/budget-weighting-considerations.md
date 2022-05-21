@@ -6,13 +6,15 @@ description: >-
 
 # Budget Weighting Considerations
 
-The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../funding-categories/overview.md) that have been suggested.&#x20;
+The following are some reasons for and against having a larger or smaller initial budget weightings for each of the [funding categories](../../funding-categories/overview.md) that have been suggested.&#x20;
 
 The following are suggestions to consider when giving feedback on the budget weighting discussion or community surveys. These suggestions are completely up for debate and currently only help to provide a starting point for the discussion.&#x20;
 
 
 
-**FEEDBACK AND THOUGHTS** - If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+**Feedback and thoughts**
+
+If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
 
 
 

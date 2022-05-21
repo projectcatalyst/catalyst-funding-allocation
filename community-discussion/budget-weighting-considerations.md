@@ -70,7 +70,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 
 
-### Development & Node Operation
+### Development & Infrastructure
 
 **Reasons for a larger budget weighting**
 

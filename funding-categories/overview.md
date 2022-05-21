@@ -1,5 +1,5 @@
 ---
-description: Broad categories for allocating Catalyst funding
+description: Catalyst funding categories overview
 ---
 
 # Overview

@@ -15,7 +15,6 @@
 
 ## Community Discussion
 
-* [Catalyst Ecosystem Priorities](community-discussion/catalyst-ecosystem-priorities.md)
 * [Discussion](community-discussion/discussion.md)
 
 ## Budget Weighting Votes
@@ -31,7 +30,7 @@
   * [Back Up Vote (Async)](budget-weighting-votes/fund-8/back-up-vote-async.md)
   * [Voting Results (Fund 8)](budget-weighting-votes/fund-8/voting-results-fund-8.md)
 * [Resources](budget-weighting-votes/resources/README.md)
-  * [Vote Moderator](budget-weighting-votes/resources/vote-moderator.md)
+  * [Vote Moderator Guide](budget-weighting-votes/resources/vote-moderator-guide.md)
   * [Vote FAQs](budget-weighting-votes/resources/vote-faqs.md)
   * [Vote Improvement Ideas](budget-weighting-votes/resources/vote-improvement-ideas.md)
 

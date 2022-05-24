@@ -28,17 +28,7 @@ The following is the two budget weighting decisions for this community vote.
 
 
 
-### **1st Decision - Usage of Nurturing Ideas & Teams**
-
-****
-
-**Question** - **Should the Nurturing Ideas & Teams category be included for this funding round?**
-
-TBA - Link to be added that covers why Nurturing Ideas & Teams is an add-on functional category and why it may not be needed.
-
-
-
-### 2nd Decision - Budget weighting percentage for each category
+### 1st Decision - Budget weighting percentage for each category
 
 ****
 

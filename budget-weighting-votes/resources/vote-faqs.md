@@ -12,7 +12,7 @@ Yes. Once registered the voter can use the same ID number in subsequent funding 
 
 **How does the vote moderator role work?**&#x20;
 
-The [vote moderator ](vote-moderator.md)role is simple for voter registration, the [vote moderator](vote-moderator.md) role has been documented.
+The [vote moderator ](vote-moderator-guide.md)role is simple for voter registration, the [vote moderator](vote-moderator-guide.md) role has been documented.
 
 ****
 

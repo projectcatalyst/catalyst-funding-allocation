@@ -10,7 +10,7 @@ Development & Infrastructure
 
 **Category question**
 
-What research, tools or software can improve the developer ecosystem or infrastructure to make it easier to run and build on the Cardano blockchain?
+What research, tools or software can improve the developer ecosystem or infrastructure to make it easier to build and scale on the Cardano blockchain?
 
 **Why is it important?**
 

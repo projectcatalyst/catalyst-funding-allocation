@@ -14,7 +14,7 @@ What research, tools or software can improve the developer ecosystem or infrastr
 
 **Why is it important?**
 
-Developers need tools and software to more easily build and run applications and integrations on the Cardano blockchain
+Developers need tools and software to more easily build and scale applications and integrations on the Cardano blockchain
 
 **How does success look like?**
 

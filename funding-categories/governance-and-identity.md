@@ -4,6 +4,8 @@ description: Governance & Identity category proposal
 
 # Governance & Identity
 
+![](../.gitbook/assets/governance-identity-banner.png)
+
 **Category Title**
 
 Governance & Identity

@@ -4,6 +4,8 @@ description: Products & Integrations category proposal
 
 # Products & Integrations
 
+![](../.gitbook/assets/products-integrations-banner.png)
+
 **Category Title**
 
 Products & Integrations
@@ -69,6 +71,7 @@ The more interesting and useful the products and integrations are in the ecosyst
 * **Wallets**
 * **Legal**
 * **Business solutions** - Software products, data management, process management, data management solutions (CRM, ERP etc), privacy products**.**
+* **Artificial intelligence**
 * **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
 
 ****

@@ -7,6 +7,8 @@ description: >-
 
 # Nurturing Ideas & Teams
 
+![](../.gitbook/assets/nurturing-ideas-teams-banner.png)
+
 **Category Title**
 
 Nurturing Ideas & Teams

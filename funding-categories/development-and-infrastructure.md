@@ -4,6 +4,8 @@ description: Development & Infrastructure category proposal
 
 # Development & Infrastructure
 
+![](../.gitbook/assets/development-infrastructure-banner.png)
+
 **Category Title**
 
 Development & Infrastructure

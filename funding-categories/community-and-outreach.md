@@ -4,6 +4,8 @@ description: Community & Outreach category proposal
 
 # Community & Outreach
 
+![](../.gitbook/assets/community-outreach-banner.png)
+
 **Category Title**
 
 Community & Outreach

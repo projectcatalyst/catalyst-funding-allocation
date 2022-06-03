@@ -18,6 +18,8 @@ This is a fund 9 vote for setting the budgets of the funding categories that are
 
 \=> [**Voter Guide**](voter-guide.md) - Complete guide for voters&#x20;
 
+\=> [**Moderators**](moderators.md) - List of moderators for the fund 9 vote that handle voter registration
+
 \=> [**Budget Weighting Considerations**](broken-reference) - Considerations for voters to take into account for this rounds voting.
 
 

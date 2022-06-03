@@ -1,8 +1,7 @@
 ---
 description: >-
-  Exploring the idea of a nurturing ideas & teams as an additional category
-  aimed at bringing in numerous smaller projects with new ideas or ways to
-  support the ecosystem
+  Nurturing ideas & teams aims to support, grow and diversify the ideas and
+  teams that exist in the ecosystem
 ---
 
 # Nurturing Ideas & Teams

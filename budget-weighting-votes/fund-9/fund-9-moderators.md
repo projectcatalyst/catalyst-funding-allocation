@@ -1,8 +1,8 @@
 ---
-description: List of moderators for fund 9
+description: List of moderators for fund 9 voter registration
 ---
 
-# Moderators
+# Fund 9 Moderators
 
 **TBC** - Moderators are currently being added
 

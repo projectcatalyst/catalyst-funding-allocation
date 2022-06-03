@@ -12,7 +12,7 @@ Prior to the vote it is recommended for voters to review the [budget weighting c
 
 **Voting process**
 
-* **Contact a vote moderator** - Contact a vote moderator to organise a proof of life meeting so you can be registered to vote.
+* **Contact a vote moderator** - Contact a [fund 9 moderator](fund-9-moderators.md) to organise a proof of life meeting so you can be registered to vote.
 * **Voter registration** - Join the proof of life meeting, you will need provide your full name to the moderator to record your registration. You name will be stored in a private spreadsheet along with a voter ID created by the moderator. The moderator will send you the ID number to use for the vote. You should keep this ID number private.
 * **Community event** - An optional community event will be hosted to discuss the vote and for the community to share their factors or opinions for consideration.
 * **Voting period** - A publicly shared Google form will be shared. You will add your voter ID into this form and then answer any voting questions. Submitting this form means your vote is cast. You cannot resubmit your vote. Your private voter ID will be stripped from the results document. If you want to verify your vote was included you should keep a note of the time you submitted your vote to verify it is in the public results document.

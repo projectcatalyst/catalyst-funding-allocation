@@ -4,36 +4,30 @@ description: Ideas towards how the budget weighting vote can be improved
 
 # Vote Improvement Ideas
 
-We need a scalable, inclusive and democratic solution for budget weighting votes.
-
-In the short and medium term ideas can be considered that would be an improvement over the manual approach of proof of life meetings along with an online form vote.
+The community requires a scalable, inclusive and democratic solution for budget weighting votes in the short term. Over the longer term other improvements and approaches can be used to remove the burden of budget weighting votes or automate how they're handled.
 
 ****
 
-**Cardano metadata transaction vote**
+### **Short term**
 
-ADA holders could send a transaction to themselves with the metadata that has their budget weighting vote preferences. The benefit of this is it makes it scalable to a large audience and can be inclusive to anyone with a range of wallets. Some problems with this approach is it would be plutocratic and give larger ADA holders more influence on the budget weighting. The current Catalyst voting approach is plutocratic so using this as a solution is arguably still not a regression.
+****
 
+**Plutocratic budget weighting vote integration**
 
-
-**Testnet smart contract or transaction vote**
-
-To remove the cost of the vote the testnet could be used to sign transactions. This approach couldn’t be plutocratic as it’s a testnet so for it to be democratic it would need some proof of life meeting or some form of KYC to make it democratic using a one person one vote model.
+A short term improvement will the removal of a manual voting registration process and then the integration of a plutocratic budget weighting vote. The current system is uses a plutocratic model to vote on proposal which can be copied for the budget weighting vote.
 
 
 
-**Proof of life verifiable credential**
+### **Longer term**
 
-Use a community created Atala PRISM wallet to hold a proof of life credential to then use to sign a budget weighting vote. The benefit of this is it means message signing can be done from an identity wallet. The downsides to this approach is the infrastructure is still in its infancy so may be less accessible for many users and still would require a proof of life meeting and a set of issuers to distribute the credential.
+****
 
+**Budget weighting automation**
 
+The budget weighting can be automated using a few different inputs. The first potential input is the goals & objectives set by the community. An independent goal & objective setting process can create data that creates effective suggestions as how to achieve budget weighting. If funding categories are used as a replacement of challenge setting the historical data of categorisation usage can also be used as another factor to create suggestions of how to change the weightings in the future rounds. Combining these factors can lead to a potential algorithm that automates this process.
 
-**Discord user vote**
+****
 
-As an alternative to Google Forms for the voting stage a Discord plugin for votes could be potentially used.
+**Removal of all categories due to voting infrastructure improvements**
 
-
-
-**Cross chain solution**
-
-Cross chain solutions could be used in the short term if a suitable solution existed. Upon further research no existing solution seemed to support budget weight votes with multiple entries.
+The voting process can be improved by the voter being able to filter and sort by certain attributes, see which areas in the ecosystem are highest priority from the community recommendations from a goal and objective setting process and also should be able to see a better summary of their vote. In this event there may be less need to have a number of funding categorisations as good outcomes may be achievable with no categorisations. This will be an important avenue to explore in the future.

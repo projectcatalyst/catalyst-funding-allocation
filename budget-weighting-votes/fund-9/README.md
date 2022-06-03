@@ -6,13 +6,13 @@ description: >-
 
 # Fund 9
 
-**TBA** - The vote for fund 9 is currently being drafted.
+**TBA** - The timeline for fund 9 budget weighting is currently being defined.
 
 ## Overview
 
 
 
-This is a fund 9 vote for setting the budgets of the funding categories that have been proposed in the fund 10 challenge setting.
+This is a fund 9 vote for setting the budgets of the funding categories that are being proposed to be used in fund 10.
 
 
 
@@ -23,8 +23,6 @@ This is a fund 9 vote for setting the budgets of the funding categories that hav
 
 
 ## Voting decisions
-
-The following is the two budget weighting decisions for this community vote.
 
 
 
@@ -38,13 +36,15 @@ The following is the two budget weighting decisions for this community vote.
 
 **Important notes & rules**
 
-* The categories have been created to cover all forms of ideas and innovation.
-* A minimum percentage of 4% is applied to each category so to ensure every category has some funding.
-* If Nurturing Ideas & Teams is not voted in then the funds will be distributed proportionally to the other categories vote outcome based their weightings.
+* Only add whole numbers, no decimals or other characters
+* The total for all categories MUST add up to exactly 100.
+* Each category cannot have an allocation below 3%. This is to ensure every category has at least some funding as categories have been created to cover all forms of ideas and innovation.
+* Voters can only vote once.
+* Casted votes that do not follow the above guide will have ALL votes attached to that voter ID discarded.
 
-****
 
-**Answer options** - Attach a percentage weighting to the following categories. The total must add up to 100%. Please check your math - misallocations below or above this will be discarded.
+
+**Answer options** - Attach a percentage weighting to the following categories. The total must add up to 100%, please check your math.
 
 * **Community & Outreach**
 * **Products & Integrations**
@@ -58,24 +58,24 @@ The following is the two budget weighting decisions for this community vote.
 
 **Example**
 
-If the total funding allocation was $16,000,000 then if we apply following percentage examples to each category it would yield the following result:
+If the total funding allocation was 16,000,000 ADA then if we apply following percentage examples to each category it would yield the following result:
 
 | Category                     | Percentage | Category Budget Allocated |
 | ---------------------------- | ---------- | ------------------------- |
-| Community & Outreach         | 15         | $2,400,000                |
-| Products & Integrations      | 20         | $3,200,000                |
-| Governance & Identity        | 20         | $3,200,000                |
-| Development & Infrastructure | 25         | $4,000,000                |
-| Nurturing Ideas & Teams      | 7          | $1,120,000                |
-| Catalyst Contributors        | 7          | $1,120,000                |
-| Cardano Contributors         | 6          | $960,000                  |
+| Community & Outreach         | 15         | 2,400,000 ADA             |
+| Products & Integrations      | 20         | 3,200,000 ADA             |
+| Governance & Identity        | 20         | 3,200,000 ADA             |
+| Development & Infrastructure | 25         | 4,000,000 ADA             |
+| Nurturing Ideas & Teams      | 6          | 960,000 ADA               |
+| Catalyst Contributors        | 7          | 1,120,000 ADA             |
+| Cardano Contributors         | 7          | 1,120,000 ADA             |
 
-**NOTE**: The above example amounts would then need to be rounded to the closest $25,000 as this is required in the funding process.
+**NOTE**: The amounts in the above example would then need to be rounded to the closest 25,000 ADA. This is currently a required part of the funding process.
 
 
 
-**Outcome approach**
+**Outcome notes**
 
 * **Voter power** - 1 person 1 vote.
-* **Weighted outcome** - The outcome from the vote is based on weightings. The values will be aggregated from every vote to work out the final values for each category.
+* **Weighted outcome** - The outcome from the vote is based on weightings. Values will be aggregated from every vote to work out the final value for each category.
 * **Rounded outcome** - The final values will be rounded to the nearest whole number. For example, 24.64 would be rounded to a 25% allocation. The total weightings together will equal 100%.

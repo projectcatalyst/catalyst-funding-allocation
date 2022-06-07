@@ -64,7 +64,7 @@ The following voting form will be opened during the voting period as specified i
 
 **FAQs**
 
-[Vote FAQs](../resources/vote-faqs.md) has a number of questions answered.&#x20;
+[Vote FAQs](../resources/vote-faqs.md) has a voter form example and a number of common questions answered.&#x20;
 
 
 

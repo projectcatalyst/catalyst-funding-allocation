@@ -4,6 +4,12 @@ description: FAQ for budget weighting votes
 
 # Vote FAQs
 
+**What does the voting form look like?**
+
+Google Form is used to record the vote. Here is an example form - [https://docs.google.com/forms/d/e/1FAIpQLSfSW32kQQ5tAq\_PywwHbo2vf03z0awS3QlLcLgsdn-KLZa\_Dw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfSW32kQQ5tAq\_PywwHbo2vf03z0awS3QlLcLgsdn-KLZa\_Dw/viewform?usp=sf\_link)
+
+****
+
 **Can voters reuse the ID number in the next funding round?**&#x20;
 
 Yes. Once registered the voter can use the same ID number in subsequent funding round votes until this voting system is replaced. Voters need to be careful to not share their ID number and to keep it private.

@@ -35,6 +35,8 @@ description: Understanding the role of the vote moderator
 
 **Example voter registration data**
 
+The following is an example of the voter registration data that the moderators would create. Real versions of this registration data are not shared publicly and the document would only be managed by moderators.
+
 ****[https://docs.google.com/spreadsheets/d/18wSlQzehb7r\_Yfy4MpOwfR7YNy7XvD2q2hE4Zn\_MeEY](https://docs.google.com/spreadsheets/d/18wSlQzehb7r\_Yfy4MpOwfR7YNy7XvD2q2hE4Zn\_MeEY/edit?usp=sharing)
 
 ****

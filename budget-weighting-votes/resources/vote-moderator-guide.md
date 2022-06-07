@@ -8,7 +8,7 @@ description: Understanding the role of the vote moderator
 
 * **Purpose** - The vote moderator role is responsible for helping to register community members so they are able to cast their budget weighting vote.&#x20;
 * **Main task** - Moderators only main task it to conduct short proof of life meetings to register voters.
-* **Self managed** - Moderators manage their own time and their ability to register voters.&#x20;
+* **Self managed** - Moderators manage their own time and when and how they register voters.&#x20;
 
 
 
@@ -17,7 +17,7 @@ description: Understanding the role of the vote moderator
 1. Community members should be able to organise a quick proof of life meetings with a moderator during the registration period.
 2. The video meeting should allow for the moderator to see the community members face to provide evidence they are indeed a human being. This fulfils the proof of life requirement.
 3. The moderator will ask for the full name of the voter to record in the voter registration spreadsheet.
-   1. If the voter does not want to share their full name the moderator will need to decide how to record their information. They could decide to provide a Twitter profile where the moderator requests the user sends them a message to prove they own the account.
+   1. Moderators who don't know the community member that they are registering should ask for some proof to verify they are who they say they are. Verifying could be achieved with social or professional profiles or showing any relevant identity document. This verification is to prevent unknown community members signing up with multiple moderators.
 4. Moderator will record all of this information by following the registering voter data guide below.&#x20;
 5. Moderator will send the voter ID to the community member and tell them to use this for the vote and to keep the ID private.
 
@@ -27,7 +27,7 @@ description: Understanding the role of the vote moderator
 
 * **Voter ID -** Use a [UUID4 generator](https://www.uuidgenerator.net/version4) to create a voter ID for the community member
 * **Name** - Record the community members full name
-* **Notes** - Add extra information such as social or professional profile links when necessary for when the moderator does not know the community member or the community member does not provide their full name.
+* **Notes** - Add extra information such as social or professional profile links when necessary for when the moderator does not know the community member.
 * **Moderator knows the voter?** - Enter either Yes or No.
 * **Moderator name** - Moderator enters their own full name
 

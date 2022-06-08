@@ -31,17 +31,17 @@ The following voting form will be opened during the voting period as specified i
 
 **Timeline**
 
-* **Voter registration** - TBC (e.g. June 7th 12:00 UTC - June 21st 12:00 UTC)
-* **Community event** - TBC (e.g. June 13th 18:00 UTC)
-* **Voting period** - TBC (e.g. June 14th 12:00 UTC - June 28th 12:00 UTC)
-* **Tallying** - TBC (e.g. June 28th 12:00 UTC - June 29th 12:00 UTC)
-* **Results** - TBC (e.g. June 29th 12:00 UTC)
+* **Voter registration** - June 9th 12:00 UTC - June 25th 12:00 UTC
+* ****[**Budget weighting discussion event**](budget-weighting-vote-discussion-event.md) - June 16th 17:00 UTC
+* **Voting period** - June 17th 12:00 UTC - June 27th 12:00 UTC
+* **Tallying** - June 27th 12:00 UTC - June 29th 12:00 UTC
+* **Results** - June 30th 12:00 UTC
 
-****
 
-**Community discussion event**
 
-**TBC** - An event for the community to come together will be hosted to discuss different opinions and factors to consider for the budget weighting.
+****[**Budget weighting discussion event**](budget-weighting-vote-discussion-event.md)
+
+A discussion between community members will take place prior to the voting period opening so that people can share their opinions for what they believe is important for other community members to consider when casting their budget weighting vote.
 
 
 
@@ -54,7 +54,7 @@ The following voting form will be opened during the voting period as specified i
 
 **Problems and risks**
 
-* **No voter privacy from moderators** - Moderators will share a private spreadsheet to record voter registrations. A separate public spreadsheet will showcase the votes with the ID numbers. Moderators would be able to cross reference the voter ID to work out who made what vote using that information. Moderators will be asked not to cross reference the voting results however no guarantee can be made that this will not happen.
+* **No voter privacy from moderators** - Moderators will share a private spreadsheet to record voter registrations. A separate public spreadsheet will later be shared that will showcase the votes without the ID numbers. Moderators would be able to cross reference the voter ID to work out who made what vote using that information. Moderators will be asked not to cross reference the voting results however no guarantee can be made that this will not happen. Due to this factor around privacy there will be a preference to find moderators who have a larger experience and a longer background in the community.
 * **Security** - Moderators will be asked to be careful with their own account security and have 2FA switched on the account used that gives them access to the private voter registration spreadsheet. As results will be stored in an online private spreadsheet it should always be assumed that the risk always exists of data being leaked due to a hack or mistake. No guarantee can be made on voter privacy over the long term due to these security risks.
 * **Scalability** - This process does not effectively scale and is a short term solution. We will continuously explore ways to migrate away from this process. We would like to see a budget weighting voting capability integrated into the Catalyst voting process with the same plutocratic model so this process that uses moderators as middlemen can be removed.
 * **Repeated voter registration** - There is a risk that a voter tries to register twice under a different name. It is the responsibility of the moderators to verify the voter is who they say they are upon any registration event and cross check with other moderators whenever in doubt over registration legitimacy.

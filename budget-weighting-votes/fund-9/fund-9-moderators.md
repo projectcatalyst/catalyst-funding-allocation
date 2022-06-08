@@ -4,7 +4,7 @@ description: List of moderators for fund 9 voter registration
 
 # Fund 9 Moderators
 
-**TBC** - Moderators are currently being added
+**Ongoing** - More moderators may be added over the coming days
 
 
 

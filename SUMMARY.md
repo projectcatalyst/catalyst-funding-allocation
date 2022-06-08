@@ -21,6 +21,7 @@
 
 * [Fund 9](budget-weighting-votes/fund-9/README.md)
   * [Voter Guide](budget-weighting-votes/fund-9/voter-guide.md)
+  * [Budget Weighting Vote Discussion Event](budget-weighting-votes/fund-9/budget-weighting-vote-discussion-event.md)
   * [Fund 9 Moderators](budget-weighting-votes/fund-9/fund-9-moderators.md)
   * [Budget Weighting Considerations](budget-weighting-votes/fund-9/budget-weighting-considerations.md)
 * [Fund 8](budget-weighting-votes/fund-8/README.md)

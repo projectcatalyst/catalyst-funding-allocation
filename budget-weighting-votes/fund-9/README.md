@@ -6,29 +6,31 @@ description: >-
 
 # Fund 9
 
-**TBA** - The timeline for fund 9 budget weighting is currently being defined.
+![Funding categories budget weighting vote](../../.gitbook/assets/budget-weighting-banner.png)
 
 ## Overview
 
 
 
-This is a fund 9 vote for setting the budgets of the funding categories that are being proposed to be used in fund 10.
+This is a fund 9 vote for setting the budgets of the funding categories that are being proposed for fund 10.
 
 
 
-\=> [**Voter Guide**](voter-guide.md) - Complete guide for voters&#x20;
+\=> [**Voter Guide**](voter-guide.md) - Complete guide for voters including a voting timeline
 
-\=> [**Moderators**](fund-9-moderators.md) - List of moderators for the fund 9 vote that handle voter registration
+\=> [**Budget Weighting Vote Discussion Event**](budget-weighting-vote-discussion-event.md) - Join in on the discussion about the budget weighting vote for fund 9 before the voting stage begins
+
+\=> [**Moderators**](fund-9-moderators.md) - List of moderators for the fund 9 vote that help community members register to vote
 
 \=> [**Budget Weighting Considerations**](broken-reference) - Considerations for voters to take into account for this rounds voting.
 
 
 
-## Voting decisions
+## Voting questions
 
 
 
-### 1st Decision - Budget weighting percentage for each category
+### 1st Question - Budget weighting percentage for each category
 
 ****
 

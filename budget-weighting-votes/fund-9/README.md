@@ -30,11 +30,11 @@ This is a fund 9 vote for setting the budgets of the funding categories that are
 
 
 
-### 1st Question - Budget weighting percentage for each category
+### 1. Budget weighting percentage for each category
 
 ****
 
-**Question** - What percentage should be allocated to each of the funding categories?
+**Question** - What percentage should be allocated to each of the funding categories for the next funding round?
 
 ****
 

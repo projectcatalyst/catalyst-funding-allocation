@@ -12,11 +12,11 @@ Products & Integrations
 
 **Category question**
 
-What new products and integrations can be developed that will offer more use cases to the Cardano ecosystem that are high impact and drive more adoption?&#x20;
+What products and integrations can be developed or improved that will offer more use cases to the Cardano ecosystem that are high impact and drive more adoption?
 
 **Why is it important?**
 
-Cardano needs new innovations and solutions for the ecosystem to reach its full potential and improve the systems that society use across the world.
+Cardano needs innovations and solutions that help the ecosystem reach its potential and help improve the systems we use across the world.
 
 **How does success look like?**
 
@@ -57,8 +57,8 @@ The more interesting and useful the products and integrations are in the ecosyst
 
 **Types of proposals to include**
 
-* **Hardware** - Hardware wallets, Local ATMs for interacting with the blockchain, others...
-* **Physical products** - Tokenised housing as a Cardano native asset, International crypto headquarters and liason office on every continent, others...
+* **Hardware** - Hardware wallets, IoT devices connected to Cardano, Local ATMs for interacting with the blockchain, others...
+* **Physical products** - Tokenised housing as a Cardano native asset, Fractionalised physical asset ownership, others...
 * **DeFi** - Stable coins, DEXs, borrow & lending, synthetic assets, others...
 * **Gaming** - Open world games, card games, RPG, others...
 * **National governance systems** - New governance systems for nation states

@@ -16,11 +16,11 @@ What tools, processes and research will improve how we integrate governance or i
 
 **Why is it important?**
 
-There is a need for effective governance and identity tools and processes that make it easier to develop applications used in Catalyst and the wider ecosystem.
+Cardano needs effective governance & identity tools and processes to make it easier to develop and scale community led solutions
 
 **How does success look like?**
 
-Evolution of the governance and identity ecosystem tools, processes and resources to improve Catalyst and any applications building on Cardano.
+Evolution of the governance and identity tools, processes and resources to improve Catalyst and applications building on Cardano
 
 **Key Metrics to measure**
 

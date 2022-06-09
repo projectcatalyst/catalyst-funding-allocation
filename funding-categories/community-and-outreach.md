@@ -16,11 +16,11 @@ How can we engage the community, do outreach that brings more people into the ec
 
 **Why is it important?**
 
-Cardano needs an engaged and thriving community along with collaboration with those outside the community so that the ecosystem is welcoming, collaborative and engaging.
+Cardano needs an engaged thriving community along with collaborate efforts that effectively welcome those outside the community.
 
 **How does success look like?**
 
-Communities forming around certain topics, public goods or ecosystem areas or approaches that promote collaboration or introduce more people into the community.
+Communities forming around topics, public goods or focus areas that promote collaboration and introduce people to the community.
 
 **Key Metrics to measure**
 

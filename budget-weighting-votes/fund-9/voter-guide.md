@@ -31,7 +31,7 @@ The following voting form will be opened during the voting period as specified i
 
 **Timeline**
 
-* **Voter registration** - June 9th 12:00 UTC - June 25th 12:00 UTC
+* **Voter registration** - June 10th 12:00 UTC - June 25th 12:00 UTC
 * ****[**Budget weighting discussion event**](budget-weighting-vote-discussion-event.md) - June 16th 17:00 UTC
 * **Voting period** - June 17th 12:00 UTC - June 27th 12:00 UTC
 * **Tallying** - June 27th 12:00 UTC - June 29th 12:00 UTC

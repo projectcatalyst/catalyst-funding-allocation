@@ -19,6 +19,7 @@ To register to vote for the fund 9 budget weighting vote you can reach out to an
 **George Lovegrove**
 
 * Discord - George Lovegrove#3020
+* Twitter - [https://twitter.com/cardanopace](https://twitter.com/cardanopace)
 
 
 

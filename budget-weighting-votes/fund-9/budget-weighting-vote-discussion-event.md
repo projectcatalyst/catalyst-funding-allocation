@@ -4,7 +4,7 @@ description: Discussion for the budget weighting vote for fund 9
 
 # Budget Weighting Vote Discussion Event
 
-![](<../../.gitbook/assets/budget-weighting-banner (1).png>)
+![](../../.gitbook/assets/budget-weighting-discussion.png)
 
 **Purpose**
 
@@ -22,7 +22,7 @@ Community members will share their perspectives on why certain categories may be
 
 **Zoom link**
 
-TBC
+[https://us02web.zoom.us/meeting/register/tZYqf-mtqT8oH9WSUFDz1YNX2e1wQLHgd78r](https://us02web.zoom.us/meeting/register/tZYqf-mtqT8oH9WSUFDz1YNX2e1wQLHgd78r)
 
 
 

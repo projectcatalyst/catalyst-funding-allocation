@@ -27,3 +27,10 @@ To register to vote for the fund 9 budget weighting vote you can reach out to an
 
 * Discord - Ken Adams (KEWW)#8362
 * Twitter - [https://twitter.com/KenKeww](https://twitter.com/KenKeww)
+
+
+
+**Darlington Wleh**
+
+* Discord - Darlington Wleh \[lidonation]#0849
+* Twitter - [https://twitter.com/LidoNation](https://twitter.com/LidoNation)

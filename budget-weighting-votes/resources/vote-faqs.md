@@ -46,7 +46,7 @@ No. The vote determines the budget weighting amounts that should be used for the
 
 
 
-**Why is there a minimum of 4% given to each category?**
+**Why is there a minimum of 3% given to each category?**
 
 The analysis and categorisation has been done to try and split the different proposal types between a broad set of categories. If there was no minimum for those categories it would mean the chance of having zero funding for a large group of proposal types. To protect against this a minimum percentage has been applied as a safe guard to prevent stifling innovation and ideas. In the future these percentages should become a parameter that is updated by a community vote when and if needed - likely not requiring changes every funding round.
 

@@ -62,19 +62,32 @@ This is a fund 9 vote for setting the budgets of the funding categories that are
 
 **Example**
 
-If the total funding allocation was 16,000,000 ADA then if we apply following percentage examples to each category it would yield the following result:
+The total funding amount for fund 9 is 12,800,000 ADA. Some example percentage values to consider:
 
-| Category                     | Percentage | Category Budget Allocated |
-| ---------------------------- | ---------- | ------------------------- |
-| Community & Outreach         | 15         | 2,400,000 ADA             |
-| Products & Integrations      | 20         | 3,200,000 ADA             |
-| Governance & Identity        | 20         | 3,200,000 ADA             |
-| Development & Infrastructure | 25         | 4,000,000 ADA             |
-| Nurturing Ideas & Teams      | 6          | 960,000 ADA               |
-| Catalyst Contributors        | 7          | 1,120,000 ADA             |
-| Cardano Contributors         | 7          | 1,120,000 ADA             |
+**1% -** 128,000 ADA
 
-**NOTE**: The amounts in the above example would then need to be rounded to the closest 25,000 ADA. This is currently a required part of the funding process.
+**2% -** 256,000 ADA
+
+**3%** - 384,000 ADA
+
+**5% -** 640,000 ADA
+
+**10% -** 1,280,000 ADA
+
+Applying some percentages to each category that add up to 100% produces the following example:
+
+| Category                     | Percentage | Category Budget Allocation |
+| ---------------------------- | ---------- | -------------------------- |
+| Community & Outreach         | 15         | 1,920,000 ADA              |
+| Products & Integrations      | 20         | 2,560,000 ADA              |
+| Governance & Identity        | 20         | 2,560,000 ADA              |
+| Development & Infrastructure | 25         | 3,200,000 ADA              |
+| Nurturing Ideas & Teams      | 6          | 768,000 ADA                |
+| Catalyst Contributors        | 7          | 896,000 ADA                |
+| Cardano Contributors         | 7          | 896,000 ADA                |
+| **Total**                    | **100**    | **12,800,000 ADA**         |
+
+**NOTE**: The amounts in the example above would then need to be rounded to the closest 25,000 ADA. This is currently a required part of the funding process.
 
 
 

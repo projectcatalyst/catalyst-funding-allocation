@@ -4,6 +4,10 @@ description: Discussion for the budget weighting vote for fund 9
 
 # Budget Weighting Vote Discussion Event
 
+{% embed url="https://youtu.be/SmsHKp6orJE" %}
+
+
+
 ![](../../.gitbook/assets/budget-weighting-discussion.png)
 
 **Purpose**

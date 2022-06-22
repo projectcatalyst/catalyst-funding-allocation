@@ -4,6 +4,8 @@ description: Details for the vote held online in a meeting format.
 
 # Vote Meeting (Monday 14th March)
 
+{% embed url="https://youtu.be/W5PsHgItn-g" %}
+
 **Date**: Monday 14th March
 
 **Time**: 18:00 UTC

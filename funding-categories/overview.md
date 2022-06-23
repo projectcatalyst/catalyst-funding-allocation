@@ -8,6 +8,32 @@ Funding categories provide a simpler and far more effective way to do funding ca
 
 ![](../.gitbook/assets/funding-categories-updated.png)
 
+### **Category types**
+
+![](../.gitbook/assets/funding-categories-groupings-light.png)
+
+**Idea & Innovation categories**
+
+Any proposal about an idea or innovation can be submitted in these categories. Examples include events, applications, tools, software libraries, community initiative efforts and many others.
+
+
+
+**Contributor categories**
+
+Proposals submitted by people in the community who want to work full time in the ecosystem to support and improve the ecosystem.
+
+****
+
+**Experimental categories**
+
+Exploration in any new funding categorisation approach to see how it is used so that it can be analysed once used to inform future iterations and improvements.
+
+****
+
+### **Funding categories list**
+
+****
+
 **Community & Outreach**
 
 Community & Outreach focusses on helping bring the community together and be engaged in the ecosystem. It also is for supporting outreach to new potential community members and collaborations with external people and communities.

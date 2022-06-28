@@ -57,6 +57,8 @@ To maximize the potential of the ecosystem there is a need for effective and rob
 
 This category also concerns any identity or governance solutions used in the wider ecosystem that will help the ecosystem to thrive.
 
+The better that Catalyst and applications in the wider community are able to effectively govern and apply identity to their applications and processes the more the ecosystem can thrive on reliable and trustable infrastructure. More open source tools for governance and identity within the ecosystem will help with increasing the rate of people developing novel solutions to different problems.
+
 It's also time to enact and do governance through experiments and trials and share what we learn. It's time to put the ideas into practice and to reflect, iterate, and improve.
 
 

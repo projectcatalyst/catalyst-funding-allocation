@@ -78,7 +78,7 @@ The higher quality and more thorough the developer ecosystem and infrastructure 
 * **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Data oracles, indexers & explorers** - Amount of adoption, reliability or availability of new data sources or number of ways to interact with both blockchain and real world data.
 * **Scalability research & solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.
-* **Technical documentation & education** - Amount of people viewing resources, reduction in number of common questions to contributors due to better resources.
+* **Technical documentation & education** - Amount of people viewing resources, reduction in number of common questions for contributors due to better resources.
 * **Technical standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications.
 * **Blockchain interoperability** - Increase in number of chains or applications used between multiple chains, research papers completed, innovations in bridging technology or for any other areas of improvement.
 * **Research & development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts.

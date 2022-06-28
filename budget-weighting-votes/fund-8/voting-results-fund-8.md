@@ -2,7 +2,7 @@
 description: Results for the fund 8 budget weighting vote
 ---
 
-# Voting Results (Fund 8)
+# Fund 8 Voting Results
 
 **Total allocation for all categories**
 

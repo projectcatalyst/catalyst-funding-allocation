@@ -31,7 +31,7 @@
   * [Budget Weighting Considerations](budget-weighting-votes/fund-8/budget-weighting-considerations.md)
   * [Vote Meeting (Monday 14th March)](budget-weighting-votes/fund-8/vote-meeting-monday-14th-march.md)
   * [Back Up Vote (Async)](budget-weighting-votes/fund-8/back-up-vote-async.md)
-  * [Fund 8 Voting Results](budget-weighting-votes/fund-8/fund-8-voting-results.md)
+  * [Fund 8 Voting Results](budget-weighting-votes/fund-8/voting-results-fund-8.md)
 * [Resources](budget-weighting-votes/resources/README.md)
   * [Vote Moderator Guide](budget-weighting-votes/resources/vote-moderator-guide.md)
   * [Vote FAQs](budget-weighting-votes/resources/vote-faqs.md)

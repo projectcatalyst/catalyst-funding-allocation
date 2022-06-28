@@ -20,10 +20,10 @@ description: Results for the fund 9 budget weighting vote
 
 **Tallying approach**
 
-* First the exact percentage is calculated by getting the average
-* Next the exact ADA allocated value is calculated with that exact percentage
-* The values are then rounded to the nearest 25,000 ADA to abide by the challenge setting process
-* If the total of the rounded values is less than or exceeds the total value then the numbers that were rounded up the most get rounded down so that the total matches the fund size
+* First the exact percentage is calculated by getting the average from all the voting percentages for each category
+* Next the exact ADA allocated value is calculated using that exact percentage
+* The values are then rounded to the nearest 25,000 ADA to abide by the challenge setting process criteria
+* If the total of the rounded values is less than or exceeds the total funding value available then the numbers that were rounded up or down the most get rounded down or up respectively so that the total number from every category allocation matches the exact fund size
 
 
 

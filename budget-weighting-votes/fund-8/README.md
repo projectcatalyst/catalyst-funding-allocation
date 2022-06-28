@@ -6,7 +6,7 @@ description: >-
 
 # Fund 8
 
-**COMPLETED** - The vote has been completed and the [voting results](fund-8-voting-results.md) have been recorded and shared with the community.&#x20;
+**COMPLETED** - The vote has been completed and the [voting results](voting-results-fund-8.md) have been recorded and shared with the community.&#x20;
 
 ## Overview
 

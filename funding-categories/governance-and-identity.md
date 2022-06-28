@@ -16,7 +16,7 @@ What tools, processes and research will improve how we integrate governance or i
 
 **Why is it important?**
 
-Cardano needs effective governance & identity tools, processes, and experiments to make it easier to develop and scale community led solutions
+Cardano needs effective governance & identity tools, processes and experiments to make it easier to develop and scale community solutions
 
 **What does success look like?**
 

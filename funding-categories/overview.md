@@ -70,7 +70,7 @@ Development & Infrastructure focuses on proposals that will help improve and mai
 
 Nurturing Ideas & Teams is about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget for proposals which helps to increase the number and diversity of teams and ideas that can be funded.
 
-**=>** [**Read the Nurturing Ideas & Teams brief**](nurturing-ideas-and-teams.md)
+**=>** [**Read the Nurturing Ideas & Teams brief**](../experimental-categories/nurturing-ideas-and-teams.md)
 
 ****
 

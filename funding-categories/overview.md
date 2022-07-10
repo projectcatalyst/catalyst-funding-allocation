@@ -10,11 +10,11 @@ Funding categories provide a simpler and far more effective way to do funding ca
 
 ### **Category types**
 
-![](../.gitbook/assets/funding-categories-groupings-light.png)
+![](../.gitbook/assets/funding-categories-groupings-explained.png)
 
-**Idea & Innovation categories**
+**Idea categories**
 
-Any proposal about an idea or innovation can be submitted in these categories. Examples include events, applications, tools, software libraries, community initiative efforts and many others.
+Any proposal with an idea, initiative or innovation can be submitted into these categories. Example ideas could include events, applications, tools, software libraries, community initiative efforts and many others.
 
 
 
@@ -24,9 +24,9 @@ Proposals submitted by people in the community who want to work full time in the
 
 ****
 
-**Experimental categories**
+**Open categories**
 
-Exploration in any new funding categorisation approach to see how it is used so that it can be analysed once used to inform future iterations and improvements.
+Categories that are open to all forms of idea and contributor based proposals. Anything can be submitted that is relevant to Cardano.
 
 ****
 

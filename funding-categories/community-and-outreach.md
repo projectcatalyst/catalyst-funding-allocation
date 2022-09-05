@@ -53,7 +53,7 @@ Community & Outreach is focused on the following important areas:
 
 The community for any decentralized ecosystem is what makes that ecosystem truly valuable.
 
-Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate the community can learn about different people, communities and problems.
+Supporting initiatives that help bring the community together or better collaborate with people outside the community will increase the rate the community can learn about different people, communities, topics, impact areas and problems.
 
 The better that communities form around common goals and missions the easier it will be to find potential new solutions or collaborations that improve both the ecosystem and wider society.
 
@@ -63,19 +63,19 @@ Effective community initiatives will improve how people joining the ecosystem fi
 
 **Types of proposals to include**
 
-* **Online & in person events** - Any Cardano related event that helps bring new or existing community members together around a given topic or cause.
+* **Online & in person events** - Any Cardano related event that helps bring new or existing community members together around a given topic, impact area or good cause. Events could bring people together from different ecosystems.
 * **Hackathons** - Encouraging new projects and teams to form around different development efforts or for potential innovation focus areas.
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.
-* **Demos** - Demo tutorials, videos and content showcasing Cardano functionality or DApp features that will help newcomers learn about Cardano and the wider ecosystem.
 * **Impact or topic based communities** - Support for resources, discussion, events or other initiatives led by communities focussed on different topics or high impact areas within the ecosystem. Topic and impact areas could be about legal, finance, gaming, adoption, the environment or anything else that helps bring the community together around different missions or shared values. Communities should be related to the Cardano ecosystem.
+* **Demos** - Demo tutorials, videos and content showcasing Cardano functionality or DApp features that will help newcomers learn about Cardano and the wider ecosystem.
 * **Interviews & podcasts** - Recorded interviews and podcasts with community members and project teams to showcase news and latest developments.
 * **Community hubs** - Education, awareness and support based community hubs in different countries internationally.
 * **Workshops & courses** - Educational workshops and courses that help people learn about what can is available in the Cardano ecosystem that they could use or participate in.
 * **Nurturing culture** - Initiatives that help with establishing and nurturing a collaborative and open culture within Cardano related communities.
 * **Proposer outreach** - Outreach approaches to help increase the number of quality proposals submitted into each funding round.
 * **Translation support** - Support for translating core resources both in the ecosystem or for DApp projects that would help to engage more of the international community.
-* **Ecosystem education** - Guides and resources about the wider Cardano ecosystem, communities and projects that make it easier for people to understand how to participate and use available solutions.
+* **Ecosystem education** - Guides and resources about the wider Cardano ecosystem, concepts, communities and projects that make it easier for the end user and community members to better understand how to participate and benefit from the ecosystem.
 
 ****
 
@@ -98,6 +98,13 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 * **Ecosystem education** - Number of viewers or participants of education resource, testimonies on the quality of the resources made from community feedback.
 
 
+
+**Category guidelines**
+
+* **Type of events** - Any community wide event that brings people together around topics or impact areas. Events could also focus on a specific area of the ecosystem like DeFi solutions. Any event looking to promote their own product or integration should submit the proposal in the Products & Integrations category instead.
+* **Content creation** - Proposals focussed on content creation such as demos, interviews, podcasts, videos or articles should be for entertainment or educational purposes around an area, topic or solutions rather than being promotional content for a single product or integration. If proposers do want to just promote their own product or integration then this should be proposed in the Products & Integrations category instead.
+
+****
 
 **Considerations for proposers**
 

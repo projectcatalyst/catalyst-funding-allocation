@@ -53,6 +53,8 @@ Cardano needs a thriving ecosystem of different products and integrations for th
 
 The more interesting and useful the products and integrations are in the ecosystem the more reasons people have to interact with the Cardano blockchain that can help further drive more adoption, feedback and further innovation.
 
+This category focusses on solutions aimed at the end user.
+
 
 
 **Types of proposals to include**
@@ -70,6 +72,7 @@ The more interesting and useful the products and integrations are in the ecosyst
 * **Mediation**
 * **Wallets**
 * **Legal**
+* **Metaverse**
 * **Business solutions** - Software products, data management, process management, data management solutions (CRM, ERP etc), privacy products**.**
 * **Artificial intelligence**
 * **Many others** - Any other idea, product or integration that someone thinks should be built on Cardano!
@@ -93,8 +96,17 @@ This list is not exhaustive but provides some ideas for proposers to consider.
 * **Mediation** - Total completed mediations&#x20;
 * **Wallets** - Total number of users, number of DApp integrations
 * **Legal** - Total time or value saved for end users in meeting local regulations
+* **Metaverse** - Total number of users, number of meaningful interactions, number of use case integrations
 * **Business solutions** - Total number of organisations using solutions, total time or value saved for end users
 * **Many others** - Proposers can add in whatever metrics or success criteria make sense for their own project!
+
+
+
+**Category guidelines**
+
+* **Scope of execution** - Proposals can cover any part of the product or integration development lifecycle. This means proposals could include work on areas such as research & analysis, planning, design, MVP creation, application implementation, marketing efforts and also events, demos or educational content about the product or integration they are developing. Proposals are welcome to focus on one or all of these areas of scope for their product or integration.
+* **Cross chain integration** - Cardano solutions looking to go cross chain should consider funding sources from other ecosystems but can also submit proposals in this category. The community will ultimately decide whether for that product they want to see the cross chain integration!
+* **Open source** - Product and integration applications are encouraged to be open source to most benefit the ecosystem. Being open source is not a requirement - it is just encouraged.
 
 
 

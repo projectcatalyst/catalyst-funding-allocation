@@ -101,7 +101,7 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 
 **Category guidelines**
 
-* **Type of events** - Any community wide event that brings people together around topics or impact areas. Events could also focus on a specific area of the ecosystem like DeFi solutions. Any event looking to promote their own product or integration should submit the proposal in the Products & Integrations category instead.
+* **Type of events** - Any community wide event that brings people together around topics or impact areas. Events could also focus on a specific area of the ecosystem like DeFi solutions. Any event looking to just promote their own product or integration should submit the proposal in the Products & Integrations category instead.
 * **Content creation** - Proposals focussed on content creation such as demos, interviews, podcasts, videos or articles should be for entertainment or educational purposes around an area, topic or solutions rather than being promotional content for a single product or integration. If proposers do want to just promote their own product or integration then this should be proposed in the Products & Integrations category instead.
 
 ****

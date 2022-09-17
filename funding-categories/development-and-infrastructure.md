@@ -69,6 +69,8 @@ The higher quality and more thorough the developer ecosystem and infrastructure 
 * **Technical standards** - Creation and improvement of standards used within the ecosystem that help to improve the overall quality of software deployed.
 * **Blockchain interoperability** - Research, software or any other useful initiatives that help increase the interoperability of Cardano with other blockchain systems
 * **Research & development** - Research and development on new novel approaches that could be used in the Cardano ecosystem. This could include areas such as security, scalability or interoperability.
+* **Events** - Any events or meet ups that are about any of the focus areas in this development and infrastructure category.
+* **Hackathons** - Hackathons aimed at helping improve the development and infrastructure tools, software and resources available in the ecosystem.
 
 ****
 
@@ -84,6 +86,8 @@ The higher quality and more thorough the developer ecosystem and infrastructure 
 * **Technical standards** - Increase in any security thresholds for new applications, Increases in performance achievable by applications.
 * **Blockchain interoperability** - Increase in number of chains or applications used between multiple chains, research papers completed, innovations in bridging technology or for any other areas of improvement.
 * **Research & development** - Number of projects utilising new novel approaches to development or node operation, number of new standards created due to research efforts.
+* **Events** - Number of locations covered, number of attendees, open feedback from attendees about the event.
+* **Hackathons** - Number of projects created, number of novel solutions, number of teams formed, number of projects initiated that continue after the hackathon.
 
 
 

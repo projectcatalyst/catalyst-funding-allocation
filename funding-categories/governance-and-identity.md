@@ -76,6 +76,8 @@ It's also time to enact and do governance through experiments and trials and sha
 * **Governance research** - Research and analysis projects that will help improve how the community can approach governance such as decision making, voter participation or voting models. This can include exploring existing or new governance models that could improve how the community approaches distributed governance.&#x20;
 * **Governance & identity education** - Demos, guides, videos, presentations or documentation as education resources about the different governance and identity tools, libraries and processes available in the ecosystem.&#x20;
 * **Governance in action** - Groups and communities forming governance groups to find better ways of problem sensing, collaborating, and making decisions. Taking research and theory into practice and running real experiments in community governance. Example experiments could cover sociocracy, holacracy, human behavior, governance strategies, consensus-building mechanisms, voting (e.g. Quadratic voting), on-chain voting or reputation building.
+* **Events** - Any events or meet ups that are about any of the focus areas in this governance and identity category.
+* **Hackathons** - Hackathons aimed at helping improve the governance and identity tools, software and resources available in the ecosystem.
 
 
 
@@ -94,6 +96,8 @@ This list is not exhaustive but does provide some ideas for proposers to conside
 * **Governance research** - Number of citations, number of projects utilising research or analysis in their execution.&#x20;
 * **Governance & identity education** - Number of viewers or participants of education resources, testimonies on the quality of the resources made from community feedback.&#x20;
 * **Governance in action** - Number of participants involved and shared lessons learnt or hypotheses answered through community initiatives and experiments.
+* **Events** - Number of locations covered, number of attendees, open feedback from attendees about the event.
+* **Hackathons** - Number of projects created, number of novel solutions, number of teams formed, number of projects initiated that continue after the hackathon.
 
 
 

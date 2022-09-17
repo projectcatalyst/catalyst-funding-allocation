@@ -63,8 +63,8 @@ Effective community initiatives will improve how people joining the ecosystem fi
 
 **Types of proposals to include**
 
-* **Online & in person events** - Any Cardano related event that helps bring new or existing community members together around a given topic, impact area or good cause. Events could bring people together from different ecosystems.
-* **Hackathons** - Encouraging new projects and teams to form around different development efforts or for potential innovation focus areas.
+* **Events** - Any Cardano related online or in person event that helps bring new or existing community members together around a given topic, impact area or good cause. Events could bring people together from different ecosystems.
+* **Hackathons** - Solution building hackathons looking at how to bring together new projects and teams to explore new areas for potential innovation.
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.
 * **Impact or topic based communities** - Support for resources, discussion, events or other initiatives led by communities focussed on different topics or high impact areas within the ecosystem. Topic and impact areas could be about legal, finance, gaming, adoption, the environment or anything else that helps bring the community together around different missions or shared values. Communities should be related to the Cardano ecosystem.
@@ -83,7 +83,7 @@ Effective community initiatives will improve how people joining the ecosystem fi
 
 This list is not exhaustive but does provides some ideas for proposers to consider.
 
-* **Online & in person events** - Number of locations covered, number of attendees, open feedback from attendees about the event.
+* **Events** - Number of locations covered, number of attendees, open feedback from attendees about the event.
 * **Hackathons** - Number of projects created, number of novel solutions, number of teams formed, number of projects initiated that continue after the hackathon.
 * **Public outreach** - Number of advertisement or content views, number of call to action conversions, percentage increase in traffic for targeted ecosystem sites.
 * **Government outreach & engagement** - Number of outcome goals achieved from collaboration, number of new supporting government body members.
@@ -101,7 +101,7 @@ This list is not exhaustive but does provides some ideas for proposers to consid
 
 **Category guidelines**
 
-* **Type of events** - Any community wide event that brings people together around topics or impact areas. Events could also focus on a specific area of the ecosystem like DeFi solutions. Any event looking to just promote their own product or integration should submit the proposal in the Products & Integrations category instead.
+* **Type of events** - Any community wide event that brings people together around topics or impact areas. Events could also focus on a specific area of the ecosystem like DeFi solutions. Any event looking to just promote their own product or integration should submit the proposal in the Products & Integrations category instead. Events or hackathons targeting the focus areas included in the Governance & Identity or Development & Infrastructure categories should be submitted in those categories.
 * **Content creation** - Proposals focussed on content creation such as demos, interviews, podcasts, videos or articles should be for entertainment or educational purposes around an area, topic or solutions rather than being promotional content for a single product or integration. If proposers do want to just promote their own product or integration then this should be proposed in the Products & Integrations category instead.
 
 ****

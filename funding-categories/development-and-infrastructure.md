@@ -26,7 +26,7 @@ Innovation in tools, software or research that support how developers build appl
 
 Tracking success for this category will mean:
 
-* Increasing the number or quality of tools and software that improve areas such as running nodes for SPOs, Plutus & IELE development or native asset development.
+* Increasing the number or quality of tools and software that improve areas such as running nodes for SPOs, Plutus development or native asset development.
 * Increasing the scalability of Cardano through the introduction of solutions that could in the form of research, layer 2 solutions or integrations of existing solutions.
 * Increase the number or quality of the standards, resources and research that make it easier for node operators and developers to understand the ecosystem and to improve the overall quality of the software being delivered across the ecosystem.
 
@@ -77,7 +77,7 @@ The higher quality and more thorough the developer ecosystem and infrastructure 
 **Potential success metrics for proposal types**
 
 * **Node & SPO tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
-* **Plutus and IELE tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
+* **Plutus tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Native asset tools & software** - Amount of adoption from other projects, metrics around any scalability, security or cost improvements.
 * **Data oracles, indexers & explorers** - Amount of adoption, reliability or availability of new data sources or number of ways to interact with both blockchain and real world data.
 * **Scalability research & solutions** - Total transactions per second achievable, increases in transaction efficiency achieved, security guarantees achieved.

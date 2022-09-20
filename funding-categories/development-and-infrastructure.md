@@ -60,7 +60,7 @@ The higher quality and more thorough the developer ecosystem and infrastructure 
 **Types of proposals to include**
 
 * **Node & SPO tools & software** - Development tools, scripts, libraries and SDKs that helps the SPO community more easily start and run their Cardano nodes or other ecosystem infrastructure.
-* **Plutus and IELE tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain. IELE is currently not yet released to the wider community.
+* **Plutus tools & software** - Development tools, libraries and SDKs that helps developers more easily write and deploy smart contracts onto the Cardano blockchain.
 * **Native asset tools & software** - Development tools, libraries and SDKs to improve how the community and developers can issue and manage native assets.&#x20;
 * **Data oracles, indexers & explorers** - Tools and software that integrate real world data into Cardano or that make existing Cardano data more easy to use and accessible
 * **Scalability research & solutions** - Rollups (e.g. zero knowledge rollups, optimistic rollups), sharding, state channels, zero knowledge proofs, side chains. This includes and tools or software for using Hydra heads.

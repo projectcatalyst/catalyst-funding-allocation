@@ -63,7 +63,7 @@ Effective community initiatives will improve how people joining the ecosystem fi
 
 **Types of proposals to include**
 
-* **Events** - Any Cardano related online or in person event that helps bring new or existing community members together around a given topic, impact area or good cause. Events could bring people together from different ecosystems.
+* **Community events** - Any Cardano related online or in person event that helps bring new or existing community members together around a given topic, impact area or good cause. Events could bring people together from different ecosystems.
 * **Hackathons** - Solution building hackathons looking at how to bring together new projects and teams to explore new areas for potential innovation.
 * **Public outreach** - Proposals for any marketing approaches that can help drive further adoption of the ecosystem.
 * **Government outreach & engagement** - Outreach and meetings with government officials that help to drive awareness and policy improvements.

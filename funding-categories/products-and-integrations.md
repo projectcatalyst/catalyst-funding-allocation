@@ -112,6 +112,7 @@ This list is not exhaustive but provides some ideas for proposers to consider.
 
 **Considerations for proposers**
 
+* **High competitiveness of this category** - If proposers are finding this category highly competitive then there is an opportunity to identify what software components for their product or integration could be open sourced. Open source solutions that benefit the community will be relevant for either the Governance & Identity or Development & Infrastructure categories.
 * **Existing products or integrations** - What products or integrations already exist in the ecosystem? What are the core differences between the proposal being presented and those existing ones and why will that provide impact to the ecosystem?
 * **Technical requirements** - Does the Cardano ecosystem have the right tools, libraries and SDKs for the idea to be feasible? What needs to be introduced or improved for the proposal to fully reach its potential?
 * **Ecosystem maturity requirements** - Why is this product or integration suitable for execution right now? Are there enough pieces of infrastructure, applications or other integrations available that would be needed for this suggested proposal to have a strong chance of gaining adoption? For instance, if you were making a professional social network DApp, do the right identity tools and wallets exist to make a professional network feasible?

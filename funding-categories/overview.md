@@ -10,7 +10,7 @@ Funding categories provide a simpler and far more effective way to do funding ca
 
 ### **Category types**
 
-![](../.gitbook/assets/funding-categories-groupings-explained.png)
+<figure><img src="../.gitbook/assets/funding-categories-groupings-explained.png" alt=""><figcaption></figcaption></figure>
 
 **Idea categories**
 

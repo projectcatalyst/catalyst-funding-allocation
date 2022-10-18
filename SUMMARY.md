@@ -41,6 +41,6 @@
 
 ## 🔗 Links
 
-* [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
+* [Funding Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/)
 * [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
 * [Suggest Changes & Give Feedback](https://docs.catalystcontributors.org/documentation/suggest-changes-and-give-feedback)

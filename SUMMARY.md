@@ -2,19 +2,18 @@
 
 * [Overview](README.md)
 
-## Funding Categories
+## Idea Funding Categories
 
-* [Overview](funding-categories/overview.md)
-* [Community & Outreach](funding-categories/community-and-outreach.md)
-* [Products & Integrations](funding-categories/products-and-integrations.md)
-* [Governance & Identity](funding-categories/governance-and-identity.md)
-* [Development & Infrastructure](funding-categories/development-and-infrastructure.md)
+* [Community & Outreach](idea-funding-categories/community-and-outreach.md)
+* [Products & Integrations](idea-funding-categories/products-and-integrations.md)
+* [Governance & Identity](idea-funding-categories/governance-and-identity.md)
+* [Development & Infrastructure](idea-funding-categories/development-and-infrastructure.md)
+* [Nurturing Ideas & Teams](idea-funding-categories/nurturing-ideas-and-teams.md)
+
+## Contributor Funding Categories
+
 * [Catalyst Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/)
 * [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)
-
-## Experimental Categories
-
-* [Nurturing Ideas & Teams](experimental-categories/nurturing-ideas-and-teams.md)
 * [Community Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)
 
 ## Community Discussion
@@ -30,7 +29,6 @@
   * [Budget Weighting Considerations](budget-weighting-votes/fund-9/budget-weighting-considerations.md)
   * [Fund 9 Voting Results](budget-weighting-votes/fund-9/fund-9-voting-results.md)
 * [Fund 8](budget-weighting-votes/fund-8/README.md)
-  * [Voter Check List](budget-weighting-votes/fund-8/voter-check-list.md)
   * [Voter FAQ](budget-weighting-votes/fund-8/voter-faq.md)
   * [Budget Weighting Considerations](budget-weighting-votes/fund-8/budget-weighting-considerations.md)
   * [Vote Meeting (Monday 14th March)](budget-weighting-votes/fund-8/vote-meeting-monday-14th-march.md)

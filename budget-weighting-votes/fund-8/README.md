@@ -18,8 +18,6 @@ This is a fund 8 vote for setting the budgets of the funding categories that hav
 
 \=> [**Voter** **FAQ**](voter-faq.md) - Common questions answered about this vote
 
-\=> [**Voter Check List**](voter-check-list.md) - The documents voters should read before voting
-
 \=> [**Vote Meeting (Monday 14th March)**](vote-meeting-monday-14th-march.md) **-** Main meeting with anonymous voting
 
 **=>** [**Back up vote (Async)**](back-up-vote-async.md) **** - Process for voting asynchronously only when required
@@ -36,7 +34,7 @@ The following is the two budget weighting decisions for this community vote.
 
 ****
 
-**Question** - What percentage should the total allocation be for all of the seven broad [funding categories](../../funding-categories/overview.md) be out of the total funding available for fund 9?&#x20;
+**Question** - What percentage should the total allocation be for all of the seven broad [funding categories](broken-reference) be out of the total funding available for fund 9?&#x20;
 
 The remaining percentage would be what is available for other challenge setting proposals. For example 80% allocation to funding categories would mean 20% allocation for other challenge settings.
 

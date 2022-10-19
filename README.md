@@ -6,6 +6,8 @@ description: >-
 
 # Overview
 
+
+
 Funding categories were creating to create a simple and effective solution for doing funding categorisation for the Catalyst funding process. Funding categories were created as a result of the [funding categorisation analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/).
 
 
@@ -27,12 +29,6 @@ Any proposal with an idea, initiative or innovation can be submitted into these 
 **Contributor categories**
 
 Proposals submitted by people in the community who want to work full time in the ecosystem to support and improve the ecosystem.
-
-****
-
-**Open categories**
-
-Categories that are open to all forms of idea and contributor based proposals. Anything can be submitted that is relevant to Cardano.
 
 ****
 

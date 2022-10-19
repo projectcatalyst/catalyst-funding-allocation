@@ -8,7 +8,7 @@ description: >-
 
 ![](../.gitbook/assets/experimental-categories.png)
 
-Nurturing Ideas & Teams is an [experimental category](https://docs.catalystcontributors.org/funding-categorisation-analysis/experimental-categories-analysis/nurturing-ideas-and-team-category). It will need to be analysed once used to determine the overall impact of the category. Based on these learnings the category can either be removed or further refined if it creates sufficient impact.
+Nurturing Ideas & Teams is an [experimental category](https://docs.catalystcontributors.org/idea-categorisation-analysis/experimental-categories-analysis/nurturing-ideas-and-team-category). It will need to be analysed once used to determine the overall impact of the category. Based on these learnings the category can either be removed or further refined if it creates sufficient impact.
 
 
 

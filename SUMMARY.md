@@ -16,9 +16,11 @@
 * [Cardano Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)
 * [Community Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)
 
-## Community Discussion
+## Questions And Discussion
 
-* [Discussion](community-discussion/discussion.md)
+* [Community Discussion](questions-and-discussion/community-discussion.md)
+* [FAQs](questions-and-discussion/faqs/README.md)
+  * [Using Both Categories & Challenges](questions-and-discussion/faqs/using-both-categories-and-challenges.md)
 
 ## Budget Weighting Votes
 

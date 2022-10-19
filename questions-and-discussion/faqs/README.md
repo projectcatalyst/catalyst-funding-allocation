@@ -8,7 +8,7 @@ description: >-
 
 **Who has control over maintaining these categories?**&#x20;
 
-Catalyst contributors once initiated would be a suitable elected group of community members to maintain and improve these Catalyst funding categories. Catalyst contributors should host and manage this GitBook themselves.
+Elected and accountable community members would be a one approach to maintain and continue work on funding categorisation over the long term. Catalyst contributors as a category if initiated offers one solution. This work is completely open source however an elected group of community members like Catalyst contributors could host and manage this GitBook themselves.
 
 ****
 

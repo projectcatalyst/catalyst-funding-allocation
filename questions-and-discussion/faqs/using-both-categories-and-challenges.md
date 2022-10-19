@@ -37,7 +37,7 @@ The following looks to compare why the community may choose to use just categori
 * ****[**Broad categorisation disadvantages**](https://docs.catalystcontributors.org/idea-categorisation-analysis/categorisation-approaches/broad-vs-specific-categorisations) - Using just broad categories would mean getting all the disadvantages that are outlined in the analysis of the implications of broad categorisation. Those disadvantages include:
   * **Lower precision for directing funding** - Solving this issue is covered in [approaches for directing funding](https://docs.catalystcontributors.org/idea-categorisation-analysis/idea-categorisation-analysis/approaches-for-directing-funding)
   * **Lower proposal visibility** - Solving this issue is covered in [approaches for directing funding](https://docs.catalystcontributors.org/idea-categorisation-analysis/idea-categorisation-analysis/approaches-for-directing-funding)
-  * **Increased funding difficulty for smaller teams** - Solving this issue can be supported by a category for [nurturing ideas](../../idea-funding-categories/nurturing-ideas-and-teams.md) and also is helped by more [approaches for directing funding](https://docs.catalystcontributors.org/idea-categorisation-analysis/idea-categorisation-analysis/approaches-for-directing-funding)
+  * **Increased funding difficulty for smaller teams** - Solving this issue can be supported by a category for [nurturing ideas](../../idea-categories/nurturing-ideas-and-teams.md) and also is helped by more [approaches for directing funding](https://docs.catalystcontributors.org/idea-categorisation-analysis/idea-categorisation-analysis/approaches-for-directing-funding)
 
 ****
 

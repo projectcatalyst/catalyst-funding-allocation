@@ -6,29 +6,23 @@ description: >-
 
 # Overview
 
-
-
 Funding categories were creating to create a simple and effective solution for doing funding categorisation for the Catalyst funding process. Funding categories were created as a result of the [funding categorisation analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/).
 
 
 
 Funding categories were created to be a simpler and effective way to do funding categorisation. Idea funding categories are broad, inclusive, recurring and unique - they allow for any type of idea to be submitted.
 
-![](.gitbook/assets/funding-categories-updated.png)
-
-### **Category types**
-
-<figure><img src=".gitbook/assets/funding-categories-groupings-explained.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/funding-categories.png" alt=""><figcaption></figcaption></figure>
 
 **Idea categories**
 
-Any proposal with an idea, initiative or innovation can be submitted into these categories. Example ideas could include events, applications, tools, software libraries, community initiative efforts and many others.
+Categories that allow ideas to be submitted as proposals. Example ideas could include events, applications, tools, software libraries, community initiative efforts and many others.
 
 
 
 **Contributor categories**
 
-Proposals submitted by people in the community who want to work full time in the ecosystem to support and improve the ecosystem.
+Proposals submitted by people in the community who are looking to be paid to work in the ecosystem to support, maintain improve different areas of the ecosystem.
 
 ****
 
@@ -91,6 +85,14 @@ Nurturing Ideas & Teams is about exploring how we can help to foster growth for 
 **=>** [**Read the Cardano Contributors category brief**](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)****
 
 ****
+
+**Community Contributors**
+
+[Community contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/) is an experimental category for people who are looking to work in the wider Cardano ecosystem and support, maintain and improve initiatives happening in the community that help to produce impact for the ecosystem.
+
+\=> [**Read the Community Contributors category brief**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)****
+
+
 
 **Catalyst Natives**
 

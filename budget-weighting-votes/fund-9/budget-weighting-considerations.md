@@ -16,11 +16,11 @@ The following are suggestions to consider when voting on the budget weightings t
 
 If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
 
-![Funding categories proximity to Cardano blockchain](<../../.gitbook/assets/funding-category-proximity-to-blockchain (1).png>)
+<figure><img src="../../.gitbook/assets/funding-category-proximity-to-blockchain (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### Cardano Contributors
+### Infrastructure Contributors
 
 **Reasons for a larger budget weighting**
 

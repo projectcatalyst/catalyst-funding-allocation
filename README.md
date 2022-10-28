@@ -6,29 +6,26 @@ description: >-
 
 # Overview
 
-Funding categories were creating to create a simple and effective solution for doing funding categorisation for the Catalyst funding process. Funding categories were created as a result of the [funding categorisation analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/).
+Funding categories were created to find a more simple and effective solution for doing funding categorisation within the Catalyst funding process.
 
 
 
-Funding categories were created to be a simpler and effective way to do funding categorisation. Idea funding categories are broad, inclusive, recurring and unique - they allow for any type of idea to be submitted.
-
-<figure><img src=".gitbook/assets/funding-categories.png" alt=""><figcaption></figcaption></figure>
-
-**Idea categories**
-
-Categories that allow ideas to be submitted as proposals. Example ideas could include events, applications, tools, software libraries, community initiative efforts and many others.
+The following funding categories have been created based off the [funding categorisation analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vZLnuW1KMXXsbdPSzee1/). The analysis helped in identifying effective approaches to use for different types of funding categorisations. For idea categorisations this resulted in suggesting categorisations that leant towards being broad, inclusive, recurring and unique. For contributor categorisations this meant suggested categorisations that elected individuals, that would work full time for the ecosystem and that use fluid team structures, skill based roles, self determined budgets and term based working arrangements.
 
 
 
-**Contributor categories**
+Category types in the list below below include:
 
-Proposals submitted by people in the community who are looking to be paid to work in the ecosystem to support, maintain improve different areas of the ecosystem.
+* **Idea categories** - Categories which allow ideas to be submitted as proposals. Example ideas could include events, applications, tools, software libraries, community initiative efforts and many others.
+* **Contributor categories** - Categories that allow people to work in the ecosystem to support, maintain and improve a certain areas in the ecosystem. People submit proposals about themselves, their professional background and any contributions made to the ecosystem to then be considered by the community who will then elect people to become contributors.
 
-****
+
 
 ### **Funding categories list**
 
-****
+The following funding categories are not currently adopted and are just suggestions. Some or all of them could be adopted at some point in the future for the Catalyst funding process.&#x20;
+
+<figure><img src=".gitbook/assets/funding-categories (1).png" alt=""><figcaption></figcaption></figure>
 
 **Community & Outreach**
 
@@ -72,25 +69,25 @@ Nurturing Ideas & Teams is about exploring how we can help to foster growth for 
 
 **Catalyst Contributors**
 
-[Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/) help with people who want to be paid to become a full time contributor in the Catalyst ecosystem to support and improve the Catalyst ecosystem. This can include helping with development, coordination, analysis, QA & auditing, marketing, product or design.
+****[**Catalyst contributors**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/) help with people who want to be paid to become a full time contributor in the Catalyst ecosystem to support and improve the Catalyst ecosystem. This can include helping with development, coordination, analysis, QA & auditing, marketing, product or design.
 
-**=>** [**Read the Catalyst Contributors category brief**](https://catalyst-swarm.gitbook.io/catalyst-contributors/category-proposal/fund-8)****
+**=>** [**Read the Catalyst Contributors category brief**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/j1kv4hiNJHn5g0WEyrK5/)****
+
+****
+
+**Infrastructure Contributors**
+
+****[**Infrastructure contributors**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/) is for people who want to be paid to work as full time contributors in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use.
+
+**=>** [**Read the Infrastructure Contributors category brief**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/)****
 
 ****
 
 **Cardano Contributors**
 
-[Cardano contributors](https://catalyst-swarm.gitbook.io/cardano-contributors/) is for people who want to be paid to work as full time contributors in the Cardano ecosystem. This includes those who want to help support improving the stake pool ecosystem and the Cardano developer ecosystem. Contributors would help analyse, coordinate or develop tools, libraries and SDKs for the ecosystem to use.
+****[**Cardano contributors**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/) is an experimental category for people who are looking to work in the wider Cardano ecosystem and support, maintain and improve initiatives happening in the community that help to produce impact for the ecosystem.
 
-**=>** [**Read the Cardano Contributors category brief**](https://catalyst-swarm.gitbook.io/cardano-contributors/category-proposal/fund-8)****
-
-****
-
-**Community Contributors**
-
-[Community contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/) is an experimental category for people who are looking to work in the wider Cardano ecosystem and support, maintain and improve initiatives happening in the community that help to produce impact for the ecosystem.
-
-\=> [**Read the Community Contributors category brief**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)****
+\=> [**Read the Cardano Contributors category brief**](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/2eMNRBUQ0glQkTBdpRi2/)****
 
 
 

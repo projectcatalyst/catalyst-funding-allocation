@@ -93,10 +93,10 @@ If the fund 9 total budget was $32 million and the community voted for 70% total
 * **Community & Outreach**
 * **Products & Integrations**
 * **Governance & Identity**
+* **Development & Infrastructure**
 * **Catalyst Contributors**
-* **Development & Node Operation**
-* **Cardano Contributors**
-* **Nurturing Ideas & Teams**
+* **Infrastructure Contributors**
+* **Small & Early Stage Ideas**
 
 ****
 
@@ -110,9 +110,9 @@ If the total funding allocation was $22,400,000, as per this first decision exam
 | Products & Integrations      | 20         | $4,480,000                |
 | Governance & Identity        | 20         | $4,480,000                |
 | Catalyst Contributors        | 7          | $1,568,000                |
-| Development & Node Operation | 25         | $5,600,000                |
-| Cardano Contributors         | 6          | $1,344,000                |
-| Nurturing Ideas & Teams      | 7          | $1,568,000                |
+| Development & Infrastructure | 25         | $5,600,000                |
+| Infrastructure Contributors  | 6          | $1,344,000                |
+| Small & Early Stage Ideas    | 7          | $1,568,000                |
 
 **NOTE**: The above example amounts would be rounded to the closest $25,000 as this is required in the funding process.
 

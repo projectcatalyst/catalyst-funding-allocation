@@ -8,7 +8,7 @@
 * [Products & Integrations](idea-funding-categories/products-and-integrations.md)
 * [Governance & Identity](idea-funding-categories/governance-and-identity.md)
 * [Development & Infrastructure](idea-funding-categories/development-and-infrastructure.md)
-* [Nurturing Ideas & Teams](idea-funding-categories/nurturing-ideas-and-teams.md)
+* [Small & Early Stage Ideas](idea-categories/small-and-early-stage-ideas.md)
 
 ## Contributor Categories
 

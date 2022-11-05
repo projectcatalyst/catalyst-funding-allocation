@@ -1,14 +1,14 @@
 ---
 description: >-
-  Nurturing ideas & teams aims to support, grow and diversify the ideas and
-  teams that exist in the ecosystem
+  Small & early stage ideas aims to support and nurture a diversity of ideas in
+  the ecosystem
 ---
 
-# Nurturing Ideas & Teams
+# Small & Early Stage Ideas
 
 ![](../.gitbook/assets/experimental-categories.png)
 
-Nurturing Ideas & Teams is an [experimental category](https://docs.catalystcontributors.org/idea-categorisation-analysis/experimental-categories-analysis/nurturing-ideas-and-team-category). It will need to be analysed once used to determine the overall impact of the category. Based on these learnings the category can either be removed or further refined if it creates sufficient impact.
+Small & early stage ideas is an [experimental category](https://docs.catalystcontributors.org/idea-categorisation-analysis/experimental-categories-analysis/nurturing-ideas-and-team-category). It will need to be analysed once used to determine the overall impact of the category. Based on these learnings the category can either be removed or further refined if it creates sufficient impact.
 
 
 
@@ -16,7 +16,7 @@ Nurturing Ideas & Teams is an [experimental category](https://docs.catalystcontr
 
 **Category Title**
 
-Nurturing Ideas & Teams
+Small & Early Stage Ideas
 
 **Category question**
 
@@ -48,7 +48,7 @@ Individual success metrics are added for the different types of proposal in the 
 
 **Overview**
 
-Nurturing Ideas is focused on the following important areas:
+Small & early stage ideas is focused on the following important areas:
 
 * New and existing ideas that can benefit from a smaller budget to nurture their initial exploration and growth efforts.
 * Support of new teams joining the ecosystem looking for some initial capital to start off their project.&#x20;
@@ -59,9 +59,9 @@ Nurturing Ideas is focused on the following important areas:
 
 The ecosystem needs to have a way to easily introduce and nurture new and existing ideas that could provide impact to the ecosystem.
 
-Having a category focussed on nurturing ideas can help to ensure that there is always exploration of new ideas, processes and approaches that could benefit the ecosystem.&#x20;
+Having a category focussed on supporting smaller or early stage ideas can help to ensure that there is always exploration of new ideas, processes and approaches that could benefit the ecosystem.&#x20;
 
-Nurturing ideas & teams is a category that applies a cap to the amount of funding a proposal can request. This provides a less competitive environment for teams to find initial funding to nurture their growth and evolution.
+Small & early stage ideas is a category that applies a cap to the amount of funding a proposal can request. This provides a less competitive environment for teams to find initial funding to nurture their growth and evolution.
 
 This category can be seen as an on ramp for new ideas and teams for trying out something to then show the community what they are capable of achieving.
 
@@ -83,7 +83,7 @@ Proposers should clearly identify what problem they are trying to solve, how the
 
 **Proposal maximum budget**
 
-The maximum proposal budget that can be requested is $40,000.&#x20;
+The maximum proposal budget that can be requested is $25,000.&#x20;
 
 ****
 

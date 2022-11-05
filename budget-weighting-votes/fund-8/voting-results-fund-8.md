@@ -16,9 +16,9 @@ description: Results for the fund 8 budget weighting vote
 * **Products & Integrations** - 21%
 * **Governance & Identity** - 16%
 * **Catalyst Contributors** - 11%
-* **Development & Node Operation** - 21%&#x20;
-* **Cardano Contributors** - 8%
-* **Nurturing Ideas & Teams** - 9%
+* **Development & Infrastructure** - 21%&#x20;
+* **Infrastructure Contributors** - 8%
+* **Small & Early Stage Ideas** - 9%
 
 
 
@@ -34,9 +34,9 @@ Total budget weighting allocated to all categories = $16,000,000 x 70% = $11,200
 * **Products & Integrations** - $2,350,000 (unrounded $2,352,000)
 * **Governance & Identity** - $1,800,000 (unrounded $1,792,000)
 * **Catalyst Contributors** - $1,225,000 (unrounded $1,232,000)
-* **Development & Node Operation** - $2,350,000 (unrounded $2,352,000)
-* **Cardano Contributors** - $900,000 (unrounded $896,000)
-* **Nurturing Ideas & Teams** - $1,000,000 (unrounded $1,008,000)
+* **Development & Infrastructure** - $2,350,000 (unrounded $2,352,000)
+* **Infrastructure Contributors** - $900,000 (unrounded $896,000)
+* **Small & Early Stage Ideas** - $1,000,000 (unrounded $1,008,000)
 
 ****
 

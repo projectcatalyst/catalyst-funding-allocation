@@ -101,7 +101,7 @@ If you have some suggestions for other factors to consider for budget weighting 
 
 
 
-### Nurturing Ideas & Teams
+### Small & Early Stage Ideas
 
 **Reasons for a larger budget weighting**
 

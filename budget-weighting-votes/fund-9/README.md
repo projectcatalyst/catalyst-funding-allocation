@@ -54,9 +54,9 @@ This is a fund 9 vote for setting the budgets of the funding categories that are
 * **Products & Integrations**
 * **Governance & Identity**
 * **Development & Infrastructure**
-* **Nurturing Ideas & Teams**
+* **Small & Early Stage Ideas**
 * **Catalyst Contributors**
-* **Cardano Contributors**
+* **Infrastructure Contributors**
 
 ****
 
@@ -82,9 +82,9 @@ Applying some percentages to each category that add up to 100% produces the foll
 | Products & Integrations      | 20         | 2,560,000 ADA              |
 | Governance & Identity        | 20         | 2,560,000 ADA              |
 | Development & Infrastructure | 25         | 3,200,000 ADA              |
-| Nurturing Ideas & Teams      | 6          | 768,000 ADA                |
+| Small & Early Stage Ideas    | 6          | 768,000 ADA                |
 | Catalyst Contributors        | 7          | 896,000 ADA                |
-| Cardano Contributors         | 7          | 896,000 ADA                |
+| Infrastructure Contributors  | 7          | 896,000 ADA                |
 | **Total**                    | **100**    | **12,800,000 ADA**         |
 
 **NOTE**: The amounts in the example above would then need to be rounded to the closest 25,000 ADA. This is currently a required part of the funding process.

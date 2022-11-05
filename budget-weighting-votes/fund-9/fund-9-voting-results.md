@@ -10,9 +10,9 @@ description: Results for the fund 9 budget weighting vote
 * **Products & Integrations** - 3,000,000 ADA
 * **Governance & Identity** - 2,000,000 ADA
 * **Development & Infrastructure** - 2,925,000 ADA
-* **Nurturing Ideas & Teams** - 1,000,000 ADA
+* **Small & Early Stage Ideas** - 1,000,000 ADA
 * **Catalyst Contributors** - 1,100,000 ADA
-* **Cardano Contributors** - 975,000 ADA
+* **Infrastructure Contributors** - 975,000 ADA
 
 **Total**: 12,800,000 ADA
 

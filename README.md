@@ -25,7 +25,7 @@ Category types in the list below below include:
 
 The following funding categories are not currently adopted and are just suggestions. Some or all of them could be adopted at some point in the future for the Catalyst funding process.&#x20;
 
-<figure><img src=".gitbook/assets/funding-categories (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/funding-categories.png" alt=""><figcaption></figcaption></figure>
 
 **Community & Outreach**
 
@@ -59,11 +59,11 @@ Development & Infrastructure focuses on proposals that will help improve and mai
 
 ****
 
-**Nurturing Ideas & Teams**
+**Small & Early Stage Ideas**
 
-Nurturing Ideas & Teams is about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget for proposals which helps to increase the number and diversity of teams and ideas that can be funded.
+Small & Early Stage Ideas is about exploring how we can help to foster growth for ideas and new teams forming in the ecosystem. Any proposal type is welcomed as long as it is about the Cardano ecosystem in someway. There is a $40,000 maximum budget for proposals which helps to increase the number and diversity of teams and ideas that can be funded.
 
-**=>** [**Read the Nurturing Ideas & Teams brief**](idea-funding-categories/nurturing-ideas-and-teams.md)
+**=>** [**Read the Small & Early Stage Ideas brief**](idea-categories/small-and-early-stage-ideas.md)
 
 ****
 

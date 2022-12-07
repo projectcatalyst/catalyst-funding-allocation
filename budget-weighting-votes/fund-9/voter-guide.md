@@ -70,4 +70,4 @@ A discussion between community members will take place prior to the voting perio
 
 **Contact**
 
-If you have any other questions please reach out in the Telegram group - [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories).
+If you have any other questions please reach out in the Telegram group - [https://t.me/cardanopace](https://t.me/cardanopace).

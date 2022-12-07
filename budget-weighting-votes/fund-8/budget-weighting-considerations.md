@@ -14,7 +14,7 @@ The following are suggestions to consider when giving feedback on the budget wei
 
 **Feedback and thoughts**
 
-If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+If you have some suggestions for other factors to consider for budget weighting please send them here and they can get added to the document: [https://t.me/cardanopace](https://t.me/cardanopace)
 
 
 
